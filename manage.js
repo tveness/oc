@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 var activeList=[];
 var row=0;
 var clueListClean=[];
@@ -152,6 +158,7 @@ function update(){
 
 	var c=document.getElementById("container");
 	var allGridCells=document.querySelectorAll(".grid-cell");
+	c.innerHTML="";
 	var count=0;
 	for(var k in data.clues){
 		c.innerHTML+="<div class='tile' id='"+k+"' onClick='tileClicked(this);'>"+data.clues[k]+"</div>";
@@ -167,6 +174,8 @@ function update(){
 		count=count+1;
 
 	}
+	c.onclick=null;
 
 }
-update();
+var cont=document.getElementById("container");
+cont.innerHTML="Click to begin";
