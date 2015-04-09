@@ -84,100 +84,158 @@ backgroud: rgba(238,228,218,0.5); }
   background-color: rgba(40,40,253,0.8);
 }
 .t01{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(221px,0px);
 	transform: translate(221px,0px);
 }
 .t02{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(442px,0px);
 	transform: translate(442px,0px);
 }
 .t03{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(663px,0px);
 	transform: translate(663px,0px);
 }
 .t04{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(784px,0px);
 	transform: translate(784px,0px);
 }
 .t10{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(0px,121px);
 	transform: translate(0px,121px);
 }
 .t20{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(0px,242px);
 	transform: translate(0px,242px);
 }
 
 .t30{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(0px,363px);
 	transform: translate(0px,363px);
 }
 
 .t40{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(0px,484px);
 	transform: translate(0px,484px);
 }
 .t11{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(221px,121px);
 	transform: translate(221px,121px);
 }
 .t12{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(442px,121px);
 	transform: translate(442px,121px);
 }
 .t13{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(663px,121px);
 	transform: translate(663px,121px);
 }
 .t14{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(884px,121px);
 	transform: translate(884px,121px);
 }
 .t21{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(221px,242px);
 	transform: translate(221px,242px);
 }
 .t22{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(442px,242px);
 	transform: translate(442px,242px);
 }
 .t23{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(663px,242px);
 	transform: translate(663px,242px);
 }
 .t24{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(884px,242px);
 	transform: translate(884px,242px);
 }
 .t31{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(221px,363px);
 	transform: translate(221px,363px);
 }
 .t32{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(442px,363px);
 	transform: translate(442px,363px);
 }
 .t33{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(663px,363px);
 	transform: translate(663px,363px);
 }
 .t34{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(884px,363px);
 	transform: translate(884px,363px);
 }
 .t41{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(221px,484px);
 	transform: translate(221px,484px);
 }
 .t42{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(442px,484px);
 	transform: translate(442px,484px);
 }
 .t43{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(663px,484px);
 	transform: translate(663px,484px);
 }
 .t44{
+	transition: transform 0.2s ease;
 	-webkit-transform: translate(884px,484px);
 	transform: translate(884px,484px);
+}
+.timer{
+	font-size: 36px;
+}
+.lives{
+	font-size: 36px;
+}
+
+.ans-cell{
+  width: 206.25px;
+  height: 77.25px;
+  text-decoration: underline;
+  text-align: center;
+  position: absolute;
+}
+.ab0{
+	transition: transform 0.2s ease;
+	-webkit-transform: translate(884px,15px);
+	transform: translate(884px,15px);
+}
+.ab1{
+	transition: transform 0.2s ease;
+	-webkit-trasform: translate(884px,136px);
+	transform: translate(884px,136px);
+}
+.ab2{
+	transition: transform 0.2s ease;
+	-webkit-transform: translate(884px,257px);
+	transform: translate(884px,257px);
+}
+.ab3{
+	transition: transform 0.2s ease;
+	-webkit-transform: translate(884px,378px);
+	transform: translate(884px,378px);
 }

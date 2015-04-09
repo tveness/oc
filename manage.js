@@ -1,15 +1,51 @@
-
-
-
-
-
-
-
+var timer;
 var activeList=[];
 var row=0;
+var lives=3;
 var clueListClean=[];
 var clueListActual=[];
 var nums=[];
+var timeLeft=151;
+var timer;
+
+
+
+
+
+function updateTime(){
+
+	var ti=document.getElementById("time");
+	timeLeft--;
+	var secs="";
+	secs=parseInt(timeLeft%60).toString();
+	if(secs.length<2){
+		secs="0"+secs;
+	}
+
+	var timeInWords=parseInt(timeLeft/60)+":"+secs;
+
+	var frac=parseInt(255*(1-timeLeft/150));
+	var bar='<div style="width:500px;background-color:rgba('+frac+',0,0,0.8);text-align:center">'+timeInWords+'</div>';
+	ti.innerHTML=bar;
+
+	if(timeLeft==0){
+		clearInterval(timer);
+		endGame();
+	}
+
+}
+
+
+
+
+function updateLives(number){
+	var li=document.getElementById("lives");
+	var lifeString="";
+	for(var k=0;k<number;++k){
+		lifeString+="&hearts;";
+	}
+	li.innerHTML=lifeString;
+}
 
 function getCo(a){
 	for(var x=0;x<5;x++){
@@ -47,7 +83,7 @@ function shuffle(array) {
 
 
 
-function solve(){
+function sortCorrect(){
 	for(var k=0;k<activeList.length;k++){
 //		document.getElementById(activeList[k]).innerHTML="SOLVED";
 		document.getElementById(activeList[k]).classList.remove("redden");
@@ -78,7 +114,13 @@ function solve(){
 //		e.innerHTML="TOSWAP2";
 	}
 
-	
+	var ansBox = document.querySelectorAll(".ans-cell")[row];
+
+	var ansStr= "l" + activeList[0].charAt(0);
+//	ansBox.innerHTML=(data["links"])[ansStr];
+	ansBox.contentEditable=true;
+	ansBox.innerHTML="Link";
+	ansBox.classList.add("ab0");
 
 	activeList=[];
 	row+=1;
@@ -117,7 +159,7 @@ function tileClicked(a){
 
 		if(activeList.length>3){
 			if(check(activeList)==activeList.length){
-					solve();
+					sortCorrect();
 
 			}
 			else{
@@ -126,6 +168,14 @@ function tileClicked(a){
 					document.getElementById(activeList[k]).classList.add("unredden");
 					document.getElementById(activeList[k]).classList.remove("redden");
 				}
+				if(row>1){
+					lives--;
+					updateLives(lives);
+				}
+				if(lives==0){
+					endGame();
+				}
+
 				activeList=[]
 			}
 			
@@ -143,7 +193,7 @@ function getGridSize(){
 var data= JSON.parse('{ "clues":{"a1": 	"a1e", "a2":   "a2e", "a3":   "a3", "a4":   "a4", "b1": 	"b1", "b2": 	"b2", "b3": 	"b3", "b4": 	"b4", "c1": 	"c1", "c2": 	"c2", "c3": 	"c3", "c4": 	"c4", "d1": 	"d1", "d2": 	"d2", "d3": 	"d3", "d4": 	"d4"}, "links":{ "l1":   "l1", "l2":   "l2", "l3":   "l3", "l4":   "l4"} }' );
 
 
-var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "l1":   "l1", "l2":   "l2", "l3":   "l3", "l4":   "l4"} }' );
+var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
 
 
 
@@ -176,6 +226,12 @@ function update(){
 
 	}
 	c.onclick=null;
+
+	var li=document.getElementById("lives");
+
+	updateLives(lives);
+	timer = setInterval(function(){ updateTime() }, 1000);
+	updateTime();
 
 }
 var cont=document.getElementById("container");
