@@ -62,7 +62,27 @@ backgroud: rgba(238,228,218,0.5); }
   transition: background-color 0.2s ease;
   background-color: rgba(100,100,238,0.8);
 }
+.bluen0{
+  -webkit-transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease;
+  background-color: rgba(100,100,238,0.8);
+}
+.bluen1{
+  -webkit-transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease;
+  background-color: rgba(80,80,243,0.8);
+}
 
+.bluen2{
+  -webkit-transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease;
+  background-color: rgba(60,60,248,0.8);
+}
+.bluen3{
+  -webkit-transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease;
+  background-color: rgba(40,40,253,0.8);
+}
 .t01{
 	-webkit-transform: translate(221px,0px);
 	transform: translate(221px,0px);

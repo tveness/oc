@@ -51,7 +51,8 @@ function solve(){
 	for(var k=0;k<activeList.length;k++){
 //		document.getElementById(activeList[k]).innerHTML="SOLVED";
 		document.getElementById(activeList[k]).classList.remove("redden");
-		document.getElementById(activeList[k]).classList.add("bluen");
+		var blueName="bluen"+parseInt(row);
+		document.getElementById(activeList[k]).classList.add(blueName);
 		//Now must swap two
 		
 		var f = document.getElementById(activeList[k]);
