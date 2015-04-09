@@ -58,5 +58,77 @@ backgroud: rgba(238,228,218,0.5); }
   background-color: rgba(100,100,238,0.8);
 }
 
+.t01{
+	transform: translate(221px,0px);
+}
+.t02{
+	transform: translate(442px,0px);
+}
+.t03{
+	transform: translate(663px,0px);
+}
+.t04{
+	transform: translate(784px,0px);
+}
+.t10{
+	transform: translate(0px,121px);
+}
+.t20{
+	transform: translate(0px,242px);
+}
 
+.t30{
+	transform: translate(0px,363px);
+}
 
+.t40{
+	transform: translate(0px,484px);
+}
+.t11{
+	transform: translate(221px,121px);
+}
+.t12{
+	transform: translate(442px,121px);
+}
+.t13{
+	transform: translate(663px,121px);
+}
+.t14{
+	transform: translate(884px,121px);
+}
+.t21{
+	transform: translate(221px,242px);
+}
+.t22{
+	transform: translate(442px,242px);
+}
+.t23{
+	transform: translate(663px,242px);
+}
+.t24{
+	transform: translate(884px,242px);
+}
+.t31{
+	transform: translate(221px,363px);
+}
+.t32{
+	transform: translate(442px,363px);
+}
+.t33{
+	transform: translate(663px,363px);
+}
+.t34{
+	transform: translate(884px,363px);
+}
+.t41{
+	transform: translate(221px,484px);
+}
+.t42{
+	transform: translate(442px,484px);
+}
+.t43{
+	transform: translate(663px,484px);
+}
+.t44{
+	transform: translate(884px,484px);
+}

@@ -5,6 +5,18 @@ var clueListClean=[];
 var clueListActual=[];
 var nums=[];
 
+function getCo(a){
+	for(var x=0;x<5;x++){
+		for(var y=0;y<5;y++){
+			var cName="t"+parseInt(x)+parseInt(y);
+			if(a.className.split(' ').indexOf(cName)>=0){
+				return cName;
+			}
+		}
+	}
+}
+
+
 
 
 
@@ -31,23 +43,32 @@ function shuffle(array) {
 
 function solve(){
 	for(var k=0;k<activeList.length;k++){
-		document.getElementById(activeList[k]).innerHTML="SOLVED";
+//		document.getElementById(activeList[k]).innerHTML="SOLVED";
 		document.getElementById(activeList[k]).classList.remove("redden");
 		document.getElementById(activeList[k]).classList.add("bluen");
 		//Now must swap two
 		
 		var f = document.getElementById(activeList[k]);
+		var curBox=".t"+parseInt(row)+parseInt(k);
+		var curBox2="t"+parseInt(row)+parseInt(k);
+		var toBox2=getCo(f);
+		var toBox="."+toBox2;
+		var g = document.querySelectorAll(curBox)[0];
+		console.log("Switching: "+toBox2+" and "+curBox2);
+	
+		f.classList.remove(toBox2);
+		f.classList.add(curBox2);
+
+		g.classList.remove(curBox2);
+		g.classList.add(toBox2);
+		
+	
+
+		
 //		f.innerHTML="TOSWAP";
-		var allGs = document.querySelectorAll(".grid-cell");
-		var e=allGs[k];
 
 
 //		e.innerHTML="TOSWAP2";
-		var dx=parseInt(e.getBoundingClientRect().left) - parseInt(f.style.left);
-		var dy=parseInt(e.getBoundingClientRect().top) - parseInt(f.style.top);
-
-
-		f.style.transform="translate("+dx+"px,"+dy+"px)";
 	}
 
 	
@@ -115,6 +136,9 @@ function getGridSize(){
 var data= JSON.parse('{ "clues":{"a1": 	"a1e", "a2":   "a2e", "a3":   "a3", "a4":   "a4", "b1": 	"b1", "b2": 	"b2", "b3": 	"b3", "b4": 	"b4", "c1": 	"c1", "c2": 	"c2", "c3": 	"c3", "c4": 	"c4", "d1": 	"d1", "d2": 	"d2", "d3": 	"d3", "d4": 	"d4"}, "links":{ "l1":   "l1", "l2":   "l2", "l3":   "l3", "l4":   "l4"} }' );
 
 
+var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "l1":   "l1", "l2":   "l2", "l3":   "l3", "l4":   "l4"} }' );
+
+
 
 function update(){
 	nums=shuffle([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15])
@@ -133,11 +157,16 @@ function update(){
 		c.innerHTML+="<div class='tile' id='"+k+"' onClick='tileClicked(this);'>"+data.clues[k]+"</div>";
 		var d =document.getElementById(k);
 		d.style.position="absolute";
-		var e = allGridCells[nums[count]];
-		d.style.left=parseInt(e.getBoundingClientRect().left) + 'px';
-		d.style.top=parseInt(e.getBoundingClientRect().top) + 'px';
+		//var e = allGridCells[nums[count]];
+		var e = allGridCells[0];
+		d.style.left=e.getBoundingClientRect().left;
+		d.style.top=e.getBoundingClientRect().top;
+		var toadd="t"+parseInt(nums[count]/4) + parseInt(nums[count]%4);
+		console.log(toadd);
+		d.classList.add(toadd);
 		count=count+1;
 
 	}
 
 }
+update();
