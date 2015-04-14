@@ -194,26 +194,7 @@ var data= JSON.parse('{ "clues":{"a1": 	"a1e", "a2":   "a2e", "a3":   "a3", "a4"
 
 
 var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
-var data= JSON.parse('{ "clues":{	"a1": 	"bilbo",
-       					"a2":   "foil", 
-    					"a3":   "rapier",
-   					"a4":   "epee",
-   					"b1": 	"buck",
-   					"b2": 	"saw",	
-   					"b3": 	"sweet",
-   					"b4": 	"sabre",
-   					"c1": 	"washington",
-   					"c2": 	"hamilton",
-   					"c3": 	"jackson",
-   					"c4": 	"franklin",
-   					"d1": 	"bill",
-   					"d2": 	"shadowfax",
-   					"d3": 	"shelob",
-   					"d4": 	"watcher"},
-   			 "links":{	"la":   "Swords",
-					"lb":   "tooth",
-   					"lc":   "US notes",
-   					"ld":   "LOTR animals"} }' );
+var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "Swords", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR animals"} }' );
 
 
 
