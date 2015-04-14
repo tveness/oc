@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Earth" />
+		<gridItem answer="+" />
+		<gridItem answer="Checkout" />
+		<gridItem answer="Chrome" />
+		<modelAnswer>Google services</modelAnswer>
+		<list1>GOOGLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nashville" />
+		<gridItem answer="MASH" />
+		<gridItem answer="Images" />
+		<gridItem answer="Short Cuts" />
+		<modelAnswer>Robert Altman films</modelAnswer>
+		<list1>ALTMAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Knock" />
+		<gridItem answer="Peg out" />
+		<gridItem answer="Mate" />
+		<gridItem answer="House" />
+		<modelAnswer>Ending of a game</modelAnswer>
+		<list1>COMPLET*,CONCLUD*,CLOS*,COMPLET*,CULMIN*,CLIMAX,RESOLUT*,DENOUE*,TERMIN*,END*,WIN*,FINISH*,LOSE*,GAME*,PASTIME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gold" />
+		<gridItem answer="Parsley" />
+		<gridItem answer="Paradise" />
+		<gridItem answer="Errand" />
+		<modelAnswer>Fool's ____</modelAnswer>
+		<list1>FOOL*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Crucifix"/>
+		<gridItem answer="Boston Crab"/>
+		<gridItem answer="Gogoplata"/>
+		<gridItem answer="Sharpshooter"/>
+		<modelAnswer>Wrestling moves</modelAnswer>
+		<list1>WRESTL*,WWE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Accrington"/>
+		<gridItem answer="Livingstone"/>
+		<gridItem answer="Laurel"/>
+		<gridItem answer="Falkland Islands"/>
+		<modelAnswer>Associated with ‘Stanley’</modelAnswer>
+		<list1>STANLEY*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bacup"/>
+		<gridItem answer="Nelson"/>
+		<gridItem answer="Preston"/>
+		<gridItem answer="Morecambe"/>
+		<modelAnswer>Places in Lancashire</modelAnswer>
+		<list1>LANC*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Cannon"/>
+		<gridItem answer="Hale"/>
+		<gridItem answer="Hinge"/>
+		<gridItem answer="French"/>
+		<modelAnswer>First halves of comedy duos</modelAnswer>
+		<list1>DUO*,DOUBLE*,PARTNER*,TEAM*,COMED*</list1>
+		<list2>PART*,HALF*,HALV*</list2>
+	</answers></data>

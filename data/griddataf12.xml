@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ash" />
+		<gridItem answer="Cork" />
+		<gridItem answer="Lime" />
+		<gridItem answer="Willow" />
+		<modelAnswer>Trees</modelAnswer>
+		<list1>TREE,WOOD,TIMBER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gore" />
+		<gridItem answer="Dole" />
+		<gridItem answer="Mondale" />
+		<gridItem answer="McCain" />
+		<modelAnswer>They lost elections for US President</modelAnswer>
+		<list1>LOSE,LOST,FAIL,DIDN'T,UNSUCCESSFUL,DEFEAT,FALL,FLOP,MISS,FLUNK,RAN,RUNNER,CONTENDER,CONTEST,ENTERED,ENTRANT,NOMINEE,NOMINATE,OFFICE,CHOICE,CHOSEN,SEEK,CANDIDATE,HOPEFUL,ALSO-RAN</list1>
+		<list2>PRESIDENT,PRESIDENTIAL,US,USA,U.S.,U.S.A.,UNITED STATES,LEADER</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fry" />
+		<gridItem answer="Lamb" />
+		<gridItem answer="Gower" />
+		<gridItem answer="May" />
+		<modelAnswer>English cricket captains</modelAnswer>
+		<list1>CRICKET</list1>
+		<list2>ENGLAND,CAPTAIN,ENGLISH,LEAD,LED,CAPTAIN,CHIEF,BOSS</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mayo" />
+		<gridItem answer="Clare" />
+		<gridItem answer="Galway" />
+		<gridItem answer="Kerry" />
+		<modelAnswer>Irish counties</modelAnswer>
+		<list1>IRELAND,IRISH,EIRE,AIRLANN</list1>
+		<list2>COUNTIES,COUNTY,CONTAE,DIVISION,AREA,PART,SECTOR,SECTION</list2>
+	</answers>
+</data>

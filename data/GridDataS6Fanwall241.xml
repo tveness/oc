@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Enya" />
+		<gridItem answer="Ali" />
+		<gridItem answer="Olivia" />
+		<gridItem answer="Wanda" />
+		<modelAnswer>Countries missing their first letter</modelAnswer>
+		<list1>COUNTR*,STATE*,LAND*,NATION*,REPUBLIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beatrice" />
+		<gridItem answer="Katherina" />
+		<gridItem answer="Miranda" />
+		<gridItem answer="Cordelia" />
+		<modelAnswer>Shakespearean characters</modelAnswer>
+		<list1>SHAKESPEAR*,BARD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Julia" />
+		<gridItem answer="Madonna" />
+		<gridItem answer="Sadie" />
+		<gridItem answer="Penny" />
+		<modelAnswer>Names in song titles by The Beatles</modelAnswer>
+		<list1>BEATLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Blossom" />
+		<gridItem answer="Cybill" />
+		<gridItem answer="Roseanne" />
+		<gridItem answer="Rhoda" />
+		<modelAnswer>Eponymous US sitcoms</modelAnswer>
+		<list1>SITCOM*,COMED*,SITUATION*,TV,TELE*,SERIES*,SIT</list1>
+		<list2></list2>
+	</answers>
+</data>

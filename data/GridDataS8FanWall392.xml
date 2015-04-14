@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blackburn" />
+		<gridItem answer="Biggins" />
+		<gridItem answer="Katona" />
+		<gridItem answer="Thatcher" />
+		<modelAnswer>'I'm A Celebrity...' winners</modelAnswer>
+		<list1>CELEBRITY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Doncaster" />
+		<gridItem answer="Bristol" />
+		<gridItem answer="Tranmere" />
+		<gridItem answer="Albion" />
+		<modelAnswer>British football teams called Rovers</modelAnswer>
+		<list1>ROVERS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wilson" />
+		<gridItem answer="Heath" />
+		<gridItem answer="Mustard" />
+		<gridItem answer="Kite" />
+		<modelAnswer>Called 'Mr ____' in Beatles songs</modelAnswer>
+		<list1>BEATLES*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Churchill" />
+		<gridItem answer="Admiral" />
+		<gridItem answer="Halifax" />
+		<gridItem answer="Swinton" />
+		<modelAnswer>Insurance companies</modelAnswer>
+		<list1>INSURANCE*,UNDERWRIT*,COVER*,PROTECT*,INDEMN*</list1>
+		<list2></list2>
+	</answers>
+</data>

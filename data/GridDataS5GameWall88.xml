@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Day" />
+		<gridItem answer="Laurel" />
+		<gridItem answer="Marx" />
+		<gridItem answer="Churchill" />
+		<modelAnswer>Famous wearers of bow ties</modelAnswer>
+		<list1>BOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Birch" />
+		<gridItem answer="Larch" />
+		<gridItem answer="Pine" />
+		<gridItem answer="Spruce" />
+		<modelAnswer>Alpine trees</modelAnswer>
+		<list1>ALPINE*,TREE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cane" />
+		<gridItem answer="Switch" />
+		<gridItem answer="Tawse" />
+		<gridItem answer="Whip" />
+		<modelAnswer>Tools used for punishment</modelAnswer>
+		<list1>PUNISH*,FLOG*,LASH*,DISCIPL*,BEAT*,HIT*,STRIKE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lucid" />
+		<gridItem answer="American" />
+		<gridItem answer="Pipe" />
+		<gridItem answer="Waking" />
+		<modelAnswer>Types of dream</modelAnswer>
+		<list1>DREAM*</list1>
+		<list2></list2>
+	</answers>
+</data>

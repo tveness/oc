@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Picket" />
+		<gridItem answer="Boycott" />
+		<gridItem answer="Sit-in" />
+		<gridItem answer="Walkout" />
+		<modelAnswer>Types of protest</modelAnswer>
+		<list1>ACTION,PROTEST,INDUSTR*,DISPUTE,DIRECT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="March" />
+		<gridItem answer="Fossil" />
+		<gridItem answer="Dashwood" />
+		<gridItem answer="Mortmain" />
+		<modelAnswer>Sisters in novels</modelAnswer>
+		<list1>SISTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ambient" />
+		<gridItem answer="House" />
+		<gridItem answer="Breakbeat" />
+		<gridItem answer="Industrial" />
+		<modelAnswer>Electronic music</modelAnswer>
+		<list1>GENRE*,ELECTRO*,MUSIC*,POP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Techno" />
+		<gridItem answer="Demo" />
+		<gridItem answer="Bureau" />
+		<gridItem answer="Euro" />
+		<modelAnswer>____crat</modelAnswer>
+		<list1>CRAT*</list1>
+		<list2></list2>
+	</answers>
+</data>

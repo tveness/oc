@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Harp" />
+		<gridItem answer="Tennis racquet" />
+		<gridItem answer="Marionette" />
+		<gridItem answer="Apron" />
+		<modelAnswer>Objects with strings</modelAnswer>
+		<list1>STRING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crossover" />
+		<gridItem answer="Wings" />
+		<gridItem answer="Legs" />
+		<gridItem answer="Proscenium" />
+		<modelAnswer>Parts of a stage</modelAnswer>
+		<list1>STAGE*,THEATER*,THEATRE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ross" />
+		<gridItem answer="Monk" />
+		<gridItem answer="Elephant" />
+		<gridItem answer="Harbour" />
+		<modelAnswer>Species of seal</modelAnswer>
+		<list1>SEAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sacks" />
+		<gridItem answer="Ive" />
+		<gridItem answer="Trott" />
+		<gridItem answer="Swift" />
+		<modelAnswer>Famous Jonathans</modelAnswer>
+		<list1>JONATHAN*</list1>
+		<list2></list2>
+	</answers>
+</data>

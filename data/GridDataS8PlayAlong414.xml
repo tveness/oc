@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Belfast" />
+		<gridItem answer="Victory" />
+		<gridItem answer="Great Britain" />
+		<gridItem answer="Cutty Sark" />
+		<modelAnswer>Museum ships</modelAnswer>
+		<list1>MUSEUM*,HISTOR*,SHIP*,FAMOUS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mary Rose" />
+		<gridItem answer="Quality Street" />
+		<gridItem answer="The Admirable Crichton" />
+		<gridItem answer="Peter Pan" />
+		<modelAnswer>J.M. Barrie plays</modelAnswer>
+		<list1>BARRIE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Heroes" />
+		<gridItem answer="Roses" />
+		<gridItem answer="Celebrations" />
+		<gridItem answer="All Gold" />
+		<modelAnswer>Chocolate assortments</modelAnswer>
+		<list1>CHOCOLATE*,CONFECTION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Aladdin Sane" />
+		<gridItem answer="Diamond Dogs" />
+		<gridItem answer="Tonight" />
+		<gridItem answer="Lodger" />
+		<modelAnswer>David Bowie albums</modelAnswer>
+		<list1>BOWIE</list1>
+		<list2></list2>
+	</answers>
+</data>

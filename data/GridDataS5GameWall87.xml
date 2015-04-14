@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Mackerel" />
+		<gridItem answer="Toledo" />
+		<gridItem answer="Smoke" />
+		<gridItem answer="Cow" />
+		<modelAnswer>‘Holy ____!’</modelAnswer>
+		<list1>HOLY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stag" />
+		<gridItem answer="Dolomite" />
+		<gridItem answer="Herald" />
+		<gridItem answer="Spitfire" />
+		<modelAnswer>Models of Triumph car</modelAnswer>
+		<list1>TRIUMPH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Doe" />
+		<gridItem answer="Jenny" />
+		<gridItem answer="Queen" />
+		<gridItem answer="Pen" />
+		<modelAnswer>Female animals</modelAnswer>
+		<list1>FEMALE,FEMININ*,SHE,WOMAN,GIRL*</list1>
+		<list2>ANIMAL*,CREATURE*,BEAST*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Can" />
+		<gridItem answer="Nick" />
+		<gridItem answer="Jug" />
+		<gridItem answer="Cooler" />
+		<modelAnswer>Slang terms for prison</modelAnswer>
+		<list1>PRISON*,JAIL*,GAOL*,CELL*,LOCK*,DUNGEON*,IMPRISON*,CUSTODY</list1>
+		<list2></list2>
+	</answers>
+</data>

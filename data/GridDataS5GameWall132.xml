@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Traction" />
+		<gridItem answer="Fire" />
+		<gridItem answer="Search" />
+		<gridItem answer="Steam" />
+		<modelAnswer>____ engine</modelAnswer>
+		<list1>ENGINE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jet" />
+		<gridItem answer="Ammolite" />
+		<gridItem answer="Coral" />
+		<gridItem answer="Pearl" />
+		<modelAnswer>Organic gemstones</modelAnswer>
+		<list1>GEM*,PRECIOUS,JEWEL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Amber" />
+		<gridItem answer="Rhondda" />
+		<gridItem answer="Death" />
+		<gridItem answer="Silicon" />
+		<modelAnswer>Valleys</modelAnswer>
+		<list1>VALLEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Napa" />
+		<gridItem answer="Chinese" />
+		<gridItem answer="Savoy" />
+		<gridItem answer="Red" />
+		<modelAnswer>Types of cabbage</modelAnswer>
+		<list1>CABBAGE*</list1>
+		<list2></list2>
+	</answers>
+</data>

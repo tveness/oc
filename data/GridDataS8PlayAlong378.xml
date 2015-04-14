@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Helena" />
+		<gridItem answer="Vile Bodies" />
+		<gridItem answer="A Handful of Dust" />
+		<gridItem answer="Decline and Fall" />
+		<modelAnswer>Evelyn Waugh novels</modelAnswer>
+		<list1>WAUGH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scoop" />
+		<gridItem answer="Above the fold" />
+		<gridItem answer="Puff piece" />
+		<gridItem answer="Cub" />
+		<modelAnswer>Journalistic jargon</modelAnswer>
+		<list1>JOURNAL*,PAPER*,PRESS*,NEWSPAPER*,PRINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Martin" />
+		<gridItem answer="Vincent" />
+		<gridItem answer="Kitts" />
+		<gridItem answer="Lucia" />
+		<modelAnswer>Caribbean islands: Saint ____</modelAnswer>
+		<list1>CARIBBEAN,ISLAND*,ST,SAINT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Best" />
+		<gridItem answer="Preston" />
+		<gridItem answer="Epstein" />
+		<gridItem answer="Sutcliffe" />
+		<modelAnswer>Have been called 'The Fifth Beatle'</modelAnswer>
+		<list1>BEATLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

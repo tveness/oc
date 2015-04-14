@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ditch" />
+		<gridItem answer="Car" />
+		<gridItem answer="Hill " />
+		<gridItem answer="Ruth" />
+		<modelAnswer>English towns called Red____</modelAnswer>
+		<list1>RED</list1>
+		<list2>UK,ENGLISH,ENGLAND,BRIT*,TOWN*,CITY,CITIES,PLACE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Eve" />
+		<gridItem answer="Tamar" />
+		<gridItem answer="Esther" />
+		<gridItem answer="Dinah" />
+		<modelAnswer>Old Testament women</modelAnswer>
+		<list1>OLD,OT,BIBL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slope" />
+		<gridItem answer="Elm" />
+		<gridItem answer="Customer" />
+		<gridItem answer="Dick" />
+		<modelAnswer>Slippery ____</modelAnswer>
+		<list1>SLIPP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dart" />
+		<gridItem answer="Mole" />
+		<gridItem answer="Otter" />
+		<gridItem answer="Tavy" />
+		<modelAnswer>Rivers in Devon</modelAnswer>
+		<list1>RIVER*,DEVON*</list1>
+		<list2></list2>
+	</answers>
+</data>

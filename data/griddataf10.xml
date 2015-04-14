@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Nightingale" />
+		<gridItem answer="Long" />
+		<gridItem answer="Ball" />
+		<gridItem answer="Mac" />
+		<modelAnswer>Female Radio 1 DJs</modelAnswer>
+		<list1>RADIO1,RADIO-1,RADIO 1,RADIO ONE,R1,DISC,DISK,JOCKEY,DJ,D.J.,PRESENTER,JOCK,ANCHOR,BROADCASTER,DEEJAY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wren" />
+		<gridItem answer="Barry" />
+		<gridItem answer="Piano" />
+		<gridItem answer="Scott" />
+		<modelAnswer>Famous architects</modelAnswer>
+		<list1>ARCHITECT,DESIGNER,BUILDING,BUILDER,ENGINEER,PLANNER,ERECTOR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crow" />
+		<gridItem answer="Cross" />
+		<gridItem answer="Sushi" />
+		<gridItem answer="Handle" />
+		<modelAnswer>____ bar</modelAnswer>
+		<list1>BAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stroke" />
+		<gridItem answer="Bowman" />
+		<gridItem answer="Cox" />
+		<gridItem answer="Engine room" />
+		<modelAnswer>Members of a rowing eight</modelAnswer>
+		<list1>SHIP,BOAT,EIGHT,ROW,ROWERS,ROWING,OARS,SCULL</list1>
+		<list2></list2>
+	</answers>
+</data>

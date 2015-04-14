@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Washboard" />
+		<gridItem answer="Airer" />
+		<gridItem answer="Mangle" />
+		<gridItem answer="Dolly stick" />
+		<modelAnswer>Old-fashioned laundry equipment</modelAnswer>
+		<list1>LAUNDRY*,WASH*,CLOTH*,CLEAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barnet" />
+		<gridItem answer="Do" />
+		<gridItem answer="Coiffure" />
+		<gridItem answer="Mop" />
+		<modelAnswer>Synonyms for ‘hairstyle’</modelAnswer>
+		<list1>HAIR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Doubtfire" />
+		<gridItem answer="Malaprop" />
+		<gridItem answer="Robinson" />
+		<gridItem answer="Grundy" />
+		<modelAnswer>Characters known as Mrs ____</modelAnswer>
+		<list1>MRS,MISSUS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Porterhouse" />
+		<gridItem answer="Flat iron" />
+		<gridItem answer="T-bone" />
+		<gridItem answer="Strip" />
+		<modelAnswer>Cuts of beefsteak</modelAnswer>
+		<list1>BEEF*,STEAK*</list1>
+		<list2></list2>
+	</answers>
+</data>

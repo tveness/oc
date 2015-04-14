@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Star" />
+		<gridItem answer="Leaf" />
+		<gridItem answer="Tart" />
+		<gridItem answer="Pig" />
+		<modelAnswer>____let</modelAnswer>
+		<list1>LET,LETS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shaft" />
+		<gridItem answer="Beam" />
+		<gridItem answer="Ray" />
+		<gridItem answer="Flash" />
+		<modelAnswer>Emissions of light</modelAnswer>
+		<list1>LIGHT*,ILLUMIN*,LUMIN*,BRIGHT*,RADIAN*,GLAR*,GLEAM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Watts" />
+		<gridItem answer="Moon" />
+		<gridItem answer="Budgie" />
+		<gridItem answer="Berry" />
+		<modelAnswer>Rock drummers</modelAnswer>
+		<list1>DRUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nose" />
+		<gridItem answer="Canary" />
+		<gridItem answer="Plant" />
+		<gridItem answer="Rat" />
+		<modelAnswer>Slang terms for an informer</modelAnswer>
+		<list1>INFORM*,BETRAY*,JUDAS,TELL*,SNEAK*,SPY*,SPIES,SYCHPHANT,MOLE*,SQUEAL*,WHISTLE*,SNITCH*,GRASS*,SUPERGRASS*,STOOL*,NARK*,SNOUT*</list1>
+		<list2></list2>
+	</answers>
+</data>

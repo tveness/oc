@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Barbizon" />
+		<gridItem answer="Nabism" />
+		<gridItem answer="Realism" />
+		<gridItem answer="Impressionism" />
+		<modelAnswer>19th Century art movements</modelAnswer>
+		<list1>ART*,PAINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Normalities" />
+		<gridItem answer="Orientalism" />
+		<gridItem answer="Eliminators" />
+		<gridItem answer="Relationism" />
+		<modelAnswer>Anagrams of one another</modelAnswer>
+		<list1>ANAGRAM*,LETTER*,REARRANGE*,ARRANGE*,SCRAMBLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Torpedoes" />
+		<gridItem answer="Hitmen" />
+		<gridItem answer="Cut-throats" />
+		<gridItem answer="Liquidators" />
+		<modelAnswer>Terms for assassins</modelAnswer>
+		<list1>ASSASSIN*,KILL*,CRIMINAL*,HOMICIDE*,MURDER*,SLAY*,BUTCHER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rollers" />
+		<gridItem answer="Trimmers" />
+		<gridItem answer="Steamers" />
+		<gridItem answer="Dryers" />
+		<modelAnswer>Hair salon equipment</modelAnswer>
+		<list1>HAIR*,BARBER*,COIFFEU*,SALON*,STYLIS*</list1>
+		<list2></list2>
+	</answers>
+</data>

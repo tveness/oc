@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Wentworth" />
+		<gridItem answer="Slade" />
+		<gridItem answer="Alderney State" />
+		<gridItem answer="Shawshank" />
+		<modelAnswer>Fictional prisons</modelAnswer>
+		<list1>PRISON*,JAIL*,GAOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Badminton" />
+		<gridItem answer="Squash" />
+		<gridItem answer="Matkot" />
+		<gridItem answer="Frontenis" />
+		<modelAnswer>Racquet sports</modelAnswer>
+		<list1>RACQUET*,RACKET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chatsworth" />
+		<gridItem answer="Harewood" />
+		<gridItem answer="Hatfield" />
+		<gridItem answer="Blenheim" />
+		<modelAnswer>Stately homes</modelAnswer>
+		<list1>STATELY,HOME*,HOUSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mud" />
+		<gridItem answer="Wizzard" />
+		<gridItem answer="Sweet" />
+		<gridItem answer="T. Rex" />
+		<modelAnswer>Glam rock bands</modelAnswer>
+		<list1>ROCK*,GLAM*,MUSIC*,BAND*,GROUP*,POP</list1>
+		<list2></list2>
+	</answers>
+</data>

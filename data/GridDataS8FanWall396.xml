@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Chilli" />
+		<gridItem answer="Banana" />
+		<gridItem answer="Java" />
+		<gridItem answer="Black" />
+		<modelAnswer>Peppers</modelAnswer>
+		<list1>PEPPER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sulawesi" />
+		<gridItem answer="Flores" />
+		<gridItem answer="Komodo" />
+		<gridItem answer="Babar" />
+		<modelAnswer>Indonesian islands</modelAnswer>
+		<list1>INDONESIA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bell" />
+		<gridItem answer="Smith" />
+		<gridItem answer="Amiss" />
+		<gridItem answer="Barber" />
+		<modelAnswer>Batsmen for Warwickshire</modelAnswer>
+		<list1>WARWICK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Staff" />
+		<gridItem answer="First" />
+		<gridItem answer="Master" />
+		<gridItem answer="Company" />
+		<modelAnswer>____ sergeant</modelAnswer>
+		<list1>SERGE*,SGT*,SERJE*</list1>
+		<list2></list2>
+	</answers>
+</data>

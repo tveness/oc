@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Achtung Baby" />
+		<gridItem answer="Zooropa" />
+		<gridItem answer="War" />
+		<gridItem answer="Rattle and Hum" />
+		<modelAnswer>U2 albums</modelAnswer>
+		<list1>U2,ALBUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Redwood" />
+		<gridItem answer="Death Valley" />
+		<gridItem answer="Joshua Tree" />
+		<gridItem answer="Yosemite" />
+		<modelAnswer>National Parks in California</modelAnswer>
+		<list1>PARK*,CALIFORN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Capri" />
+		<gridItem answer="Pepper" />
+		<gridItem answer="Pop" />
+		<gridItem answer="Uni" />
+		<modelAnswer>____corn</modelAnswer>
+		<list1>CORN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hot" />
+		<gridItem answer="Toreador" />
+		<gridItem answer="Cargo" />
+		<gridItem answer="Sweat" />
+		<modelAnswer>Types of pants</modelAnswer>
+		<list1>PANT*</list1>
+		<list2></list2>
+	</answers>
+</data>

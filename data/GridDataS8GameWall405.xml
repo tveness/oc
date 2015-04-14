@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Tarka" />
+		<gridItem answer="Lobo" />
+		<gridItem answer="Flicka" />
+		<gridItem answer="Marley" />
+		<modelAnswer>Main animal in famous books</modelAnswer>
+		<list1>ANIMAL*,BOOK*,STORY,STORIES,LITERAT*,NOVEL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Roti" />
+		<gridItem answer="Saag" />
+		<gridItem answer="Keema" />
+		<gridItem answer="Gobi" />
+		<modelAnswer>Words for Indian foods</modelAnswer>
+		<list1>INDIA*,CURRY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sonoran" />
+		<gridItem answer="Karakum" />
+		<gridItem answer="Thar" />
+		<gridItem answer="Atacama" />
+		<modelAnswer>Large deserts</modelAnswer>
+		<list1>DESERT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Vasec" />
+		<gridItem answer="Ana" />
+		<gridItem answer="Dicho" />
+		<gridItem answer="Auto" />
+		<modelAnswer>Words ending ____tomy</modelAnswer>
+		<list1>TOMY</list1>
+		<list2></list2>
+	</answers>
+</data>

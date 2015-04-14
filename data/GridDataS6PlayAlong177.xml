@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Maverick" />
+		<gridItem answer="Payback" />
+		<gridItem answer="Ransom" />
+		<gridItem answer="Tequila Sunrise" />
+		<modelAnswer>Mel Gibson films</modelAnswer>
+		<list1>GIBSON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bounty" />
+		<gridItem answer="Reward" />
+		<gridItem answer="Bonus" />
+		<gridItem answer="Premium" />
+		<modelAnswer>Forms of compensation</modelAnswer>
+		<list1>COMPENSAT*,RECOMPEN*,MONEY,MONETARY,PAY*,ALLOW*,WEALTH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Peach" />
+		<gridItem answer="Nove" />
+		<gridItem answer="Salmon" />
+		<gridItem answer="Fudge" />
+		<modelAnswer>Newsreaders on BBC Radio 2</modelAnswer>
+		<list1>NEWS*,ANNOUNCE*,CONTINUITY,VOICE*,RADIO,R2</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Raspberry" />
+		<gridItem answer="Fuse" />
+		<gridItem answer="Fortune" />
+		<gridItem answer="Kiss" />
+		<modelAnswer>Things you can blow</modelAnswer>
+		<list1>BLOW*</list1>
+		<list2></list2>
+	</answers>
+</data>

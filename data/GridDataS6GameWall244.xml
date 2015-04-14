@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Llewellyn" />
+		<gridItem answer="Singh" />
+		<gridItem answer="Osama" />
+		<gridItem answer="Aslan" />
+		<modelAnswer>Names that derive from ‘lion’</modelAnswer>
+		<list1>LION*,FELINE*,CAT*,LEO</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Leonidas" />
+		<gridItem answer="Godiva" />
+		<gridItem answer="Guylian" />
+		<gridItem answer="Neuhaus" />
+		<modelAnswer>Belgian chocolate manufacturers</modelAnswer>
+		<list1>CHOC*,BELGIAN,BELGIUM,CONFECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Leonard" />
+		<gridItem answer="Penny" />
+		<gridItem answer="Raj" />
+		<gridItem answer="Howard" />
+		<modelAnswer>Characters in ‘The Big Bang Theory’</modelAnswer>
+		<list1>BANG</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Germany" />
+		<gridItem answer="500" />
+		<gridItem answer="Calciferol" />
+		<gridItem answer="Drive" />
+		<modelAnswer>Represented by the letter D</modelAnswer>
+		<list1>D,LETTER,CHARACTER</list1>
+		<list2></list2>
+	</answers>
+</data>

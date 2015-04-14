@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Sherwood" />
+		<gridItem answer="Shorofsky" />
+		<gridItem answer="Grant" />
+		<gridItem answer="Berg" />
+		<modelAnswer>Teachers in 'Fame' (1980 film)</modelAnswer>
+		<list1>FAME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rockingham" />
+		<gridItem answer="Ashdown" />
+		<gridItem answer="Dalby" />
+		<gridItem answer="Wyre" />
+		<modelAnswer>Forests in England</modelAnswer>
+		<list1>FOREST*,WOOD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Knockhill" />
+		<gridItem answer="Snetterton" />
+		<gridItem answer="Thruxton" />
+		<gridItem answer="Croft" />
+		<modelAnswer>British motor racing circuits</modelAnswer>
+		<list1>CAR*,MOTOR*,RACE,RACING*,CIRCUIT*,BIK*,SUPERBIKE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="McGuinness" />
+		<gridItem answer="Considine" />
+		<gridItem answer="McAloon" />
+		<gridItem answer="Chayefsky" />
+		<modelAnswer>Famous Paddys</modelAnswer>
+		<list1>PADDY*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Drew" />
+		<gridItem answer="Starling" />
+		<gridItem answer="Mars" />
+		<gridItem answer="Thyme" />
+		<modelAnswer>Female detectives</modelAnswer>
+		<list1>DETECTIVE*,SPY,SPIES,MURDER*,MYSTERY,MYSTERIES,SUSPENSE,THRILLER,INVESTIGAT*,DICK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ares" />
+		<gridItem answer="Minerva" />
+		<gridItem answer="Indra" />
+		<gridItem answer="Ishtar" />
+		<modelAnswer>War deities</modelAnswer>
+		<list1>WAR*,BATTLE*</list1>
+		<list2>GOD*,DEIT*,DIVINE*,IMMORTAL*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sahara" />
+		<gridItem answer="Gigli" />
+		<gridItem answer="The Alamo" />
+		<gridItem answer="Heaven’s Gate" />
+		<modelAnswer>Films that were famous box office flops</modelAnswer>
+		<list1>FLOP*,TURKEY*,BOMB*,UNSUCCESS*,DISASTER*,LOSS*,LOST,PROFIT</list1>
+		<list2>FILM*,MOVIE*,SALES,BOX,TICKET*,REVENUE*,MONEY</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Patagonian" />
+		<gridItem answer="Gobi" />
+		<gridItem answer="Kalahari" />
+		<gridItem answer="Great Basin" />
+		<modelAnswer>Deserts</modelAnswer>
+		<list1>DESERT*,ARID,BARREN</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Jousting" />
+		<gridItem answer="Charreada" />
+		<gridItem answer="Point-to- point" />
+		<gridItem answer="Tent pegging" />
+		<modelAnswer>Sports on horseback</modelAnswer>
+		<list1>HORSE*,EQUEST*,RIDING*,CAVALRY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Peel" />
+		<gridItem answer="Young" />
+		<gridItem answer="Blackburn" />
+		<gridItem answer="Dee" />
+		<modelAnswer>Original Radio 1 DJs</modelAnswer>
+		<list1>RADIO 1,RADIO ONE,DJ,DISC,DISK,JOCKEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Murray" />
+		<gridItem answer="Glacier" />
+		<gridItem answer="Everton" />
+		<gridItem answer="Scotch" />
+		<modelAnswer>Mints</modelAnswer>
+		<list1>MINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pandora" />
+		<gridItem answer="Polo" />
+		<gridItem answer="Rivals" />
+		<gridItem answer="Riders" />
+		<modelAnswer>Jilly Cooper’s ‘Rutshire Chronicles’</modelAnswer>
+		<list1>COOPER*,RUTSHIRE*</list1>
+		<list2></list2>
+	</answers>
+</data>

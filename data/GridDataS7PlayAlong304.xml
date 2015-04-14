@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blade" />
+		<gridItem answer="Hulk" />
+		<gridItem answer="Iron Man" />
+		<gridItem answer="Daredevil" />
+		<modelAnswer>Marvel Comics superheroes</modelAnswer>
+		<list1>MARVEL*,COMIC*,SUPERHERO*,LEE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jif" />
+		<gridItem answer="Dime" />
+		<gridItem answer="Immac" />
+		<gridItem answer="Oil of Ulay" />
+		<modelAnswer>Products that changed to their international name</modelAnswer>
+		<list1>NAME,STANDARD*,INTERNAT*,PRODUCT*,BRAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Decade" />
+		<gridItem answer="Prime Minister" />
+		<gridItem answer="Fly-half" />
+		<gridItem answer="Bo Derek" />
+		<modelAnswer>Associated with the number 10</modelAnswer>
+		<list1>10,TEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hurdles" />
+		<gridItem answer="Marathon" />
+		<gridItem answer="Relay" />
+		<gridItem answer="Sprint" />
+		<modelAnswer>Running events</modelAnswer>
+		<list1>RUN*,RACE*,EVENT*</list1>
+		<list2></list2>
+	</answers>
+</data>

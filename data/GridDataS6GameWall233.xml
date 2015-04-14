@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Gallows" />
+		<gridItem answer="Dry" />
+		<gridItem answer="Toilet" />
+		<gridItem answer="Surreal" />
+		<modelAnswer>Types of humour</modelAnswer>
+		<list1>HUMOUR*,COMEDY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cloying" />
+		<gridItem answer="Full-bodied" />
+		<gridItem answer="Peppery" />
+		<gridItem answer="Fruity" />
+		<modelAnswer>Adjectives describing wine</modelAnswer>
+		<list1>WINE*,VINO,ALCOHOL*,OENOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barcarolle" />
+		<gridItem answer="Madrigal" />
+		<gridItem answer="Carol" />
+		<gridItem answer="Round" />
+		<modelAnswer>Traditional song forms</modelAnswer>
+		<list1>SONG*,MUSIC*,COMPOS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Daltrey" />
+		<gridItem answer="Ebert" />
+		<gridItem answer="Waters" />
+		<gridItem answer="Black" />
+		<modelAnswer>Famous Rogers</modelAnswer>
+		<list1>ROGER*</list1>
+		<list2></list2>
+	</answers>
+</data>

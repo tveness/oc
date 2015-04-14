@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Super Fly" />
+		<gridItem answer="Foxy Brown" />
+		<gridItem answer="Car Wash" />
+		<gridItem answer="Shaft" />
+		<modelAnswer>Blaxploitation films</modelAnswer>
+		<list1>BLAX*,BLACK*</list1>
+		<list2>MOVIE*,FILM*,MOTION*,PICTURE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Foxing" />
+		<gridItem answer="Sunned" />
+		<gridItem answer="Marginalia" />
+		<gridItem answer="Dog ears" />
+		<modelAnswer>Damage caused to books</modelAnswer>
+		<list1>BOOK*,PAPER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Piloti" />
+		<gridItem answer="Pilaster" />
+		<gridItem answer="Stanchion" />
+		<gridItem answer="Caryatid" />
+		<modelAnswer>Architectural supports</modelAnswer>
+		<list1>ARCHITEC*,BUILD*,CONSTRUC*,SUPPORT*,POST*,PILLAR*,BRACE*,BUTTRESS*,CRUTCH*,FOUNDATION*,UNDERPIN*,STRUCTUR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slicker" />
+		<gridItem answer="Bookworm" />
+		<gridItem answer="Dr B Ching" />
+		<gridItem answer="Remote Controller" />
+		<modelAnswer>‘Private Eye’ columnists</modelAnswer>
+		<list1>PRIVATE</list1>
+		<list2></list2>
+	</answers>
+</data>

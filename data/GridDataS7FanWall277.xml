@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="San Juan" />
+		<gridItem answer="Champion" />
+		<gridItem answer="Pork Chop" />
+		<gridItem answer="Bunker" />
+		<modelAnswer>'Hill' battles</modelAnswer>
+		<list1>HILL*,BATTLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Free" />
+		<gridItem answer="Spare" />
+		<gridItem answer="Jockey" />
+		<gridItem answer="Roulette" />
+		<modelAnswer>____ wheel</modelAnswer>
+		<list1>WHEEL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="St John" />
+		<gridItem answer="Green" />
+		<gridItem answer="Berry" />
+		<gridItem answer="Auger" />
+		<modelAnswer>Surnames of Bond girl actresses</modelAnswer>
+		<list1>BOND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ball" />
+		<gridItem answer="Too" />
+		<gridItem answer="Tee" />
+		<gridItem answer="Course" />
+		<modelAnswer>Change one letter = a homonym (Bawl, Two etc.)</modelAnswer>
+		<list1>HOMOPHONE*,HOMONYM*,SOUND*,LETTER*</list1>
+		<list2></list2>
+	</answers>
+</data>

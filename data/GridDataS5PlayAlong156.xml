@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Wirral" />
+		<gridItem answer="Trafford" />
+		<gridItem answer="Barnsley" />
+		<gridItem answer="Kirklees" />
+		<modelAnswer>Metropolitan boroughs</modelAnswer>
+		<list1>METROPOL*,CITY,CITIES,TOWN*,MUNICIPAL*,URBAN</list1>
+		<list2>BOROUGH*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bolland" />
+		<gridItem answer="Dudley" />
+		<gridItem answer="King" />
+		<gridItem answer="Scardino" />
+		<modelAnswer>FTSE 100 CEOs</modelAnswer>
+		<list1>CEO,CHIEF,EXECUTIVE*,MD,MANAGING,DIRECTOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Star" />
+		<gridItem answer="Pennant" />
+		<gridItem answer="Diamond" />
+		<gridItem answer="Rosette" />
+		<modelAnswer>AA awards for quality</modelAnswer>
+		<list1>AA,A.A.,AUTOMOBILE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Burgee" />
+		<gridItem answer="Swallowtail" />
+		<gridItem answer="Square" />
+		<gridItem answer="Oriflamme" />
+		<modelAnswer>Shapes of flag</modelAnswer>
+		<list1>FLAG*,VEXIL*</list1>
+		<list2></list2>
+	</answers>
+</data>

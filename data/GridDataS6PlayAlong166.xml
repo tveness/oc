@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Esther" />
+		<gridItem answer="Job" />
+		<gridItem answer="Micah" />
+		<gridItem answer="Judges" />
+		<modelAnswer>Books of the Old Testament</modelAnswer>
+		<list1>OT,OLD,TESTAMENT,BIBLE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flick" />
+		<gridItem answer="Dee Dee" />
+		<gridItem answer="Ruth" />
+		<gridItem answer="Babs" />
+		<modelAnswer>Members of Pan’s People</modelAnswer>
+		<list1>PAN*,POPS,TOTP,DANCER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cluster" />
+		<gridItem answer="Atom" />
+		<gridItem answer="Stink" />
+		<gridItem answer="Cherry" />
+		<modelAnswer>____ bomb</modelAnswer>
+		<list1>BOMB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bearings" />
+		<gridItem answer="Grip" />
+		<gridItem answer="Marbles" />
+		<gridItem answer="Temper" />
+		<modelAnswer>Things you can ‘lose’</modelAnswer>
+		<list1>LOSE,LOST,LOSING</list1>
+		<list2></list2>
+	</answers>
+</data>

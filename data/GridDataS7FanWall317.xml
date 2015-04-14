@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cria" />
+		<gridItem answer="Eyas" />
+		<gridItem answer="Gosling" />
+		<gridItem answer="Lamb" />
+		<modelAnswer>Animal babies</modelAnswer>
+		<list1>ANIMAL*,YOUNG*,BABY,BABIES,OFFSPRING,ISSUE,PROGENY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carib" />
+		<gridItem answer="Inuit" />
+		<gridItem answer="Maori" />
+		<gridItem answer="Thai" />
+		<modelAnswer>Indigenous peoples</modelAnswer>
+		<list1>INDIGEN*,ABORIGIN*,AUTOCHTHON*,CONGENIT*,ENDEMIC,INNATE,NATIVE*,TRIBE*,PEOPLE*,CLAN*,KIN*,FOLK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cub" />
+		<gridItem answer="Panam" />
+		<gridItem answer="Romani" />
+		<gridItem answer="Samo" />
+		<modelAnswer>Countries missing 'A' at the end</modelAnswer>
+		<list1>COUNTRY,COUNTRIES,STATE*,NATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carrey" />
+		<gridItem answer="Fox" />
+		<gridItem answer="Myers" />
+		<gridItem answer="Page" />
+		<modelAnswer>Canadian actors</modelAnswer>
+		<list1>CANADA*,CANUCK</list1>
+		<list2></list2>
+	</answers>
+</data>

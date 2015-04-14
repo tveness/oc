@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Tootles"/>
+		<gridItem answer="Nibs"/>
+		<gridItem answer="The Twins"/>
+		<gridItem answer="Slightly"/>
+		<modelAnswer>Lost Boys in Peter Pan</modelAnswer>
+		<list1>LOST*,PETER*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Curly"/>
+		<gridItem answer="French"/>
+		<gridItem answer="Tornado"/>
+		<gridItem answer="Chili Cheese"/>
+		<modelAnswer>Types of fries</modelAnswer>
+		<list1>FRY*,FRIES</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Gasoline"/>
+		<gridItem answer="Tin Pan"/>
+		<gridItem answer="Bowling"/>
+		<gridItem answer="Blind"/>
+		<modelAnswer>____ alley</modelAnswer>
+		<list1>ALLEY*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="The Smiler"/>
+		<gridItem answer="Stealth"/>
+		<gridItem answer="Oblivion"/>
+		<gridItem answer="Kumali"/>
+		<modelAnswer>Rollercoasters</modelAnswer>
+		<list1>ROLLER*,THEME*,FUNFAIR*,RIDE*,FAIR*</list1>
+		<list2></list2>
+	</answers></data>

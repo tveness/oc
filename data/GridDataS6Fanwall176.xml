@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Dowsett" />
+		<gridItem answer="Swift" />
+		<gridItem answer="Cavendish" />
+		<gridItem answer="Blythe" />
+		<modelAnswer>Professional British cyclists</modelAnswer>
+		<list1>CYCL*,BIKE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Angus" />
+		<gridItem answer="Burford" />
+		<gridItem answer="Lewes" />
+		<gridItem answer="Inverness" />
+		<modelAnswer>Extant British earldoms</modelAnswer>
+		<list1>EARL*,DEMESNE*,DOMAIN*,TITLE*,SUBSIDIARY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cava" />
+		<gridItem answer="Hoy" />
+		<gridItem answer="Wyre" />
+		<gridItem answer="Eday" />
+		<modelAnswer>Islands of Orkney</modelAnswer>
+		<list1>ORKNEY*,ORCADIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Swallow" />
+		<gridItem answer="Stonechat" />
+		<gridItem answer="Goldfinch" />
+		<gridItem answer="Serin" />
+		<modelAnswer>British garden birds</modelAnswer>
+		<list1>BIRD*,SONGBIRD*,AVIAN*,ORNITHOID*</list1>
+		<list2></list2>
+	</answers>
+</data>

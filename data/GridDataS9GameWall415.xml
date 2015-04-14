@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Codex" />
+		<gridItem answer="Solenoid" />
+		<gridItem answer="Basset" />
+		<gridItem answer="Car Pool" />
+		<modelAnswer>Start with fish</modelAnswer>
+		<list1>FISH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Missal" />
+		<gridItem answer="Album" />
+		<gridItem answer="Volume" />
+		<gridItem answer="Tome" />
+		<modelAnswer>Words for book</modelAnswer>
+		<list1>BOOK*,PUBLI*,PRINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Afghan" />
+		<gridItem answer="Serbian tricolour" />
+		<gridItem answer="Blood" />
+		<gridItem answer="Pharaoh" />
+		<modelAnswer>HOUNDS</modelAnswer>
+		<list1>HOUND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Khan" />
+		<gridItem answer="Czar" />
+		<gridItem answer="Sovereign" />
+		<gridItem answer="Pasha" />
+		<modelAnswer>Rulers</modelAnswer>
+		<list1>RULE*,LEAD*,EMPEROR*,CHIEF*,HEAD*,MONARCH*</list1>
+		<list2></list2>
+	</answers>
+</data>

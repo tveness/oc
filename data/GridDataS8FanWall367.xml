@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Count Duckula" />
+		<gridItem answer="Danger Mouse" />
+		<gridItem answer="The BFG" />
+		<gridItem answer="Toad" />
+		<modelAnswer>Animated characters voiced by David Jason</modelAnswer>
+		<list1>JASON*,COSGROVE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Newt" />
+		<gridItem answer="Frost" />
+		<gridItem answer="Bishop" />
+		<gridItem answer="Vasquez" />
+		<modelAnswer>Characters from the film 'Aliens'</modelAnswer>
+		<list1>ALIENS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scorpion" />
+		<gridItem answer="Ferret" />
+		<gridItem answer="Saxon" />
+		<gridItem answer="Husky" />
+		<modelAnswer>British military armoured vehicles</modelAnswer>
+		<list1>MILITARY*,ARMOUR*,VEHICLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rat" />
+		<gridItem answer="Coral" />
+		<gridItem answer="Dice" />
+		<gridItem answer="King" />
+		<modelAnswer>Species of snake</modelAnswer>
+		<list1>SNAKE</list1>
+		<list2></list2>
+	</answers>
+</data>

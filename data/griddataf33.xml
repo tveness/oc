@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Verona" />
+		<gridItem answer="Venice" />
+		<gridItem answer="Windsor" />
+		<gridItem answer="Athens" />
+		<modelAnswer>Places mentioned in Shakespeare play titles</modelAnswer>
+		<list1>SHAKESPEARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Genoa" />
+		<gridItem answer="Spanker" />
+		<gridItem answer="Lateen" />
+		<gridItem answer="Spinnaker" />
+		<modelAnswer>Sails</modelAnswer>
+		<list1>SAIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parma" />
+		<gridItem answer="York" />
+		<gridItem answer="Black Forest" />
+		<gridItem answer="Serrano" />
+		<modelAnswer>Varieties of ham</modelAnswer>
+		<list1>HAM,PORK,MEAT,MEATS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Siena" />
+		<gridItem answer="Florence" />
+		<gridItem answer="Mantua" />
+		<gridItem answer="Pisa" />
+		<modelAnswer>Italian city states</modelAnswer>
+		<list1>ITALY,ITALIAN,LATIN</list1>
+		<list2>CITY,CITIES,TOWN,TOWNS,STATE,STATES,PLACE,PLACES,LOCATION*,AREA,AREAS,COUNTY,COUNTIES,REGION*,SECTION*</list2>
+	</answers>
+</data>

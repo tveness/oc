@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Stormy" />
+		<gridItem answer="Rain" />
+		<gridItem answer="Very Dry" />
+		<gridItem answer="Change" />
+		<modelAnswer>Terms written on a barometer</modelAnswer>
+		<list1>BAROMETER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fair" />
+		<gridItem answer="Absent" />
+		<gridItem answer="Narrow" />
+		<gridItem answer="Single" />
+		<modelAnswer>____-minded</modelAnswer>
+		<list1>MIND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Treble" />
+		<gridItem answer="Yankee" />
+		<gridItem answer="Heinz" />
+		<gridItem answer="Goliath" />
+		<modelAnswer>Accumulator bets</modelAnswer>
+		<list1>BET*,WAGER*,GAMBL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bloody" />
+		<gridItem answer="Harvey" />
+		<gridItem answer="Singapore" />
+		<gridItem answer="Moscow" />
+		<modelAnswer>Words in names of cocktails</modelAnswer>
+		<list1>COCKTAIL*,DRINK*</list1>
+		<list2></list2>
+	</answers>
+</data>

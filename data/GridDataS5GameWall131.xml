@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Underbid" />
+		<gridItem answer="Vulnerable" />
+		<gridItem answer="Ruff" />
+		<gridItem answer="Rubber" />
+		<modelAnswer>Terms in Bridge</modelAnswer>
+		<list1>BRIDGE,CARD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grey" />
+		<gridItem answer="Liverpool" />
+		<gridItem answer="Peel" />
+		<gridItem answer="Canning" />
+		<modelAnswer>19th Century Prime Ministers</modelAnswer>
+		<list1>PM,PRIME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Goldsmith" />
+		<gridItem answer="Hardy" />
+		<gridItem answer="North" />
+		<gridItem answer="Stone" />
+		<modelAnswer>Famous Olivers</modelAnswer>
+		<list1>OLIVER,OLIVERS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bend" />
+		<gridItem answer="Houses" />
+		<gridItem answer="Twist" />
+		<gridItem answer="Wicket" />
+		<modelAnswer>Round the ____</modelAnswer>
+		<list1>ROUND</list1>
+		<list2></list2>
+	</answers>
+</data>

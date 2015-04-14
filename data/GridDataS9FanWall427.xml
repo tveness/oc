@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Apache" />
+		<gridItem answer="Diamonds" />
+		<gridItem answer="Albatross" />
+		<gridItem answer="Roulette" />
+		<modelAnswer>UK No1 instrumentals</modelAnswer>
+		<list1>INSTRUMENTAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Skua" />
+		<gridItem answer="Petrel" />
+		<gridItem answer="Scoter" />
+		<gridItem answer="Takapu" />
+		<modelAnswer>Seabirds</modelAnswer>
+		<list1>SEA*,BIRD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hearts" />
+		<gridItem answer="Skat" />
+		<gridItem answer="Casino" />
+		<gridItem answer="Blackjack" />
+		<modelAnswer>Card games</modelAnswer>
+		<list1>CARD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Choctaw" />
+		<gridItem answer="Quapaw" />
+		<gridItem answer="Crow" />
+		<gridItem answer="Delaware" />
+		<modelAnswer>Native American tribes</modelAnswer>
+		<list1>AMERICA*, INDIAN*, TRIB*</list1>
+		<list2></list2>
+	</answers>
+</data>

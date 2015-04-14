@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Boleyn" />
+		<gridItem answer="More" />
+		<gridItem answer="Cromwell" />
+		<gridItem answer="Fisher" />
+		<modelAnswer>Executed on orders of Henry VIII</modelAnswer>
+		<list1>EXECUTED*,HENRY,EIGHTH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Space" />
+		<gridItem answer="Chair" />
+		<gridItem answer="Middle" />
+		<gridItem answer="Woods" />
+		<modelAnswer>____man</modelAnswer>
+		<list1>MAN,MEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clarke" />
+		<gridItem answer="Els" />
+		<gridItem answer="Harrington" />
+		<gridItem answer="Watson" />
+		<modelAnswer>Champions of golf's The Open</modelAnswer>
+		<list1>OPEN,GOLF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Peel" />
+		<gridItem answer="Grape" />
+		<gridItem answer="Muscat" />
+		<gridItem answer="Moscow" />
+		<modelAnswer>Words ending with an animal</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,BEAST*</list1>
+		<list2></list2>
+	</answers>
+</data>

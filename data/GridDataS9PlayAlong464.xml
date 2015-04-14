@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Goodyear"/>
+		<gridItem answer="Phoenix"/>
+		<gridItem answer="Speed"/>
+		<gridItem answer="Dawn"/>
+		<modelAnswer>‘Coronation Street’ actresses</modelAnswer>
+		<list1>CORONATION*,CORRIE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Pirelli"/>
+		<gridItem answer="Bridgestone"/>
+		<gridItem answer="Yokohama"/>
+		<gridItem answer="Michelin"/>
+		<modelAnswer>Tyre manufacturers</modelAnswer>
+		<list1>TYRE*,TIRE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Dunlop"/>
+		<gridItem answer="Crowdie"/>
+		<gridItem answer="Caboc"/>
+		<gridItem answer="Lanark Blue"/>
+		<modelAnswer>Scottish cheeses</modelAnswer>
+		<list1>CHEESE*</list1>
+		<list2>SCOT*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Jefferson"/>
+		<gridItem answer="Carson"/>
+		<gridItem answer="Oklahoma"/>
+		<gridItem answer="Salt Lake"/>
+		<modelAnswer>‘City’ US state capitals</modelAnswer>
+		<list1>CITY</list1>
+		<list2></list2>
+	</answers></data>

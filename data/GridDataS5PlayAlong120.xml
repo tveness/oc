@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ishmael" />
+		<gridItem answer="Flask" />
+		<gridItem answer="Ahab" />
+		<gridItem answer="Queequeg" />
+		<modelAnswer>‘Moby-Dick’ characters</modelAnswer>
+		<list1>MOBY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mazer" />
+		<gridItem answer="Chalice" />
+		<gridItem answer="Quaich" />
+		<gridItem answer="Kylix" />
+		<modelAnswer>Drinking vessels</modelAnswer>
+		<list1>VESSEL*,DRINK*,BEAKER*,GOBLET*,CUP*,GLASS*,BEVERAGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cold finger" />
+		<gridItem answer="Beaker" />
+		<gridItem answer="Burette" />
+		<gridItem answer="Condenser" />
+		<modelAnswer>Laboratory glassware</modelAnswer>
+		<list1>LAB,LABORAT*,SCIEN*,CHEMISTR*,GLASS*,EQUIPM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Starbuck" />
+		<gridItem answer="Popeye Doyle" />
+		<gridItem answer="Wimpy" />
+		<gridItem answer="Long John Silver" />
+		<modelAnswer>Characters who lend their names to food chains</modelAnswer>
+		<list1>FOOD*,RESTAURAN*,CHAIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

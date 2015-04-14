@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Cheeryble"/>
+		<gridItem answer="Squeers"/>
+		<gridItem answer="Hawk"/>
+		<gridItem answer="Gride"/>
+		<modelAnswer>‘Nicholas Nickleby’ characters</modelAnswer>
+		<list1>NICKLEBY*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Menzies"/>
+		<gridItem answer="Howard"/>
+		<gridItem answer="Gillard"/>
+		<gridItem answer="Abbott"/>
+		<modelAnswer>Australian prime ministers</modelAnswer>
+		<list1>AUSTRALIA*,OZ*</list1>
+		<list2>PRIME*,LEADER*,PREMIER*,PM*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="M&amp;Co"/>
+		<gridItem answer="Drambuie"/>
+		<gridItem answer="Tunnock’s"/>
+		<gridItem answer="Stagecoach"/>
+		<modelAnswer></modelAnswer>
+		<list1>SCOT*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Gig"/>
+		<gridItem answer="Tonga"/>
+		<gridItem answer="Chariot"/>
+		<gridItem answer="Tumbrel"/>
+		<modelAnswer>Horse-drawn vehicles</modelAnswer>
+		<list1>HORSE*</list1>
+		<list2></list2>
+	</answers></data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Authorise" />
+		<gridItem answer="Precaution" />
+		<gridItem answer="Regulation" />
+		<gridItem answer="Tambourine" />
+		<modelAnswer>Contain all five vowels</modelAnswer>
+		<list1>VOWEL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bank" />
+		<gridItem answer="Drum" />
+		<gridItem answer="Muster" />
+		<gridItem answer="Spring" />
+		<modelAnswer>____ roll</modelAnswer>
+		<list1>ROLL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Object" />
+		<gridItem answer="Permit" />
+		<gridItem answer="Present" />
+		<gridItem answer="Record" />
+		<modelAnswer>Verb pronounced differently to noun</modelAnswer>
+		<list1>VERB,NOUN,PRONOUNC*,PRONUNC*,STRESS,EMPHASI*,SYLLABLE*,ACCENTUAT*,INTONAT*,SUPRAFIX*,SUPERFIX*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Escape" />
+		<gridItem answer="Vanish" />
+		<gridItem answer="Penetration" />
+		<gridItem answer="Prediction" />
+		<modelAnswer>Categories of magic tricks</modelAnswer>
+		<list1>MAGIC*,CONJUR*,ILLUSI*,TRICK*</list1>
+		<list2></list2>
+	</answers>
+</data>

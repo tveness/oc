@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Omega" />
+		<gridItem answer="Citizen" />
+		<gridItem answer="Pulsar" />
+		<gridItem answer="Ingersoll" />
+		<modelAnswer>Watchmakers</modelAnswer>
+		<list1>WATCH*,CLOCK*,TIME*,HOROLOG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pi" />
+		<gridItem answer="Riley" />
+		<gridItem answer="Crime" />
+		<gridItem answer="The party" />
+		<modelAnswer>Life of ____</modelAnswer>
+		<list1>LIFE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gamma" />
+		<gridItem answer="Alpha" />
+		<gridItem answer="Neutron" />
+		<gridItem answer="Beta" />
+		<modelAnswer>Types of ionising radiation</modelAnswer>
+		<list1>RADIAT*,IRRADIAT*,WAVE*,RAY*,ION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dent" />
+		<gridItem answer="Virgo" />
+		<gridItem answer="Osman" />
+		<gridItem answer="Willis" />
+		<modelAnswer>Game show adjudicators</modelAnswer>
+		<list1>GAME*,QUIZ*,ENTERTAIN*,ADJUD*</list1>
+		<list2></list2>
+	</answers>
+</data>

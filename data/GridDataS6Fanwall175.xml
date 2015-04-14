@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ephesus" />
+		<gridItem answer="Rome" />
+		<gridItem answer="Timothy" />
+		<gridItem answer="Colossae" />
+		<modelAnswer>Recipients of St. Paul's letters</modelAnswer>
+		<list1>EPISTLE*,LETTER*,PAUL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="French" />
+		<gridItem answer="Russell" />
+		<gridItem answer="Prior" />
+		<gridItem answer="Stewart" />
+		<modelAnswer>English Test wicketkeepers</modelAnswer>
+		<list1>WICKET*,CRICKET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Giza" />
+		<gridItem answer="Babylon" />
+		<gridItem answer="Rhodes" />
+		<gridItem answer="Alexandria" />
+		<modelAnswer>Wonders of the Ancient World locations</modelAnswer>
+		<list1>WONDER*,SEVEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Daniel" />
+		<gridItem answer="Roger" />
+		<gridItem answer="Sean" />
+		<gridItem answer="Pierce" />
+		<modelAnswer>First names of Bond actors</modelAnswer>
+		<list1>BOND*,SPY,007</list1>
+		<list2></list2>
+	</answers>
+</data>

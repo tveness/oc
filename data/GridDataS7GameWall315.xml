@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Fawley" />
+		<gridItem answer="Grangemouth" />
+		<gridItem answer="Milford Haven" />
+		<gridItem answer="Stanlow" />
+		<modelAnswer>UK oil refineries</modelAnswer>
+		<list1>OIL*,GAS*,ENERGY,REFIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clare" />
+		<gridItem answer="Jesus" />
+		<gridItem answer="Newnham" />
+		<gridItem answer="Pembroke" />
+		<modelAnswer>Cambridge University colleges</modelAnswer>
+		<list1>CAMBRIDGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Churchill" />
+		<gridItem answer="Daniels" />
+		<gridItem answer="Delaney" />
+		<gridItem answer="Smith" />
+		<modelAnswer>Female British playwrights</modelAnswer>
+		<list1>PLAY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carmelite" />
+		<gridItem answer="Dominican" />
+		<gridItem answer="Passionist" />
+		<gridItem answer="Ursuline" />
+		<modelAnswer>Orders of Catholic nuns</modelAnswer>
+		<list1>CATHOLIC*,NUN*,SISTER*</list1>
+		<list2></list2>
+	</answers>
+</data>

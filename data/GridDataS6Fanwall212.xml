@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hammond" />
+		<gridItem answer="May" />
+		<gridItem answer="Willson" />
+		<gridItem answer="Needell" />
+		<modelAnswer>Past/present 'Top Gear' presenters</modelAnswer>
+		<list1>GEAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Church" />
+		<gridItem answer="Sense" />
+		<gridItem answer="Thirteenth" />
+		<gridItem answer="Stylist" />
+		<modelAnswer>Start/end with the same pair of letters</modelAnswer>
+		<list1>PAIR,TWO,START,LETTER*,BEGIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mouth" />
+		<gridItem answer="Pipe" />
+		<gridItem answer="Barrel" />
+		<gridItem answer="Steam" />
+		<modelAnswer>Musical organs</modelAnswer>
+		<list1>ORGAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Howard" />
+		<gridItem answer="Butler" />
+		<gridItem answer="Reid" />
+		<gridItem answer="Whitelaw" />
+		<modelAnswer>Former UK Home Secretaries</modelAnswer>
+		<list1>HOME*</list1>
+		<list2></list2>
+	</answers>
+</data>

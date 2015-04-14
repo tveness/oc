@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Incubus" />
+		<gridItem answer="Bogey" />
+		<gridItem answer="Kelpie" />
+		<gridItem answer="Imp" />
+		<modelAnswer>Evil spirits</modelAnswer>
+		<list1>EVIL,DEMON*,FIEND*,FALLEN,GHOUL*,DAEMON,AFRIT,VILLAIN*,ROGUE*,MONSTER*,BEAST*,OGRE*,SPIRIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ocean" />
+		<gridItem answer="Aztec" />
+		<gridItem answer="Industrial" />
+		<gridItem answer="Futuristic" />
+		<modelAnswer>Zones on 'The Crystal Maze'</modelAnswer>
+		<list1>CRYSTAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Neil Armstrong" />
+		<gridItem answer="Armistice Day" />
+		<gridItem answer="Nigel Tufnel" />
+		<gridItem answer="Cricket team" />
+		<modelAnswer>Linked to the number 11</modelAnswer>
+		<list1>11,ELEVEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Eon" />
+		<gridItem answer="Demon" />
+		<gridItem answer="Encyclopedia" />
+		<gridItem answer="Medieval" />
+		<modelAnswer>Can be spelt with the 'ae' ligature</modelAnswer>
+		<list1>AE,LETTER</list1>
+		<list2></list2>
+	</answers>
+</data>

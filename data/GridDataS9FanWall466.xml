@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Balthazar" />
+		<gridItem answer="Justine" />
+		<gridItem answer="Mountolive" />
+		<gridItem answer="Clea" />
+		<modelAnswer>The Alexandria Quartet</modelAnswer>
+		<list1>ALEXANDRIA*,DURRELL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mary Jane" />
+		<gridItem answer="Ororo" />
+		<gridItem answer="Janet" />
+		<gridItem answer="Susan" />
+		<modelAnswer>Wives of Marvel superheroes</modelAnswer>
+		<list1>MARVEL*,HERO*,SUPERHERO*</list1>
+		<list2>WIVE*,WIFE*,PARTNER*,MARRI*,WEDD*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Melchior" />
+		<gridItem answer="Gabriel" />
+		<gridItem answer="Joseph" />
+		<gridItem answer="Shepherd" />
+		<modelAnswer>Traditional nativity characters</modelAnswer>
+		<list1>NATIVIT*,CHRIST*,JESUS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snapple" />
+		<gridItem answer="Impeach" />
+		<gridItem answer="Mithridate" />
+		<gridItem answer="Finance" />
+		<modelAnswer>End in fruit</modelAnswer>
+		<list1>FRUIT*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Alcatraz" />
+		<gridItem answer="New York" />
+		<gridItem answer="Planet Earth" />
+		<gridItem answer="The Planet of the Apes" />
+		<modelAnswer>‘Escape from ____’ film titles</modelAnswer>
+		<list1>ESCAPE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Raleigh" />
+		<gridItem answer="Bismarck" />
+		<gridItem answer="Jackson" />
+		<gridItem answer="Montgomery" />
+		<modelAnswer>US state capitals</modelAnswer>
+		<list1>CAPITAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mondale" />
+		<gridItem answer="Matthau" />
+		<gridItem answer="Huston" />
+		<gridItem answer="Scott" />
+		<modelAnswer>Famous Walters</modelAnswer>
+		<list1>WALTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dover" />
+		<gridItem answer="Martini" />
+		<gridItem answer="Swank" />
+		<gridItem answer="Sniper" />
+		<modelAnswer>Words begin with birds</modelAnswer>
+		<list1>BIRD*</list1>
+		<list2></list2>
+	</answers>
+</data>

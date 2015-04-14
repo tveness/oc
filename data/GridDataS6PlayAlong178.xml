@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spike" />
+		<gridItem answer="Odie" />
+		<gridItem answer="Lady" />
+		<gridItem answer="Ren" />
+		<modelAnswer>Cartoon dogs</modelAnswer>
+		<list1>DOG*,CANINE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pelt" />
+		<gridItem answer="Bolt" />
+		<gridItem answer="Barrel" />
+		<gridItem answer="Dart" />
+		<modelAnswer>Synonyms for ‘rush’</modelAnswer>
+		<list1>RUSH*,FAST*,HURRY,HURRI*,BELT*,HASTE*,ZIP*,SPEED*,RACE*,RACING,CHARGE,CHARGING,QUICK*,AGILE*,FLY*,NIMBL*,SPRY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stock" />
+		<gridItem answer="Receiver" />
+		<gridItem answer="Safety" />
+		<gridItem answer="Sight" />
+		<modelAnswer>Parts of a shotgun</modelAnswer>
+		<list1>SHOTGUN*,GUN*,FIREARM*,ARM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Full back" />
+		<gridItem answer="Rover" />
+		<gridItem answer="Wing" />
+		<gridItem answer="Ruckman" />
+		<modelAnswer>Australian Rules Football positions</modelAnswer>
+		<list1>AUSTRALIA*,AUSSIE*,RULES</list1>
+		<list2></list2>
+	</answers>
+</data>

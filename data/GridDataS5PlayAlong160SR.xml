@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Great Bear" />
+		<gridItem answer="Charles’s Wain" />
+		<gridItem answer="Big Dipper" />
+		<gridItem answer="Plough" />
+		<modelAnswer>Names associated with Ursa Major</modelAnswer>
+		<list1>URSA*,STAR*,CONSTELL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tom" />
+		<gridItem answer="Sylvester" />
+		<gridItem answer="Heathcliff" />
+		<gridItem answer="Garfield" />
+		<modelAnswer>Cartoon cats</modelAnswer>
+		<list1>CARTOON*,ANIMAT*,CHARACTER*,COMIC*</list1>
+		<list2>CAT*,FELINE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Earnshaw" />
+		<gridItem answer="Eyre" />
+		<gridItem answer="Grey" />
+		<gridItem answer="Snowe" />
+		<modelAnswer>Bronte heroines</modelAnswer>
+		<list1>BRONTE,BRONTE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tyre" />
+		<gridItem answer="Liquorice" />
+		<gridItem answer="Cheque" />
+		<gridItem answer="Theatre" />
+		<modelAnswer>Spelt differently in the US</modelAnswer>
+		<list1>SPELT,SPELL*,DIFFERENT*</list1>
+		<list2>US,U.S.,USA,U.S.A.,AMERIC*,STATES,UNITED</list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bare" />
+		<gridItem answer="Bore" />
+		<gridItem answer="Hair" />
+		<gridItem answer="Wail" />
+		<modelAnswer>Sound like names of animals</modelAnswer>
+		<list1>ANIMAL*,BEAST*,CREATURE*,MAMMAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gala" />
+		<gridItem answer="Jonathan" />
+		<gridItem answer="Pink Lady" />
+		<gridItem answer="Snow" />
+		<modelAnswer>Apple varieties</modelAnswer>
+		<list1>APPLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chess" />
+		<gridItem answer="Godspell" />
+		<gridItem answer="Rent" />
+		<gridItem answer="Pippin" />
+		<modelAnswer>Rock musicals</modelAnswer>
+		<list1>ROCK*,MUSIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Caruso" />
+		<gridItem answer="Gimlet" />
+		<gridItem answer="Salty Dog" />
+		<gridItem answer="Vesper" />
+		<modelAnswer>Gin cocktails</modelAnswer>
+		<list1>GIN,COCKTAIL*</list1>
+		<list2></list2>
+	</answers>
+</data>

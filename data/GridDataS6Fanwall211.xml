@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blooming" />
+		<gridItem answer="Dang" />
+		<gridItem answer="Bally" />
+		<gridItem answer="Blinking" />
+		<modelAnswer>Intensifiers</modelAnswer>
+		<list1>UTTER*,INTENS*,VERY,EXTREME*,GREAT*,HIGH*,DEEP*,TRU*,EXCEED*,ACUTE*,PARTICULAR*,REALLY,QUITE,ABSOLUTE*,NOTICEABL*,UNCOMMONLY,PRETTY,TERRIBLY,DREADFULLY,AWFULLY,CURS*,SWEAR*,BLAST,DOOM,BLASPH*,LANGUAGE,CONDEMN*,REVIL*,DENOUNC*,CRITIC*,CENSUR*,ATTACK*,DENUNCIAT*,BERAT*,CASTIGAT*,SLAM*,PAN*,KNOCK*,SLAG*,ABUS*,CUSS*,EMINENTLY,EXCEPTION*,EXCESSIV*,EXTRAORD*,HUGE*,IMMENSE*,MARKED*,NOTAB*,OVERLY,REMARK*,SEVERE*,DECIDED*,PROFOUND*,CONSPICU*,PROFAN*,DAMN*,FLAMING,BLEEDING,RUDDY,ROTTEN,WRETCH*,CONFOUND*,INFERNAL,BLESSED,DOWNRIGHT,ESPECIALLY,OUTSTAND*,TOTALLY,EMPHA*,EUPHEMIS*,SUBSTITUT*,EXPLETIVE*,INTERJECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bloody" />
+		<gridItem answer="Flint" />
+		<gridItem answer="Salt" />
+		<gridItem answer="White" />
+		<modelAnswer>Towers of the Tower of London</modelAnswer>
+		<list1>TOWER*,FORTRESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Palmer" />
+		<gridItem answer="Helm" />
+		<gridItem answer="Smart" />
+		<gridItem answer="Solo" />
+		<modelAnswer>1960s fictional secret agents</modelAnswer>
+		<list1>SECRET*,SPY,SPIES,UNDERCOVER,AGENT*,ESPION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Switch" />
+		<gridItem answer="Access" />
+		<gridItem answer="Choice" />
+		<gridItem answer="Everything" />
+		<modelAnswer>Defunct payment cards</modelAnswer>
+		<list1>DEBIT*,CREDIT*,PAYMENT*,CARD*,CHARGE*</list1>
+		<list2></list2>
+	</answers>
+</data>

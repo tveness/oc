@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rest" />
+		<gridItem answer="Reckoning" />
+		<gridItem answer="The Dead" />
+		<gridItem answer="Action" />
+		<modelAnswer>Day of ____</modelAnswer>
+		<list1>DAY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Repulse" />
+		<gridItem answer="Calcutta" />
+		<gridItem answer="Arniston" />
+		<gridItem answer="Amsterdam" />
+		<modelAnswer>East Indiamen vessels</modelAnswer>
+		<list1>INDIA*,TRADING*,VESSEL*,MERCHANT*,SHIP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Solar" />
+		<gridItem answer="Saturday" />
+		<gridItem answer="Black Dogs" />
+		<gridItem answer="Atonement" />
+		<modelAnswer>Ian McEwan novels</modelAnswer>
+		<list1>MCEWAN,MACEWAN,MCEUAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wall" />
+		<gridItem answer="Pools" />
+		<gridItem answer="Rocker" />
+		<gridItem answer="Instrument" />
+		<modelAnswer>Types of panel</modelAnswer>
+		<list1>PANEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Drainpipe" />
+		<gridItem answer="Combat" />
+		<gridItem answer="Bootcut" />
+		<gridItem answer="Palazzo" />
+		<modelAnswer>Styles of trousers</modelAnswer>
+		<list1>TROUSER*,PANT*,LEG,LEGS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flare" />
+		<gridItem answer="Gerb" />
+		<gridItem answer="Rocket" />
+		<gridItem answer="Flash cotton" />
+		<modelAnswer>Pyrotechnics</modelAnswer>
+		<list1>PYRO*,FIREWORK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cos" />
+		<gridItem answer="Iceberg" />
+		<gridItem answer="Butterhead" />
+		<gridItem answer="Leaf" />
+		<modelAnswer>Types of lettuce</modelAnswer>
+		<list1>LETTUCE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crete" />
+		<gridItem answer="Rhodes" />
+		<gridItem answer="Euboea" />
+		<gridItem answer="Andros" />
+		<modelAnswer>Greek islands</modelAnswer>
+		<list1>GREE*</list1>
+		<list2></list2>
+	</answers>
+</data>

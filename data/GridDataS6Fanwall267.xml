@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Dogpatch" />
+		<gridItem answer="Castro" />
+		<gridItem answer="Mission" />
+		<gridItem answer="Tenderloin" />
+		<modelAnswer>Neighbourhoods of San Francisco</modelAnswer>
+		<list1>SAN,FRANCISCO</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Victory" />
+		<gridItem answer="Go-Kart" />
+		<gridItem answer="Fat" />
+		<gridItem answer="Epitaph" />
+		<modelAnswer>Punk record labels</modelAnswer>
+		<list1>PUNK,HARDCORE,MUSIC,LABEL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sugar" />
+		<gridItem answer="Prince" />
+		<gridItem answer="Marvelous" />
+		<gridItem answer="Iron" />
+		<modelAnswer>Handles of famous boxers</modelAnswer>
+		<list1>BOXER*,</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bird" />
+		<gridItem answer="Pippen" />
+		<gridItem answer="Stockton" />
+		<gridItem answer="Jordan" />
+		<modelAnswer>1992 US Olympic Basketball 'Dream Team'</modelAnswer>
+		<list1>NBA,HALL,FAME,BASKETBALL*,DREAM</list1>
+		<list2></list2>
+	</answers>
+</data>

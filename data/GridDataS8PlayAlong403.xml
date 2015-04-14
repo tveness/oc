@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Shell" />
+		<gridItem answer="Sinopec" />
+		<gridItem answer="Total" />
+		<gridItem answer="Petronas" />
+		<modelAnswer>Oil companies</modelAnswer>
+		<list1>OIL*,PETROL*,GAS*,ENERGY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dexter" />
+		<gridItem answer="Chevron" />
+		<gridItem answer="Fess" />
+		<gridItem answer="Lozenge" />
+		<modelAnswer>Terms in heraldry</modelAnswer>
+		<list1>HERALD*,SHIELD*,ARMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="List" />
+		<gridItem answer="Handle" />
+		<gridItem answer="Bird" />
+		<gridItem answer="Britain" />
+		<modelAnswer>Homophones of classical composers</modelAnswer>
+		<list1>CLASSIC*,COMPOSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Buffer" />
+		<gridItem answer="Bed" />
+		<gridItem answer="Axis" />
+		<gridItem answer="Cars" />
+		<modelAnswer>Z-____</modelAnswer>
+		<list1>Z,ZEE,ZED</list1>
+		<list2></list2>
+	</answers>
+</data>

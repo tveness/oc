@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spelt" />
+		<gridItem answer="Red Fife" />
+		<gridItem answer="Norin 10" />
+		<gridItem answer="Emmer" />
+		<modelAnswer>Types of wheat</modelAnswer>
+		<list1>WHEAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Donner" />
+		<gridItem answer="Stellar" />
+		<gridItem answer="IV" />
+		<gridItem answer="Carry" />
+		<modelAnswer>Homophones of women's names</modelAnswer>
+		<list1>GIRL*,WOMAN*,FEMALE*</list1>
+		<list2>NAME*,CALL*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dancer" />
+		<gridItem answer="Cupid" />
+		<gridItem answer="Blitzen" />
+		<gridItem answer="Vixen" />
+		<modelAnswer>Santa's reindeer</modelAnswer>
+		<list1>REINDEER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Comet" />
+		<gridItem answer="TriStar" />
+		<gridItem answer="Trident" />
+		<gridItem answer="777" />
+		<modelAnswer>Airliners</modelAnswer>
+		<list1>AIR*,PLANE*,AERO*</list1>
+		<list2></list2>
+	</answers>
+</data>

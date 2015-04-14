@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Moulin Rouge" />
+		<gridItem answer="Lapin Agile" />
+		<gridItem answer="Crazy Horse" />
+		<gridItem answer="Folies Bergère" />
+		<modelAnswer>Cabarets in Paris</modelAnswer>
+		<list1>CABARET*,NIGHTCLUB*,CLUB*,DISCO*,NIGHTSPOT*,VARIETY,MUSIC*,COMEDY*,STRIP*</list1>
+		<list2>PARIS*,FRANCE*,FRENCH</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Banzai" />
+		<gridItem answer="Geronimo" />
+		<gridItem answer="Rebel yell" />
+		<gridItem answer="Hooah" />
+		<modelAnswer>Battle cries</modelAnswer>
+		<list1>WAR*,BATTLE*,CRY,CRIES,RALLY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kon-Tiki" />
+		<gridItem answer="Apache" />
+		<gridItem answer="Man of Mystery" />
+		<gridItem answer="Foot Tapper" />
+		<modelAnswer>Hits of ‘The Shadows’</modelAnswer>
+		<list1>SHADOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Captain Jack" />
+		<gridItem answer="Cochise" />
+		<gridItem answer="Pontiac" />
+		<gridItem answer="Sitting Bull" />
+		<modelAnswer>Native American leaders</modelAnswer>
+		<list1>NATIVE,INDIAN</list1>
+		<list2></list2>
+	</answers>
+</data>

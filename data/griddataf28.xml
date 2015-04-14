@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bluebell" />
+		<gridItem answer="Watercress" />
+		<gridItem answer="Wensleydale" />
+		<gridItem answer="Lavender" />
+		<modelAnswer>Heritage railway lines</modelAnswer>
+		<list1>RAIL,RAILWAY,RAILWAYS,TRAIN,TRAINS,TRAIN LINE*,RAIL LINE*,TRACK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hazel" />
+		<gridItem answer="Craft" />
+		<gridItem answer="Hunt" />
+		<gridItem answer="Doctor" />
+		<modelAnswer>Witch ____</modelAnswer>
+		<list1>WITCH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Blackberry" />
+		<gridItem answer="Mud" />
+		<gridItem answer="Eskimo" />
+		<gridItem answer="Cottage" />
+		<modelAnswer>Types of pie</modelAnswer>
+		<list1>PIE,PIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Silver" />
+		<gridItem answer="Bluegrass" />
+		<gridItem answer="Grand Canyon" />
+		<gridItem answer="Keystone" />
+		<modelAnswer>Official nicknames of US states</modelAnswer>
+		<list1>US,USA,US OF A,UNITED STATES,AMERICA*</list1>
+		<list2>STATE,STATES,TERRITORY,TERRITORIES,DIVISION*</list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Turin" />
+		<gridItem answer="Calgary" />
+		<gridItem answer="Chamonix" />
+		<gridItem answer="Nagano" />
+		<modelAnswer>Winter Olympics host cities</modelAnswer>
+		<list1>WINTER,OLYMPIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Haymarket" />
+		<gridItem answer="Criterion" />
+		<gridItem answer="Prince of Wales" />
+		<gridItem answer="Lyric" />
+		<modelAnswer>London theatres</modelAnswer>
+		<list1>THEATRE*,PLAY*,AUDITOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="XYZ" />
+		<gridItem answer="Lillehammer" />
+		<gridItem answer="Iran-Contra" />
+		<gridItem answer="Profumo" />
+		<modelAnswer>Affairs</modelAnswer>
+		<list1>AFFAIR*,SCANDAL*,OUTRAGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boateng" />
+		<gridItem answer="Guinness" />
+		<gridItem answer="Oldfield" />
+		<gridItem answer="Wakeley" />
+		<modelAnswer>British fashion designers</modelAnswer>
+		<list1>DESIGN*,FASHION*,COUTURE*,CLOTHES*</list1>
+		<list2></list2>
+	</answers>
+</data>

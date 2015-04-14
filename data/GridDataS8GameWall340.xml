@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Florence" />
+		<gridItem answer="Dylan" />
+		<gridItem answer="Brian" />
+		<gridItem answer="Mr Rusty" />
+		<modelAnswer>Characters in ‘The Magic Roundabout’</modelAnswer>
+		<list1>MAGIC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Zebedee" />
+		<gridItem answer="Anglepoise lamp" />
+		<gridItem answer="Vehicle suspension" />
+		<gridItem answer="Trampoline" />
+		<modelAnswer>Usually contain springs</modelAnswer>
+		<list1>SPRING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pogo stick" />
+		<gridItem answer="Tesco" />
+		<gridItem answer="Dow Jones index" />
+		<gridItem answer="Nicci French" />
+		<modelAnswer>Named after two people</modelAnswer>
+		<list1>TWO,2,PAIR*,COUPLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ochs" />
+		<gridItem answer="Baez" />
+		<gridItem answer="Seeger" />
+		<gridItem answer="Guthrie" />
+		<modelAnswer>Folk singers</modelAnswer>
+		<list1>FOLK*,SINGER*,SONG*,MUSICIAN*</list1>
+		<list2></list2>
+	</answers>
+</data>

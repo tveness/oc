@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Bones" />
+		<gridItem answer="Kirk" />
+		<gridItem answer="Scotty" />
+		<gridItem answer="Chekov" />
+		<modelAnswer>Star Trek characters</modelAnswer>
+		<list1>TREK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Miller" />
+		<gridItem answer="Churchill" />
+		<gridItem answer="Beckett" />
+		<gridItem answer="Coward" />
+		<modelAnswer>Playwrights</modelAnswer>
+		<list1>PLAY*,WRIT*,THEATR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snowy" />
+		<gridItem answer="Old Yeller" />
+		<gridItem answer="Fang" />
+		<gridItem answer="Argos" />
+		<modelAnswer>Fictional Dogs</modelAnswer>
+		<list1>DOG*,CANIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Franklin" />
+		<gridItem answer="Reeve" />
+		<gridItem answer="Knight" />
+		<gridItem answer="Wife of Bath" />
+		<modelAnswer>Tale-Tellers in 'The Canterbury Tales'</modelAnswer>
+		<list1>CANTERBURY*,CHAUCER*</list1>
+		<list2></list2>
+	</answers>
+</data>

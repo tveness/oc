@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Puck" />
+		<gridItem answer="Bottom" />
+		<gridItem answer="Quince" />
+		<gridItem answer="Helena" />
+		<modelAnswer>Characters in A Midsummer Night’s Dream</modelAnswer>
+		<list1>MIDSUMMER*,SHAKESPEARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flute" />
+		<gridItem answer="Socialist" />
+		<gridItem answer="Charlie" />
+		<gridItem answer="Cork" />
+		<modelAnswer>Champagne ____</modelAnswer>
+		<list1>CHAMPAGNE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clare" />
+		<gridItem answer="Limerick" />
+		<gridItem answer="Kerry" />
+		<gridItem answer="Wexford" />
+		<modelAnswer>Counties of Ireland</modelAnswer>
+		<list1>IRELAND*,IRISH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Out" />
+		<gridItem answer="Ramp" />
+		<gridItem answer="Short" />
+		<gridItem answer="Line" />
+		<modelAnswer>Can be followed with ___age</modelAnswer>
+		<list1>*AGE*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Alice" />
+		<gridItem answer="Helena" />
+		<gridItem answer="Beatrice" />
+		<gridItem answer="Victoria" />
+		<modelAnswer>Daughters of Queen Victoria</modelAnswer>
+		<list1>VICTORIA*,ALBERT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kennington" />
+		<gridItem answer="Queen's Park" />
+		<gridItem answer="Adelaide" />
+		<gridItem answer="Kensington" />
+		<modelAnswer>‘Oval’ cricket grounds</modelAnswer>
+		<list1>OVAL*,CRICKET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Waterloo" />
+		<gridItem answer="Mississippi" />
+		<gridItem answer="Wuthering Heights" />
+		<gridItem answer="Lucille" />
+		<modelAnswer>No.1 hits of the 1970s</modelAnswer>
+		<list1>NUMBER ONE,NUMBER 1,NO 1,NO.1,HIT*,SINGLE*,1970*,SEVENTIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Colorado" />
+		<gridItem answer="Missouri" />
+		<gridItem answer="Green" />
+		<gridItem answer="Arkansas" />
+		<modelAnswer>Major US rivers</modelAnswer>
+		<list1>US,USA,AMERICA*</list1>
+		<list2>RIVER*</list2>
+	</answers>
+</data>

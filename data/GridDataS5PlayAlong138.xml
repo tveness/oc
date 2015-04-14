@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pius VI" />
+		<gridItem answer="King Farouk" />
+		<gridItem answer="Idi Amin" />
+		<gridItem answer="James II" />
+		<modelAnswer>Died in exile</modelAnswer>
+		<list1>EXILE*,EXPAT*,DEPORT*,EXPUL*,OSTRACI*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Napoleon" />
+		<gridItem answer="Sequin" />
+		<gridItem answer="Double Eagle" />
+		<gridItem answer="Aureus" />
+		<modelAnswer>Gold coins</modelAnswer>
+		<list1>GOLD*,BULLION,COIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Zodiac" />
+		<gridItem answer="Buster" />
+		<gridItem answer="Blow" />
+		<gridItem answer="Serpico" />
+		<modelAnswer>‘True crime’ films</modelAnswer>
+		<list1>TRUE,REAL*,ACTUAL,FACTU*,CRIME</list1>
+		<list2>FILM*,MOVIE*,PICTURE*,VIDEO*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Melody" />
+		<gridItem answer="Precious" />
+		<gridItem answer="Moses" />
+		<gridItem answer="Omar" />
+		<modelAnswer>Characters in ‘Come Fly With Me’</modelAnswer>
+		<list1>FLY</list1>
+		<list2>COME</list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Topaz" />
+		<gridItem answer="Marnie" />
+		<gridItem answer="Downhill" />
+		<gridItem answer="Frenzy" />
+		<modelAnswer>Films directed by Alfred Hitchcock</modelAnswer>
+		<list1>HITCHCOCK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Super-G" />
+		<gridItem answer="Slalom" />
+		<gridItem answer="Aerials" />
+		<gridItem answer="Half-pipe" />
+		<modelAnswer>Ski disciplines</modelAnswer>
+		<list1>SKI*,WINTER*,SNOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sphene" />
+		<gridItem answer="Peridot" />
+		<gridItem answer="Larimar" />
+		<gridItem answer="Citrine" />
+		<modelAnswer>Semi-precious stones</modelAnswer>
+		<list1>PRECIOUS,STONE*,JEWEL*,GEM*,MINERAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Notorious" />
+		<gridItem answer="Rio" />
+		<gridItem answer="Liberty" />
+		<gridItem answer="Astronaut" />
+		<modelAnswer>Duran Duran albums</modelAnswer>
+		<list1>DURAN</list1>
+		<list2></list2>
+	</answers>
+</data>

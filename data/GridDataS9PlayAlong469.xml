@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Gould"/>
+		<gridItem answer="Mitchum"/>
+		<gridItem answer="Montgomery"/>
+		<gridItem answer="Powell"/>
+		<modelAnswer>Philip Marlowes</modelAnswer>
+		<list1>MARLOWE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bogart"/>
+		<gridItem answer="Candle"/>
+		<gridItem answer="Lavender"/>
+		<gridItem answer="Loom"/>
+		<modelAnswer>Start with toilets</modelAnswer>
+		<list1>TOILET*,WC*,CONVENIENCE*,REST*,WASH*,BATH*,LAVATOR*,WATER*,FLUSH*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Cardigan"/>
+		<gridItem answer="Flint"/>
+		<gridItem answer="Monmouth"/>
+		<gridItem answer="Radnor"/>
+		<modelAnswer>Historic Welsh counties</modelAnswer>
+		<list1>WELSH*,WALES*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Afghan"/>
+		<gridItem answer="Doily"/>
+		<gridItem answer="Bones"/>
+		<gridItem answer="Brow"/>
+		<modelAnswer>Can be knitted</modelAnswer>
+		<list1>KNIT*</list1>
+		<list2></list2>
+	</answers></data>

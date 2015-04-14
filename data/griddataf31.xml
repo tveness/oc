@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Copper" />
+		<gridItem answer="Plod" />
+		<gridItem answer="Law" />
+		<gridItem answer="Bobby" />
+		<modelAnswer>Slang terms for ‘policeman’</modelAnswer>
+		<list1>POLICE,DETECTIVE*,INVESTIGAT*,FLATFOOT,COP,COPS,DICK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Howard" />
+		<gridItem answer="Cameron" />
+		<gridItem answer="Stone" />
+		<gridItem answer="Milestone" />
+		<modelAnswer>Oscar-winning film directors</modelAnswer>
+		<list1>DIRECT*,FILM*,OSCAR,OSCARS,ACADEMY AWARD,ACADEMY AWARDS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Foot" />
+		<gridItem answer="Mile" />
+		<gridItem answer="Pound" />
+		<gridItem answer="Yard" />
+		<modelAnswer>Imperial measurements</modelAnswer>
+		<list1>MEASURE*,AMOUNT,AMOUNTS,UNIT,UNITS,QUANTIT*,IMPERIAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bill" />
+		<gridItem answer="Keel" />
+		<gridItem answer="Comb" />
+		<gridItem answer="Crest" />
+		<modelAnswer>Parts of a bird</modelAnswer>
+		<list1>BIRD,BIRDS,FOWL,AVES</list1>
+		<list2></list2>
+	</answers>
+</data>

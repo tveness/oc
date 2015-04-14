@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Limpet" />
+		<gridItem answer="Floating" />
+		<gridItem answer="Bottom" />
+		<gridItem answer="Moored" />
+		<modelAnswer>Types of naval mines</modelAnswer>
+		<list1>MINE*,EXPLOS*,CHARGE*,BOMB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Abalone" />
+		<gridItem answer="Periwinkle" />
+		<gridItem answer="Nerite" />
+		<gridItem answer="Cockle" />
+		<modelAnswer>Edible molluscs</modelAnswer>
+		<list1>MOLLUSC*,MOLLUSK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clam" />
+		<gridItem answer="Bullguard" />
+		<gridItem answer="Kaspersky" />
+		<gridItem answer="Sophos" />
+		<modelAnswer>Anti-virus software</modelAnswer>
+		<list1>ANTI*,VIRUS*,MALWARE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bowe" />
+		<gridItem answer="Bruno" />
+		<gridItem answer="Holmes" />
+		<gridItem answer="Norton" />
+		<modelAnswer>Heavyweight boxing champions</modelAnswer>
+		<list1>BOXING,BOXER*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cone" />
+		<gridItem answer="Weight" />
+		<gridItem answer="Network" />
+		<gridItem answer="Feminine" />
+		<modelAnswer>Contain numbers</modelAnswer>
+		<list1>NUMBER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Democrat" />
+		<gridItem answer="Services" />
+		<gridItem answer="Security" />
+		<gridItem answer="Media" />
+		<modelAnswer>Social ____</modelAnswer>
+		<list1>SOCIAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pyramid" />
+		<gridItem answer="Sphere" />
+		<gridItem answer="Cube" />
+		<gridItem answer="Cylinder" />
+		<modelAnswer>Three dimensional shapes</modelAnswer>
+		<list1>SOLID*,3D*,DIMENSION*,SHAPE*,FIGURE*,GEOMETR*,POLYHEDR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Disclosure" />
+		<gridItem answer="Jurassic Park" />
+		<gridItem answer="State of Fear" />
+		<gridItem answer="Airframe" />
+		<modelAnswer>Michael Crichton novels</modelAnswer>
+		<list1>CRICHTON*</list1>
+		<list2></list2>
+	</answers>
+</data>

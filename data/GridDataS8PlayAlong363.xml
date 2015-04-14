@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Mrs McClusky" />
+		<gridItem answer="Roly" />
+		<gridItem answer="Gripper" />
+		<gridItem answer="Zammo" />
+		<modelAnswer>'Grange Hill' characters</modelAnswer>
+		<list1>GRANGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tucker" />
+		<gridItem answer="Reed" />
+		<gridItem answer="Cale" />
+		<gridItem answer="Morrison" />
+		<modelAnswer>Members of The Velvet Underground</modelAnswer>
+		<list1>VELVET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wake" />
+		<gridItem answer="Chester" />
+		<gridItem answer="Hat" />
+		<gridItem answer="Mans" />
+		<modelAnswer>English towns called ____field</modelAnswer>
+		<list1>FIELD*,TOWN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sedge" />
+		<gridItem answer="Bulrush" />
+		<gridItem answer="Arrowhead" />
+		<gridItem answer="Cattail" />
+		<modelAnswer>Marsh plants</modelAnswer>
+		<list1>MARSH*,BOG*,SWAMP*,SEMIAQUAT*,AQUATIC</list1>
+		<list2></list2>
+	</answers>
+</data>

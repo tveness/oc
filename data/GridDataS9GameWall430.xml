@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Minister"/>
+		<gridItem answer="Suspect"/>
+		<gridItem answer="Number"/>
+		<gridItem answer="Meridian"/>
+		<modelAnswer>Prime ____</modelAnswer>
+		<list1>PRIME*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Westcountry"/>
+		<gridItem answer="Channel"/>
+		<gridItem answer="Thames"/>
+		<gridItem answer="Border"/>
+		<modelAnswer>ITV franchises </modelAnswer>
+		<list1>ITV*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Carlton"/>
+		<gridItem answer="Western Bulldogs"/>
+		<gridItem answer="Richmond"/>
+		<gridItem answer="Fremantle"/>
+		<modelAnswer>Australian rules football teams</modelAnswer>
+		<list1>RULES*,AFL*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Blackwall"/>
+		<gridItem answer="Hindhead"/>
+		<gridItem answer="Brynglas"/>
+		<gridItem answer="Kingsway"/>
+		<modelAnswer>UK road tunnels</modelAnswer>
+		<list1>TUNNEL*</list1>
+		<list2></list2>
+	</answers></data>

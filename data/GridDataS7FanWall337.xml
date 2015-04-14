@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Doyle" />
+		<gridItem answer="Paul" />
+		<gridItem answer="Kristian" />
+		<gridItem answer="Layton" />
+		<modelAnswer>Members of The New Seekers</modelAnswer>
+		<list1>SEEKERS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Graham" />
+		<gridItem answer="Pollard" />
+		<gridItem answer="Myles" />
+		<gridItem answer="Plumb" />
+		<modelAnswer>Famous Eves</modelAnswer>
+		<list1>EVE,EVES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Moody" />
+		<gridItem answer="Higgins" />
+		<gridItem answer="Plum" />
+		<gridItem answer="Langdon" />
+		<modelAnswer>Fictional professors</modelAnswer>
+		<list1>PROF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flitwick" />
+		<gridItem answer="Sandy" />
+		<gridItem answer="Harrold" />
+		<gridItem answer="Turvey" />
+		<modelAnswer>Places in Bedfordshire</modelAnswer>
+		<list1>BEDFORD*</list1>
+		<list2></list2>
+	</answers>
+</data>

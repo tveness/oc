@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Runaway" />
+		<gridItem answer="Breathless" />
+		<gridItem answer="So Young" />
+		<gridItem answer="What Can I Do" />
+		<modelAnswer>Corrs singles</modelAnswer>
+		<list1>CORR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Commuter" />
+		<gridItem answer="Freight" />
+		<gridItem answer="Bullet" />
+		<gridItem answer="Express" />
+		<modelAnswer>____ train</modelAnswer>
+		<list1>TRAIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slug" />
+		<gridItem answer="Shot" />
+		<gridItem answer="Cartridge" />
+		<gridItem answer="Round" />
+		<modelAnswer>Types of ammunition</modelAnswer>
+		<list1>AMMUN*,BULLET*,PELLET*,MISSILE*,PROPELLANT,SLUG*,AMMO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shell" />
+		<gridItem answer="Chevron" />
+		<gridItem answer="Total" />
+		<gridItem answer="Petronas" />
+		<modelAnswer>Energy companies</modelAnswer>
+		<list1>OIL,GAS,ENERGY,PETRO*,CHEM*,FUEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

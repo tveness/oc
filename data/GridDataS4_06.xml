@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="House" />
+		<gridItem answer="Chair" />
+		<gridItem answer="Salts" />
+		<gridItem answer="Asparagus" />
+		<modelAnswer>Bath ____</modelAnswer>
+		<list1>BATH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Button" />
+		<gridItem answer="Skip" />
+		<gridItem answer="Sweep" />
+		<gridItem answer="Guard" />
+		<modelAnswer>Terms used in curling</modelAnswer>
+		<list1>CURLING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lamb Chop" />
+		<gridItem answer="Edd" />
+		<gridItem answer="Soo" />
+		<gridItem answer="Nev" />
+		<modelAnswer>Hand puppets</modelAnswer>
+		<list1>PUPPET*,MARIONETTE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Emu" />
+		<gridItem answer="Kangaroo" />
+		<gridItem answer="Black swan" />
+		<gridItem answer="Southern Cross" />
+		<modelAnswer>Items on Australia’s coat of arms</modelAnswer>
+		<list1>AUSTRALIA*</list1>
+		<list2>COAT,ARMS,SHIELD,CREST</list2>
+	</answers>
+</data>

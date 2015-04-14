@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Frost" />
+		<gridItem answer="Bishop" />
+		<gridItem answer="Moore" />
+		<gridItem answer="Sexton" />
+		<modelAnswer>20th Century American poets</modelAnswer>
+		<list1>POET*,POEM*,BARD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Frog" />
+		<gridItem answer="Hair" />
+		<gridItem answer="Pad" />
+		<gridItem answer="Screw" />
+		<modelAnswer>Parts of a violin bow</modelAnswer>
+		<list1>STRING*,BOW,VIOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snow" />
+		<gridItem answer="Pin" />
+		<gridItem answer="Odd" />
+		<gridItem answer="Dodge" />
+		<modelAnswer>____ball</modelAnswer>
+		<list1>BALL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Deacon" />
+		<gridItem answer="Cardinal" />
+		<gridItem answer="Pope" />
+		<gridItem answer="Primate" />
+		<modelAnswer>Catholic clergy</modelAnswer>
+		<list1>CATHOLIC*,CLERGY*,PRIEST*,CHURCH*,CLERIC*,GOD*,CLOTH,MINISTER*,REVEREND*,PREACHER*,PASTOR*,PADRE*,PARSON*,RECTOR*,CANON,DEAN*,CURATE*,PRELATE,DIOCESE*,MINISTRY,HOLY</list1>
+		<list2></list2>
+	</answers>
+</data>

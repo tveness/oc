@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Mark" />
+		<gridItem answer="Guilder" />
+		<gridItem answer="Punt" />
+		<gridItem answer="Tolar" />
+		<modelAnswer>Currencies replaced by the Euro</modelAnswer>
+		<list1>EURO*,CURRENC*,MONEY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Smear" />
+		<gridItem answer="PR" />
+		<gridItem answer="Fund-raising" />
+		<gridItem answer="Military" />
+		<modelAnswer>____ campaign</modelAnswer>
+		<list1>CAMPAIGN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Benn" />
+		<gridItem answer="Shavin" />
+		<gridItem answer="Holmes" />
+		<gridItem answer="Dennis" />
+		<modelAnswer>Regulars on ‘The Now Show’</modelAnswer>
+		<list1>RADIO,NOW,COMEDY,COMEDIAN*,R4</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wassermann" />
+		<gridItem answer="Ishihara" />
+		<gridItem answer="Schilling" />
+		<gridItem answer="Mantoux" />
+		<modelAnswer>Common medical tests</modelAnswer>
+		<list1>MEDIC*,HEALTH,CHECK*,TEST*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Samuel Johnson" />
+		<gridItem answer="Paul Foot" />
+		<gridItem answer="Gladstone" />
+		<gridItem answer="Diamond Dagger" />
+		<modelAnswer>Awards for writing</modelAnswer>
+		<list1>WRIT*,LITERAT*,AWARD*,PRIZE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Thorpe" />
+		<gridItem answer="Lloyd George" />
+		<gridItem answer="Asquith" />
+		<gridItem answer="Grimond" />
+		<modelAnswer>Leaders of the Liberal Party</modelAnswer>
+		<list1>LIBERAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Doggie" />
+		<gridItem answer="Clutch" />
+		<gridItem answer="Tote" />
+		<gridItem answer="Overnight" />
+		<modelAnswer>____ bag</modelAnswer>
+		<list1>BAG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Differential" />
+		<gridItem answer="Fork" />
+		<gridItem answer="Gear" />
+		<gridItem answer="Synchromesh" />
+		<modelAnswer>Parts of a gearbox</modelAnswer>
+		<list1>GEAR*,ENGINE*,AUTO*,CAR,TRANSMISSION</list1>
+		<list2></list2>
+	</answers>
+</data>

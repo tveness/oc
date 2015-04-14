@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Schuhmacher" />
+		<gridItem answer="Brogan" />
+		<gridItem answer="Scarpa" />
+		<gridItem answer="Fargo" />
+		<modelAnswer>Terms for a shoemaker</modelAnswer>
+		<list1>SHOE*,MAKER,MANUFACTUR*,COBBLER*,BOOT*,FOOTWEAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ryan" />
+		<gridItem answer="Logan" />
+		<gridItem answer="Finn" />
+		<gridItem answer="Dragon" />
+		<modelAnswer>Airlines called ‘____air’</modelAnswer>
+		<list1>AIR,AIRLINE*,PLANE*,CARRIER*,FLIGHT,FLYING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ball" />
+		<gridItem answer="Harris" />
+		<gridItem answer="Benjamin" />
+		<gridItem answer="Arthur" />
+		<modelAnswer>‘Play School’ presenters</modelAnswer>
+		<list1>SCHOOL,CHILDREN*,PRESENT*,BBC,KIDS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Avis" />
+		<gridItem answer="Olly" />
+		<gridItem answer="Argot" />
+		<gridItem answer="Uriel" />
+		<modelAnswer>Girls’ names without the first M</modelAnswer>
+		<list1>GIRL*,FEMALE,WOMAN*,WOMEN*,FORENAME*,NAME,NAMES,MISSING</list1>
+		<list2></list2>
+	</answers>
+</data>

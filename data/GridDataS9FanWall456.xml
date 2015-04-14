@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Rebel" />
+		<gridItem answer="There" />
+		<gridItem answer="Money" />
+		<gridItem answer="Gimme" />
+		<modelAnswer>Repetitive song titles</modelAnswer>
+		<list1>REPEAT*,TWICE*,AGAIN*,SAME*,REPET*,TWO*,DOUBLE*</list1>
+		<list2>TITLE*,SONG*,TUNE*,RECORD*,HIT*,TRACK*,MUSIC*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="New York" />
+		<gridItem answer="Whitley Bay" />
+		<gridItem answer="Barnes" />
+		<gridItem answer="Washington" />
+		<modelAnswer>Places in Tyne and Wear </modelAnswer>
+		<list1>TYNE*,WEAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Waddle" />
+		<gridItem answer="McManaman" />
+		<gridItem answer="Heskey" />
+		<gridItem answer="Cole" />
+		<modelAnswer>England footballers</modelAnswer>
+		<list1>ENGLAND*</list1>
+		<list2>PLAY*,FOOT*,SOCC*,TEAM*,SQUAD*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parker" />
+		<gridItem answer="Dallas" />
+		<gridItem answer="Ash" />
+		<gridItem answer="Ripley" />
+		<modelAnswer>Characters in the film Alien</modelAnswer>
+		<list1>ALIEN*</list1>
+		<list2></list2>
+	</answers>
+</data>

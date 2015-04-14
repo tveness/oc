@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Greylag" />
+		<gridItem answer="Canada" />
+		<gridItem answer="Egyptian" />
+		<gridItem answer="Snow" />
+		<modelAnswer>Geese</modelAnswer>
+		<list1>GOOSE,GEESE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cough" />
+		<gridItem answer="Acid" />
+		<gridItem answer="Chocolate" />
+		<gridItem answer="Pear" />
+		<modelAnswer>‘____ drop’ confectionery</modelAnswer>
+		<list1>DROP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wark" />
+		<gridItem answer="Esler" />
+		<gridItem answer="Tusa" />
+		<gridItem answer="Maitlis" />
+		<modelAnswer>‘Newsnight’ presenters</modelAnswer>
+		<list1>NEWS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Iveco" />
+		<gridItem answer="Paxman" />
+		<gridItem answer="Isuzu" />
+		<gridItem answer="Cummins" />
+		<modelAnswer>Engine manufacturers</modelAnswer>
+		<list1>ENGINE*,TRUCK,LORRY,LORRIES,TRAILER,VAN,WAGON,JUGGERNAUT,PICK*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Soft Cell" />
+		<gridItem answer="Talk Talk" />
+		<gridItem answer="Visage" />
+		<gridItem answer="ABC" />
+		<modelAnswer>New Wave/New Romantic bands</modelAnswer>
+		<list1>NEW,WAVE,ROMANTIC,80*,EIGHTIES,1980*,POP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Winking" />
+		<gridItem answer="Pie" />
+		<gridItem answer="Falling off a log" />
+		<gridItem answer="Riding a bike" />
+		<modelAnswer>As easy as ____</modelAnswer>
+		<list1>EASY,EASIER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lebara" />
+		<gridItem answer="EE" />
+		<gridItem answer="Three" />
+		<gridItem answer="giffgaff" />
+		<modelAnswer>UK mobile service providers</modelAnswer>
+		<list1>MOBILE,PHONE,TELEPH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Old paint" />
+		<gridItem answer="Orange" />
+		<gridItem answer="Sticker" />
+		<gridItem answer="Eyes" />
+		<modelAnswer>Things that are peeled</modelAnswer>
+		<list1>PEEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

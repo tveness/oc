@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="The Count" />
+		<gridItem answer="Silverback" />
+		<gridItem answer="Prince of Wales" />
+		<gridItem answer="Wolfie" />
+		<modelAnswer>Nicknames of dart players</modelAnswer>
+		<list1>DART*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="César" />
+		<gridItem answer="BAFTA" />
+		<gridItem answer="Golden Bear" />
+		<gridItem answer="Golden Rooster" />
+		<modelAnswer>International film awards</modelAnswer>
+		<list1>AWARD*,FILM*,MOVIE*,CINEMA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Oscar" />
+		<gridItem answer="Grover" />
+		<gridItem answer="Guy Smiley" />
+		<gridItem answer="Elmo" />
+		<modelAnswer>‘Sesame Street’ characters</modelAnswer>
+		<list1>SESAME</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lamb and Flag" />
+		<gridItem answer="Cross Keys" />
+		<gridItem answer="Green Man" />
+		<gridItem answer="Turk’s Head" />
+		<modelAnswer>Traditional pub names</modelAnswer>
+		<list1>PUB*,HOSTEL*,INN*,TAVERN*,BAR*,SALOON,TAPROOM,BREW*</list1>
+		<list2></list2>
+	</answers>
+</data>

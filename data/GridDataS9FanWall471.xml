@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Virgin" />
+		<gridItem answer="Prayer" />
+		<gridItem answer="G6" />
+		<gridItem answer="Rolling Stone" />
+		<modelAnswer>‘Like a ____’ song titles</modelAnswer>
+		<list1>LIKE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Q" />
+		<gridItem answer="Select" />
+		<gridItem answer="NME" />
+		<gridItem answer="Melody Maker" />
+		<modelAnswer>Music magazines</modelAnswer>
+		<list1>MUSIC*</list1>
+		<list2>MAG*,PUBLI*,PAPER*,JOURNAL*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="A4" />
+		<gridItem answer="Coronation" />
+		<gridItem answer="9F" />
+		<gridItem answer="Merchant Navy" />
+		<modelAnswer>Classes of steam locomotives</modelAnswer>
+		<list1>STEAM*,ENGINE*,LOCO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stella" />
+		<gridItem answer="Pigeon" />
+		<gridItem answer="Benefits" />
+		<gridItem answer="Ripper" />
+		<modelAnswer>‘____ Street’ TV programmes</modelAnswer>
+		<list1>STREET*</list1>
+		<list2></list2>
+	</answers>
+</data>

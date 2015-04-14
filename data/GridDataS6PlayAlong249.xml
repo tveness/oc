@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Nikita" />
+		<gridItem answer="Subway" />
+		<gridItem answer="Léon" />
+		<gridItem answer="The Fifth Element" />
+		<modelAnswer>Luc Besson films</modelAnswer>
+		<list1>BESSON</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pamplona" />
+		<gridItem answer="Salamanca" />
+		<gridItem answer="Toledo" />
+		<gridItem answer="Burgos" />
+		<modelAnswer>Inland Spanish cities</modelAnswer>
+		<list1>SPAIN,SPANISH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Suffolk" />
+		<gridItem answer="Belgian" />
+		<gridItem answer="Clydesdale" />
+		<gridItem answer="Percheron" />
+		<modelAnswer>Types of draught horse</modelAnswer>
+		<list1>DRAUGHT*,HORSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Egg" />
+		<gridItem answer="Northern" />
+		<gridItem answer="Santander" />
+		<gridItem answer="Yorkshire" />
+		<modelAnswer>British banks owned by foreign groups</modelAnswer>
+		<list1>BANK*,FINANC*</list1>
+		<list2></list2>
+	</answers>
+</data>

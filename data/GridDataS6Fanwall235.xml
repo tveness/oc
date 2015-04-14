@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Chicago" />
+		<gridItem answer="Crash" />
+		<gridItem answer="Oliver" />
+		<gridItem answer="Rebecca" />
+		<modelAnswer>Winners of a \'Best Picture\' Oscar</modelAnswer>
+		<list1>OSCAR*,ACADEMY*,AWARD*,FILM*,MOVIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pluto" />
+		<gridItem answer="Dynamo" />
+		<gridItem answer="Mincemeat" />
+		<gridItem answer="Titanic" />
+		<modelAnswer>WWII Allied \'Operations\'</modelAnswer>
+		<list1>OPERATION*,ALLIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Atlas" />
+		<gridItem answer="Rocky" />
+		<gridItem answer="Boston" />
+		<gridItem answer="Taurus" />
+		<modelAnswer>Mountain ranges</modelAnswer>
+		<list1>MOUNTAIN*,RANGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Theo" />
+		<gridItem answer="Demo" />
+		<gridItem answer="Auto" />
+		<gridItem answer="Bureau" />
+		<modelAnswer>____cracy</modelAnswer>
+		<list1>CRACY,CRACIES,GOVERN*,SOCIETY,RULE*,ADMIN*,POLITIC*,REGIME*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cardinal" />
+		<gridItem answer="Murmur" />
+		<gridItem answer="Short" />
+		<gridItem answer="Svarabhakti" />
+		<modelAnswer>Types of vowel</modelAnswer>
+		<list1>VOWEL*,PHILOL*,PHONET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Million Woman" />
+		<gridItem answer="Salt" />
+		<gridItem answer="Long" />
+		<gridItem answer="Jarrow" />
+		<modelAnswer>Famous marches</modelAnswer>
+		<list1>MARCH*,CRUSADE*,PROTEST*,CIVIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hunger" />
+		<gridItem answer="Gone" />
+		<gridItem answer="Lies" />
+		<gridItem answer="Plague" />
+		<modelAnswer>Young adult novels by Michael Grant</modelAnswer>
+		<list1>GONE,GRANT*,BOOK*,NOVEL*,DYSTOP*,CHILD*,TEEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fear" />
+		<gridItem answer="Lamb" />
+		<gridItem answer="Son" />
+		<gridItem answer="Act" />
+		<modelAnswer>____ of God</modelAnswer>
+		<list1>GOD</list1>
+		<list2></list2>
+	</answers>
+</data>

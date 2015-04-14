@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Species" />
+		<gridItem answer="Alien" />
+		<gridItem answer="Iron Man" />
+		<gridItem answer="Star Wars" />
+		<modelAnswer>Sci-fi film series</modelAnswer>
+		<list1>SCI-FI,SCIFI,SCIENCE,FANTASY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Model Army" />
+		<gridItem answer="Edition" />
+		<gridItem answer="Order" />
+		<gridItem answer="Seekers" />
+		<modelAnswer>Bands called 'New ____'</modelAnswer>
+		<list1>NEW</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Baby Boomer" />
+		<gridItem answer="RPM" />
+		<gridItem answer="Genus" />
+		<gridItem answer="Family" />
+		<modelAnswer>'Trivial Pursuit' editions</modelAnswer>
+		<list1>TRIVIAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kingdom" />
+		<gridItem answer="Lander" />
+		<gridItem answer="Jeeves" />
+		<gridItem answer="Wilde" />
+		<modelAnswer>Stephen Fry acting roles</modelAnswer>
+		<list1>FRY</list1>
+		<list2></list2>
+	</answers>
+</data>

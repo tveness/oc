@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="LBJ" />
+		<gridItem answer="FDR" />
+		<gridItem answer="HST" />
+		<gridItem answer="GWB" />
+		<modelAnswer>Abbreviations used to denote US Presidents</modelAnswer>
+		<list1>US,USA,US OF A,UNITED STATES,AMERICA*,ABBREVIATION*,INITIALS</list1>
+		<list2>PRESIDENT*,LEADER*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="CNN" />
+		<gridItem answer="QVC" />
+		<gridItem answer="NBC" />
+		<gridItem answer="MTV" />
+		<modelAnswer>TV channels</modelAnswer>
+		<list1>TV,TELEVISION,CHANNEL*,STATION*,BROADCAST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="NVQ" />
+		<gridItem answer="MBA" />
+		<gridItem answer="HNC" />
+		<gridItem answer="SVQ" />
+		<modelAnswer>Qualifications</modelAnswer>
+		<list1>QUALIFICATION*,EXAM*,ASSESSMENT*,EDUCATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="ABC" />
+		<gridItem answer="EMF" />
+		<gridItem answer="REM" />
+		<gridItem answer="XTC" />
+		<modelAnswer>Pop groups</modelAnswer>
+		<list1>BAND*,GROUP*,POP,MUSIC*,ACTS,ARTIST*,ENTERTAIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

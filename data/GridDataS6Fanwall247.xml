@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spokes" />
+		<gridItem answer="Milk" />
+		<gridItem answer="Post" />
+		<gridItem answer="Dust" />
+		<modelAnswer>____man occupations</modelAnswer>
+		<list1>MAN*,MEN*,OCCUPAT*,WORK*,JOB*,PROFESS*,CAREER*,VOCAT*,EMPLOY*,TRADE*,POST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chain" />
+		<gridItem answer="Saddle" />
+		<gridItem answer="Frame" />
+		<gridItem answer="Forks" />
+		<modelAnswer>Parts of a bicycle</modelAnswer>
+		<list1>BICYCL*,BIKE*,CYCLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flat" />
+		<gridItem answer="Hipped" />
+		<gridItem answer="Gabled" />
+		<gridItem answer="Mansard" />
+		<modelAnswer>Types of roof</modelAnswer>
+		<list1>ROOF*,ROOVES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Link" />
+		<gridItem answer="Pole" />
+		<gridItem answer="Furlong" />
+		<gridItem answer="Yard" />
+		<modelAnswer>Imperial measures of length</modelAnswer>
+		<list1>IMPERIAL*,MEASURE*,UNIT*,LENGTH*,LONG*,DISTANCE*,SIZE*</list1>
+		<list2></list2>
+	</answers>
+</data>

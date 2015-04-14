@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Forsyth" />
+		<gridItem answer="Edmonds" />
+		<gridItem answer="Holmes" />
+		<gridItem answer="Parsons" />
+		<modelAnswer>Quiz show hosts</modelAnswer>
+		<list1>QUIZ,GAME,TV,T.V.,TELEVISION,HOST,PRESENTER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jaffa" />
+		<gridItem answer="Eccles" />
+		<gridItem answer="Banbury" />
+		<gridItem answer="Chorley" />
+		<modelAnswer>Cakes</modelAnswer>
+		<list1>CAKE,PASTRY,PASTRIES,DAINTY,SWEET</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plum" />
+		<gridItem answer="Moriarty" />
+		<gridItem answer="Indiana Jones" />
+		<gridItem answer="Higgins" />
+		<modelAnswer>Fictional professors</modelAnswer>
+		<list1>PROFESSOR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Riser" />
+		<gridItem answer="Tread" />
+		<gridItem answer="Newel" />
+		<gridItem answer="Banister" />
+		<modelAnswer>Parts of a staircase</modelAnswer>
+		<list1>STAIRS,STAIRCASE,STEPS</list1>
+		<list2></list2>
+	</answers>
+</data>

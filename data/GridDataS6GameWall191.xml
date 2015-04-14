@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Knox" />
+		<gridItem answer="Roache" />
+		<gridItem answer="Derbyshire" />
+		<gridItem answer="Cotton" />
+		<modelAnswer>Actors in ‘Coronation Street’</modelAnswer>
+		<list1>CORRIE*,CORONATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Worth" />
+		<gridItem answer="Lauderdale" />
+		<gridItem answer="Wayne" />
+		<gridItem answer="Myers" />
+		<modelAnswer>US cities called Fort ____</modelAnswer>
+		<list1>FORT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Steel" />
+		<gridItem answer="Paper" />
+		<gridItem answer="Flour" />
+		<gridItem answer="Cider" />
+		<modelAnswer>Products that are milled</modelAnswer>
+		<list1>MILL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coffee" />
+		<gridItem answer="Bassoon" />
+		<gridItem answer="Woollen" />
+		<gridItem answer="Tattoo" />
+		<modelAnswer>Consecutive double letters</modelAnswer>
+		<list1>DOUBLE*,TWO,PAIR*</list1>
+		<list2></list2>
+	</answers>
+</data>

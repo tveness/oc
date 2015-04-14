@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Orwell" />
+		<gridItem answer="Bell" />
+		<gridItem answer="Forester" />
+		<gridItem answer="Eliot" />
+		<modelAnswer>Pen names of famous authors</modelAnswer>
+		<list1>PEN,PLUME,NOM,NOMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ness" />
+		<gridItem answer="Fyne" />
+		<gridItem answer="Lomond" />
+		<gridItem answer="Tay" />
+		<modelAnswer>Scottish lochs</modelAnswer>
+		<list1>LOCH*,LAKE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carroll" />
+		<gridItem answer="Collins" />
+		<gridItem answer="Hamilton" />
+		<gridItem answer="Milestone" />
+		<modelAnswer>Famous people called Lewis</modelAnswer>
+		<list1>LEWIS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Country" />
+		<gridItem answer="Broad" />
+		<gridItem answer="Quay" />
+		<gridItem answer="Mersey" />
+		<modelAnswer>____side</modelAnswer>
+		<list1>SIDE</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Opal" />
+		<gridItem answer="Beryl" />
+		<gridItem answer="Jade" />
+		<gridItem answer="Jasper" />
+		<modelAnswer>Gemstones</modelAnswer>
+		<list1>GEM*,JEWEL*,PRECIOUS*,STONE*,TREASUR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Reinier" />
+		<gridItem answer="Hannah" />
+		<gridItem answer="Otto" />
+		<gridItem answer="Eve" />
+		<modelAnswer>Palindromic names</modelAnswer>
+		<list1>READ*,EITHER*,DIRECTION*,FORWARD*,BACK*,PALINDROM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ruby" />
+		<gridItem answer="Ada" />
+		<gridItem answer="Python" />
+		<gridItem answer="Cobra" />
+		<modelAnswer>Computer languages</modelAnswer>
+		<list1>LANGUAG*,PROGRAM*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sidewinder" />
+		<gridItem answer="Boa" />
+		<gridItem answer="Adder" />
+		<gridItem answer="Anaconda" />
+		<modelAnswer>Snakes</modelAnswer>
+		<list1>SNAKE*,REPTILE*</list1>
+		<list2></list2>
+	</answers>
+</data>

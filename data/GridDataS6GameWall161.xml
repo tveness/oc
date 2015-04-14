@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="1Xtra" />
+		<gridItem answer="Caroline" />
+		<gridItem answer="Luxembourg" />
+		<gridItem answer="Free Asia" />
+		<modelAnswer>Radio stations called ‘Radio ____’</modelAnswer>
+		<list1>RADIO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Windermere" />
+		<gridItem answer="Hunstanton" />
+		<gridItem answer="Chiltern" />
+		<gridItem answer="Bracknell" />
+		<modelAnswer>Ladies in Oscar Wilde plays</modelAnswer>
+		<list1>OSCAR*,WILDE*,LADY,LADIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gaga" />
+		<gridItem answer="Daffy" />
+		<gridItem answer="Cuckoo" />
+		<gridItem answer="Screwball" />
+		<modelAnswer>Synonyms for ‘crazy’</modelAnswer>
+		<list1>MAD*,BALMY,BARMY,BATTY,BONKER*,CRACK*,DAFT*,DOTTY*,GOOF*,KOOK*,LOCO,LOON*,LOOP*,NUTS,NUTTY,BEND,TWIST,UNSTABLE,MIND,MENTAL*,HEAD,ZANY,WACK*,WHACK*,FOOL*,CRAZ*,SILLY,SILLI*,STUPID*,ABSURD,RIDICULOUS,LUDICR*,PREPOSTER*,FARCI*,LAUGH*,OUTRAGE*,NONSENS*,SENSELESS,UNWISE,ODD,PECULIAR,WILD*,INAN*,DUMB,BARM*,HARE*,CRACK*,IDIOT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Orville" />
+		<gridItem answer="Edd" />
+		<gridItem answer="Howard" />
+		<gridItem answer="Donald" />
+		<modelAnswer>Fictional ducks</modelAnswer>
+		<list1>DUCK*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Vonnegut" />
+		<gridItem answer="Godel" />
+		<gridItem answer="Waldheim" />
+		<gridItem answer="Cobain" />
+		<modelAnswer>Famous Kurts</modelAnswer>
+		<list1>KURT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ely" />
+		<gridItem answer="Bedford" />
+		<gridItem answer="King's Lynn" />
+		<gridItem answer="St Neots" />
+		<modelAnswer>Places on the (Great) Ouse river</modelAnswer>
+		<list1>OUSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="1994" />
+		<gridItem answer="Russell" />
+		<gridItem answer="N8" />
+		<gridItem answer="million+" />
+		<modelAnswer>University consortia</modelAnswer>
+		<list1>UNI*,HIGHER,EDUCAT*,COLLEGE*,TEACH*,GROUP*,CONSORT*,PRESSURE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crohn" />
+		<gridItem answer="Weil" />
+		<gridItem answer="Huntingdon" />
+		<gridItem answer="Lou Gehrig" />
+		<modelAnswer>Have diseases named after them</modelAnswer>
+		<list1>DISEASE*,MEDICAL*,CONDITION*,ILL*,SICK*,COMPLAIN*,AILMENT*,DISORDER*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Choux" />
+		<gridItem answer="Sweet" />
+		<gridItem answer="Puff" />
+		<gridItem answer="Short" />
+		<modelAnswer>Types of pastry</modelAnswer>
+		<list1>PASTRY,PASTRIES,DOUGH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brabant" />
+		<gridItem answer="Orange" />
+		<gridItem answer="Piedmont" />
+		<gridItem answer="Asturias" />
+		<modelAnswer>Heirs to European monarchies</modelAnswer>
+		<list1>HEIR*,ROYAL*,HOUSE*,MONARCH*,SUCCESS*,INHERIT*,IMPERIAL*,MAJEST*,REGAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pistol" />
+		<gridItem answer="Quickly" />
+		<gridItem answer="Rugby" />
+		<gridItem answer="Ford" />
+		<modelAnswer>‘The Merry Wives of Windsor’ characters</modelAnswer>
+		<list1>MERRY,WINDSOR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Zuckerberg" />
+		<gridItem answer="Filo" />
+		<gridItem answer="Wales" />
+		<gridItem answer="Page" />
+		<modelAnswer>Internet entrepreneurs</modelAnswer>
+		<list1>INTERNET*,WEB*,CYBER*,CEO*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Borage" />
+		<gridItem answer="Savory" />
+		<gridItem answer="Angelica" />
+		<gridItem answer="Rosemary" />
+		<modelAnswer>Herbs</modelAnswer>
+		<list1>HERB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mariette" />
+		<gridItem answer="Primrose" />
+		<gridItem answer="Montgomery" />
+		<gridItem answer="Pop" />
+		<modelAnswer>The Larkins of H.E. Bates</modelAnswer>
+		<list1>DARLING,BUDS,LARKIN*,BATES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lavender" />
+		<gridItem answer="Parliament" />
+		<gridItem answer="Tower" />
+		<gridItem answer="Ludgate" />
+		<modelAnswer>London hills</modelAnswer>
+		<list1>HILL*</list1>
+		<list2>LONDON*,CAPITAL</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ironside" />
+		<gridItem answer="Dill" />
+		<gridItem answer="Gort" />
+		<gridItem answer="Alexander" />
+		<modelAnswer>WWII Field Marshals</modelAnswer>
+		<list1>WWII,SECOND,WAR TWO,FIELD,MARSHAL,COMMANDER</list1>
+		<list2></list2>
+	</answers>
+</data>

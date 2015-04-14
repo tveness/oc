@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Vincent" />
+		<gridItem answer="Grandad" />
+		<gridItem answer="Bright Eyes" />
+		<gridItem answer="Wuthering Heights" />
+		<modelAnswer>1970s UK Number One hits</modelAnswer>
+		<list1>NUMBER*,NO*,CHART*,SONG*,POP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Trigger" />
+		<gridItem answer="Boycie" />
+		<gridItem answer="Denzil" />
+		<gridItem answer="Damien" />
+		<modelAnswer>Only Fools and Horses characters</modelAnswer>
+		<list1>OFAH*,FOOLS*,SULLIVAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cassandra" />
+		<gridItem answer="Paris" />
+		<gridItem answer="Lycaon" />
+		<gridItem answer="Troilus" />
+		<modelAnswer>Offspring of King Priam in mythology</modelAnswer>
+		<list1>GREEK*,GREECE,MYTHOL*,PRIAM</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="El Paso" />
+		<gridItem answer="Houston" />
+		<gridItem answer="Austin" />
+		<gridItem answer="Laredo" />
+		<modelAnswer>Cities in Texas</modelAnswer>
+		<list1>TEXAS,TEXAN</list1>
+		<list2></list2>
+	</answers>
+</data>

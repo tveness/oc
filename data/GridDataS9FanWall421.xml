@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Lessing"/>
+		<gridItem answer="Müller"/>
+		<gridItem answer="Gordimer"/>
+		<gridItem answer="Buck"/>
+		<modelAnswer>Female Nobel Prize-winning authors</modelAnswer>
+		<list1>NOBEL*</list1>
+		<list2>WRITE*,NOVEL*,LITERATURE*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Tom"/>
+		<gridItem answer="Drone"/>
+		<gridItem answer="Drake"/>
+		<gridItem answer="Peacock"/>
+		<modelAnswer>Names for male animals</modelAnswer>
+		<list1>MALE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Munro"/>
+		<gridItem answer="Butte"/>
+		<gridItem answer="Drumlin"/>
+		<gridItem answer="Tor"/>
+		<modelAnswer>Types of hills</modelAnswer>
+		<list1>HILL*,MOUNTAIN*,HIGH*,TALL*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bligh"/>
+		<gridItem answer="Nelson"/>
+		<gridItem answer="Raleigh"/>
+		<gridItem answer="Cook"/>
+		<modelAnswer>Sea captains</modelAnswer>
+		<list1>CAPT*,SAIL*,NAV*F</list1>
+		<list2></list2>
+	</answers></data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Eye" />
+		<gridItem answer="Masculine" />
+		<gridItem answer="Double" />
+		<gridItem answer="Imperfect" />
+		<modelAnswer>Types of rhyme</modelAnswer>
+		<list1>RHYM*,POET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nursery" />
+		<gridItem answer="Border" />
+		<gridItem answer="Plot" />
+		<gridItem answer="Rockery" />
+		<modelAnswer>Horticultural spaces</modelAnswer>
+		<list1>PLANT*,GROW*,FARM*,GARDEN*,HORTICUL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bed" />
+		<gridItem answer="Doodle" />
+		<gridItem answer="Jitter" />
+		<gridItem answer="Litter" />
+		<modelAnswer>Ways of describing people as a bug</modelAnswer>
+		<list1>BUG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clutch" />
+		<gridItem answer="Brood" />
+		<gridItem answer="Spawn" />
+		<gridItem answer="Farrow" />
+		<modelAnswer>Groups of animals at birth</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,OFFSPRING*,PROGENY,COLLECTIVE*,CHILD*,YOUNG*,BIRTH*,BORN,BABIES,ISSUE,FAMILY</list1>
+		<list2></list2>
+	</answers>
+</data>

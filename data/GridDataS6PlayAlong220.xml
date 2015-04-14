@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Golem" />
+		<gridItem answer="Nosh" />
+		<gridItem answer="Mensch" />
+		<gridItem answer="Klutz" />
+		<modelAnswer>Words derived from Yiddish</modelAnswer>
+		<list1>YIDDISH,HEBREW,JEW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Muggins" />
+		<gridItem answer="Dipstick" />
+		<gridItem answer="Drongo" />
+		<gridItem answer="Gowk" />
+		<modelAnswer>Terms for a fool</modelAnswer>
+		<list1>FOOL*,BLOCKHEAD,FATHEAD,DUNCE*,DIMWIT,SIMPLETON,HALFWIT,IDIOT*,IMBECILE,IGNORAMUS,MORON*,DUPE,STOOGE*,BUTT,CLOWN*,COMIC*,BUFFOON*,JESTER*,MUGGINS,JACKASS,EEJIT,ASS*,CLOT,DOPE,TWIT*,NITWIT,MUG*,TWERP,BIRDBRAIN,BERK,WALLY*,JERK*,DUMB*,PRAT,DORK,GEEK*,PLONKER,DIPSTICK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kinsella" />
+		<gridItem answer="Keyes" />
+		<gridItem answer="Ahern" />
+		<gridItem answer="Fielding" />
+		<modelAnswer>‘Chick lit’ authors</modelAnswer>
+		<list1>CHICK*,AUTHOR*,ROMANTIC,ROMANCE,WRITER*,NOVEL*,FICTION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snorlax" />
+		<gridItem answer="Jigglypuff" />
+		<gridItem answer="Bulbasaur" />
+		<gridItem answer="Ditto" />
+		<modelAnswer>Pokémon characters</modelAnswer>
+		<list1>POK*</list1>
+		<list2></list2>
+	</answers>
+</data>

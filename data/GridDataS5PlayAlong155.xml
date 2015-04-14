@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Field" />
+		<gridItem answer="Ring" />
+		<gridItem answer="Group" />
+		<gridItem answer="Monoid" />
+		<modelAnswer>Structures in abstract algebra</modelAnswer>
+		<list1>MATH*,ALGEBRA,NUMBER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Johnson" />
+		<gridItem answer="Webster" />
+		<gridItem answer="Grove" />
+		<gridItem answer="Partridge" />
+		<modelAnswer>Noted lexicographers</modelAnswer>
+		<list1>LEXIC*,DICTION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lime" />
+		<gridItem answer="Wormold" />
+		<gridItem answer="Pulling" />
+		<gridItem answer="Fowler" />
+		<modelAnswer>Characters in Graham Greene novels</modelAnswer>
+		<list1>GREENE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ideal" />
+		<gridItem answer="Massive" />
+		<gridItem answer="Funland" />
+		<gridItem answer="Bodies" />
+		<modelAnswer>BBC Three series</modelAnswer>
+		<list1>BBC</list1>
+		<list2></list2>
+	</answers>
+</data>

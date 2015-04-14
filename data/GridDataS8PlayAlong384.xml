@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ivanhoe" />
+		<gridItem answer="Maverick" />
+		<gridItem answer="Sinclair" />
+		<gridItem answer="Templar" />
+		<modelAnswer>Characters played by Roger Moore</modelAnswer>
+		<list1>MOORE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sense" />
+		<gridItem answer="Perfect" />
+		<gridItem answer="The Life of Riley" />
+		<gridItem answer="Three Lions" />
+		<modelAnswer>The Lightning Seeds songs</modelAnswer>
+		<list1>SEEDS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Food" />
+		<gridItem answer="Bond" />
+		<gridItem answer="Mail" />
+		<gridItem answer="Shop" />
+		<modelAnswer>Junk ____</modelAnswer>
+		<list1>JUNK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Elchi" />
+		<gridItem answer="Pains" />
+		<gridItem answer="Laity" />
+		<gridItem answer="Pure" />
+		<modelAnswer>Anagrams of countries</modelAnswer>
+		<list1>COUNTR*,ANAGRAM*</list1>
+		<list2></list2>
+	</answers>
+</data>

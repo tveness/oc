@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brown" />
+		<gridItem answer="Columbia" />
+		<gridItem answer="Yale" />
+		<gridItem answer="Cornell" />
+		<modelAnswer>Ivy League establishments</modelAnswer>
+		<list1>IVY,UNIVERSIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snow White" />
+		<gridItem answer="Pocahontas" />
+		<gridItem answer="Merida" />
+		<gridItem answer="Jasmine" />
+		<modelAnswer>Disney Princessess</modelAnswer>
+		<list1>PRINCESS*,DISNEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Romeo and Juliet" />
+		<gridItem answer="Chout" />
+		<gridItem answer="Trapeze" />
+		<gridItem answer="Cinderella" />
+		<modelAnswer>Ballets by Prokofiev</modelAnswer>
+		<list1>PROKOVIEV,PROKOFIEV</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Basmati" />
+		<gridItem answer="Bomba" />
+		<gridItem answer="Popcorn" />
+		<gridItem answer="Arborio" />
+		<modelAnswer>Varieties of rice</modelAnswer>
+		<list1>RICE*,GRAIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

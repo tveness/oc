@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Chest" />
+		<gridItem answer="Bounce" />
+		<gridItem answer="Underarm" />
+		<gridItem answer="Shoulder" />
+		<modelAnswer>Passes in netball</modelAnswer>
+		<list1>PASS*,NET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Blade" />
+		<gridItem answer="Belly" />
+		<gridItem answer="Loin" />
+		<gridItem answer="Trotter" />
+	<modelAnswer>Cuts of pork</modelAnswer>
+		<list1>PORK*,PIG,HOG</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hock" />
+		<gridItem answer="Kabinett" />
+		<gridItem answer="Eiswein" />
+		<gridItem answer="Trocken" />
+		<modelAnswer>Terms used to describe German wine</modelAnswer>
+		<list1>GERMAN*</list1>
+		<list2>WINE*,DRINK*,ALCO*,WEIN*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Passenger 57" />
+		<gridItem answer="Demolition Man" />
+		<gridItem answer="Drop Zone" />
+		<gridItem answer="Money Train" />
+		<modelAnswer>Wesley Snipes films</modelAnswer>
+		<list1>SNIPES*</list1>
+		<list2></list2>
+	</answers>
+</data>

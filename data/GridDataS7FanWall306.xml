@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Gelb" />
+		<gridItem answer="Schwarz" />
+		<gridItem answer="Rot" />
+		<gridItem answer="Blau" />
+		<modelAnswer>Colours in German</modelAnswer>
+		<list1>GERMAN*,DEUTSCH,COLOUR*,COLOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Run" />
+		<gridItem answer="Cleaning" />
+		<gridItem answer="Ice" />
+		<gridItem answer="Land" />
+		<modelAnswer>Dry ____</modelAnswer>
+		<list1>DRY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Capablanca" />
+		<gridItem answer="Kasparov" />
+		<gridItem answer="Anand" />
+		<gridItem answer="Fischer" />
+		<modelAnswer>World chess champions</modelAnswer>
+		<list1>CHESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="German Bight" />
+		<gridItem answer="Sole" />
+		<gridItem answer="Trafalgar" />
+		<gridItem answer="Malin" />
+		<modelAnswer>Shipping Forecast regions</modelAnswer>
+		<list1>SHIPPING*,WEATHER*,METEOR*,FORECAST*</list1>
+		<list2></list2>
+	</answers>
+</data>

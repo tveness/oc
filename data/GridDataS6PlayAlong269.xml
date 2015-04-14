@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Split" />
+		<gridItem answer="Dubrovnik" />
+		<gridItem answer="Zadar" />
+		<gridItem answer="Rijeka" />
+		<modelAnswer>Cities in Croatia</modelAnswer>
+		<list1>CROATIA</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hearns" />
+		<gridItem answer="Hagler" />
+		<gridItem answer="Benn" />
+		<gridItem answer="Eubank" />
+		<modelAnswer>World Middleweight boxing champions</modelAnswer>
+		<list1>BOXING*,BOXER*,MIDDLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Duran" />
+		<gridItem answer="Sub" />
+		<gridItem answer="The" />
+		<gridItem answer="Talk" />
+		<modelAnswer>Form pop groups when repeated</modelAnswer>
+		<list1>POP*,MUSIC*,GROUP*,ACT*,REPEAT*,TWICE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Leonard" />
+		<gridItem answer="Timer" />
+		<gridItem answer="Pula" />
+		<gridItem answer="Loon" />
+		<modelAnswer>Big cats with one letter changed (Leopard etc.)</modelAnswer>
+		<list1>CAT*,ANIMAL*,FELINE*</list1>
+		<list2></list2>
+	</answers>
+</data>

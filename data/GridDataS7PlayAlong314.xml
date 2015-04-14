@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="En passant" />
+		<gridItem answer="Stalemate" />
+		<gridItem answer="Gambit" />
+		<gridItem answer="Castle" />
+		<modelAnswer>Chess terms</modelAnswer>
+		<list1>CHESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="King" />
+		<gridItem answer="Leigh-Pemberton" />
+		<gridItem answer="George" />
+		<gridItem answer="Houblon" />
+		<modelAnswer>Governors of the Bank of England</modelAnswer>
+		<list1>BANK</list1>
+		<list2>ENGLAND</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cyclops" />
+		<gridItem answer="Storm" />
+		<gridItem answer="Rogue" />
+		<gridItem answer="Angel" />
+		<modelAnswer>X-Men</modelAnswer>
+		<list1>X-MAN,X-MEN,XMAN,XMEN,LEE,MARVEL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Endgame" />
+		<gridItem answer="Footfalls" />
+		<gridItem answer="Rockaby" />
+		<gridItem answer="Happy Days" />
+		<modelAnswer>Plays by Samuel Beckett</modelAnswer>
+		<list1>BECKETT*</list1>
+		<list2></list2>
+	</answers>
+</data>

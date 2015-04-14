@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Afghan" />
+		<gridItem answer="Basset" />
+		<gridItem answer="Otter" />
+		<gridItem answer="Serbian" />
+		<modelAnswer>Breeds of hound</modelAnswer>
+		<list1>HOUND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Couples" />
+		<gridItem answer="Hoyle" />
+		<gridItem answer="Astaire" />
+		<gridItem answer="Perry" />
+		<modelAnswer>Famous men called Fred</modelAnswer>
+		<list1>FRED*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slovene" />
+		<gridItem answer="Bulgarian" />
+		<gridItem answer="Russian" />
+		<gridItem answer="Czech" />
+		<modelAnswer>Slavic languages</modelAnswer>
+		<list1>SLAVIC*,SLAVONIC*,BALTO*,INDO*,EUROPE*,LANGUAG*,ADJECTIV*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Polish" />
+		<gridItem answer="Cricket" />
+		<gridItem answer="Window" />
+		<gridItem answer="Fries" />
+		<modelAnswer>French ____</modelAnswer>
+		<list1>FRENCH</list1>
+		<list2></list2>
+	</answers>
+</data>

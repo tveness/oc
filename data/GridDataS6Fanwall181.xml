@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ruby" />
+		<gridItem answer="Paper" />
+		<gridItem answer="Tin" />
+		<gridItem answer="China" />
+		<modelAnswer>Wedding anniversary gifts</modelAnswer>
+		<list1>WEDDING*,ANNIVERS*,YEAR*,MARRY*,WIFE*,HUSBAND*,MARRI*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Germanium" />
+		<gridItem answer="Polonium" />
+		<gridItem answer="Copper" />
+		<gridItem answer="Francium" />
+		<modelAnswer>Elements named after countries</modelAnswer>
+		<list1>CHEMICAL*,ELEMENT*,PERIOD*,COUNTR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Piano" />
+		<gridItem answer="Phosphorus" />
+		<gridItem answer="Momentum" />
+		<gridItem answer="Pence" />
+		<modelAnswer>Symbolised by the letter P</modelAnswer>
+		<list1>P,PS,LETTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Master" />
+		<gridItem answer="Car" />
+		<gridItem answer="Control" />
+		<gridItem answer="Skeleton" />
+		<modelAnswer>____ key</modelAnswer>
+		<list1>KEY*</list1>
+		<list2></list2>
+	</answers>
+</data>

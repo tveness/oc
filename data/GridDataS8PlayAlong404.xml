@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Glinda" />
+		<gridItem answer="Dorothy" />
+		<gridItem answer="Scarecrow" />
+		<gridItem answer="Toto" />
+		<modelAnswer>Wizard of Oz characters</modelAnswer>
+		<list1>WIZARD,OZ,BAUM,WICKED</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Extremis" />
+		<gridItem answer="Excelsis" />
+		<gridItem answer="Utero" />
+		<gridItem answer="Camera" />
+		<modelAnswer>Latin phrases: 'in ____'</modelAnswer>
+		<list1>LATIN,IN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ingress" />
+		<gridItem answer="Monetary" />
+		<gridItem answer="Eminence" />
+		<gridItem answer="Munchkin" />
+		<modelAnswer>Contain artists at the beginning</modelAnswer>
+		<list1>ART,ARTIST*,BEGIN*,START*,FRONT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Excellency" />
+		<gridItem answer="Beatitude" />
+		<gridItem answer="Grace" />
+		<gridItem answer="Holiness" />
+		<modelAnswer>Forms of address to church figures</modelAnswer>
+		<list1>CHURCH*,RELIG*,CATHOL*,CLERGY*,CLOTH,REVEREND*,SPIRIT*,MINISTER*,PASTOR*,PREACH*,PRIEST*</list1>
+		<list2></list2>
+	</answers>
+</data>

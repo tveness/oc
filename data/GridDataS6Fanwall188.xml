@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hamilton" />
+		<gridItem answer="Washington" />
+		<gridItem answer="Grant" />
+		<gridItem answer="Franklin" />
+		<modelAnswer>Appear on US notes (not all Presidents)</modelAnswer>
+		<list1>US,USA,STATES*,AMERICA*</list1>
+		<list2>NOTE*,MONEY*,CURRENC*,BANK*,BILL*,DOLLAR*,PAPER*,TREASUR*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Laurie" />
+		<gridItem answer="Jackman" />
+		<gridItem answer="Hefner" />
+		<gridItem answer="Lofting" />
+		<modelAnswer>Famous Hughs</modelAnswer>
+		<list1>HUGH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gateshead" />
+		<gridItem answer="Wallsend" />
+		<gridItem answer="Jarrow" />
+		<gridItem answer="Gosforth" />
+		<modelAnswer>Places in Tyne and Wear</modelAnswer>
+		<list1>NEWCASTLE,NORTHEAST,NE,TYNE*,WEAR,GEORDIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jackson" />
+		<gridItem answer="Maroon" />
+		<gridItem answer="Dave Clark" />
+		<gridItem answer="Ben Folds" />
+		<modelAnswer>Bands called '____ Five'</modelAnswer>
+		<list1>5,FIVE*</list1>
+		<list2></list2>
+	</answers>
+</data>

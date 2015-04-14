@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Love You More" />
+		<gridItem answer="Downtown" />
+		<gridItem answer="Perfect Day" />
+		<gridItem answer="Have You Ever" />
+		<modelAnswer>BBC Children in Need singles</modelAnswer>
+		<list1>SINGLE*,RECORD*,RELEASE*,CD*,DISC*,SONGS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Red button" />
+		<gridItem answer="Bank" />
+		<gridItem answer="Credit card" />
+		<gridItem answer="Post" />
+		<modelAnswer>Methods you can use to donate to BBC CiN</modelAnswer>
+		<list1>DONAT*,GIVE,MONEY,SPONSOR*,CASH,CHARIT*,CIN,CHILDREN,GIFT*,PLEDGE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="20 Pound note" />
+		<gridItem answer="Driving licence" />
+		<gridItem answer="UK passport" />
+		<gridItem answer="Concert tickets" />
+		<modelAnswer>Things that can have holograms</modelAnswer>
+		<list1>HOLOGR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barbican" />
+		<gridItem answer="Embankment" />
+		<gridItem answer="Paddington" />
+		<gridItem answer="Baker Street" />
+		<modelAnswer>London Underground stations (Circle Line)</modelAnswer>
+		<list1>LONDON,UNDERGROUND,TUBE,CIRCLE</list1>
+		<list2></list2>
+	</answers>
+</data>

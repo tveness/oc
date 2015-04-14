@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Highball" />
+		<gridItem answer="Snifter" />
+		<gridItem answer="Pilsner" />
+		<gridItem answer="Tumbler" />
+		<modelAnswer>Bar glassware</modelAnswer>
+		<list1>GLASS*,BARTEND*,DRINK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shot" />
+		<gridItem answer="Stream" />
+		<gridItem answer="Curdling" />
+		<gridItem answer="Thirsty" />
+		<modelAnswer>Blood____</modelAnswer>
+		<list1>BLOOD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cylinder" />
+		<gridItem answer="Mortise" />
+		<gridItem answer="Combination" />
+		<gridItem answer="Five lever" />
+		<modelAnswer>Designs of lock</modelAnswer>
+		<list1>LOCK*,SECURITY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wainwright" />
+		<gridItem answer="Hound" />
+		<gridItem answer="Sewell" />
+		<gridItem answer="King" />
+		<modelAnswer>Famous people called Rufus</modelAnswer>
+		<list1>RUFUS*</list1>
+		<list2></list2>
+	</answers>
+</data>

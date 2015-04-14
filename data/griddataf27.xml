@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pink" />
+		<gridItem answer="Jewel" />
+		<gridItem answer="Sting" />
+		<gridItem answer="Seal" />
+		<modelAnswer>One-word pop stars</modelAnswer>
+		<list1>POP,MUSIC*,ARTIST*,ENTERTAIN*,PERFORM*,VOCALIST*,SINGER*,POPSTAR*,POP STAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Goose" />
+		<gridItem answer="Dame" />
+		<gridItem answer="Baron" />
+		<gridItem answer="Prince" />
+		<modelAnswer>Pantomime characters</modelAnswer>
+		<list1>PANTO*,THEATRE,THEATER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="King" />
+		<gridItem answer="Bird" />
+		<gridItem answer="Duke" />
+		<gridItem answer="Count" />
+		<modelAnswer>Jazz musician nicknames</modelAnswer>
+		<list1>JAZZ,MUSIC*,ARTIST*,COMPOSER*,INSTRUMENTAL*,PERFORM*,PLAYER*,SESSION,SOLOIST*,VIRTUOSO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sauce" />
+		<gridItem answer="Biscuits" />
+		<gridItem answer="Soldier" />
+		<gridItem answer="Buttons" />
+		<modelAnswer>Chocolate ____</modelAnswer>
+		<list1>CHOCOLATE</list1>
+		<list2></list2>
+	</answers>
+</data>

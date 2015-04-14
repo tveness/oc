@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Vine" />
+		<gridItem answer="FitzHigham" />
+		<gridItem answer="Minchin" />
+		<gridItem answer="Key" />
+		<modelAnswer>Comedians called Tim</modelAnswer>
+		<list1>TIM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plum" />
+		<gridItem answer="Campari" />
+		<gridItem answer="Cherry" />
+		<gridItem answer="San Marzano" />
+		<modelAnswer>Tomatoes</modelAnswer>
+		<list1>TOMATO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="City" />
+		<gridItem answer="Town" />
+		<gridItem answer="Athletic" />
+		<gridItem answer="Rovers" />
+		<modelAnswer>Football club suffixes</modelAnswer>
+		<list1>FOOTBALL*,SOCCER,FC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plague" />
+		<gridItem answer="Forest" />
+		<gridItem answer="Wednesday" />
+		<gridItem answer="Country" />
+		<modelAnswer>Black ____</modelAnswer>
+		<list1>BLACK*</list1>
+		<list2></list2>
+	</answers>
+</data>

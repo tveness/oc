@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Martin"/>
+		<gridItem answer="Lawford"/>
+		<gridItem answer="Bishop"/>
+		<gridItem answer="Sinatra"/>
+		<modelAnswer>The Rat Pack</modelAnswer>
+		<list1>PACK*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Davis"/>
+		<gridItem answer="Hopman"/>
+		<gridItem answer="Fed"/>
+		<gridItem answer="Kremlin"/>
+		<modelAnswer>Tennis Cups</modelAnswer>
+		<list1>TENNIS*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Deacon"/>
+		<gridItem answer="Priest"/>
+		<gridItem answer="Canon"/>
+		<gridItem answer="Pope"/>
+		<modelAnswer>Christian clergy</modelAnswer>
+		<list1>RELIGIO*,CHRISTIAN*,CATHOLIC*,CHURCH*,CLERGY*,ECCLESIAST*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Neighbour"/>
+		<gridItem answer="Knight"/>
+		<gridItem answer="Child"/>
+		<gridItem answer="Sister"/>
+		<modelAnswer>____hood  </modelAnswer>
+		<list1>HOD*</list1>
+		<list2></list2>
+	</answers></data>

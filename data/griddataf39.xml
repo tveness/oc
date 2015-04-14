@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Baby" />
+		<gridItem answer="Microphone" />
+		<gridItem answer="Sonic" />
+		<gridItem answer="Property" />
+		<modelAnswer>____ boom</modelAnswer>
+		<list1>BOOM,BOOMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Blood" />
+		<gridItem answer="Milk" />
+		<gridItem answer="Beer" />
+		<gridItem answer="Shellfish" />
+		<modelAnswer>Things that come in pints</modelAnswer>
+		<list1>PINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tails" />
+		<gridItem answer="Knuckles" />
+		<gridItem answer="Amy Rose" />
+		<gridItem answer="Dr Eggman" />
+		<modelAnswer>Characters in ‘Sonic the Hedgehog’ games</modelAnswer>
+		<list1>SONIC,COMPUTER GAME*,HEDGEHOG,SEGA</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Smith" />
+		<gridItem answer="Weinstein" />
+		<gridItem answer="Goldsmith" />
+		<gridItem answer="Keitel" />
+		<modelAnswer>Famous Harveys</modelAnswer>
+		<list1>HARVEY,HARVEYS</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ceiling" />
+		<gridItem answer="Harmonica" />
+		<gridItem answer="Onion" />
+		<gridItem answer="Jaw" />
+		<modelAnswer>Glass ____</modelAnswer>
+		<list1>GLASS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Horn" />
+		<gridItem answer="Blower" />
+		<gridItem answer="Brick" />
+		<gridItem answer="Cell" />
+		<modelAnswer>Nicknames for the telephone</modelAnswer>
+		<list1>TELEPHONE*,PHONE*,RECEIVER*,HANDSET*,MOBILE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cod" />
+		<gridItem answer="Passero" />
+		<gridItem answer="Kennedy" />
+		<gridItem answer="Fear" />
+		<modelAnswer>Places called ‘Cape ____’</modelAnswer>
+		<list1>CAPE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Eye" />
+		<gridItem answer="Breath" />
+		<gridItem answer="Death" />
+		<gridItem answer="Drift" />
+		<modelAnswer>Things you can ‘catch’</modelAnswer>
+		<list1>CATCH*,CAUGHT</list1>
+		<list2></list2>
+	</answers>
+</data>

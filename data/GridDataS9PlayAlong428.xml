@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Divorced" />
+		<gridItem answer="Every" />
+		<gridItem answer="Richard" />
+		<gridItem answer="Thirty" />
+		<modelAnswer>Common mnemonics</modelAnswer>
+		<list1>MNEMONICS,MEMOR*,REMEMBER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="English" />
+		<gridItem answer="Inman" />
+		<gridItem answer="Sugden" />
+		<gridItem answer="Thornton" />
+		<modelAnswer>'Are You Being Served?'</modelAnswer>
+		<list1>SERVED*,GRACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Godiva" />
+		<gridItem answer="Hershey" />
+		<gridItem answer="Leonidas" />
+		<gridItem answer="Mars" />
+		<modelAnswer>Chocolate manufacturers</modelAnswer>
+		<list1>CHOCOLATE*,CONFECT*,SWEET*,CAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Counsel" />
+		<gridItem answer="Scout" />
+		<gridItem answer="Speech" />
+		<gridItem answer="Bench" />
+		<modelAnswer>Queen's ____</modelAnswer>
+		<list1>QUEEN*</list1>
+		<list2></list2>
+	</answers>
+</data>

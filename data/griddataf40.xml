@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pineapple" />
+		<gridItem answer="Tuna" />
+		<gridItem answer="Pet food" />
+		<gridItem answer="Data" />
+		<modelAnswer>Things that come in chunks</modelAnswer>
+		<list1>CHUNK,CHUNKS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Exam" />
+		<gridItem answer="Fee" />
+		<gridItem answer="Hall" />
+		<gridItem answer="Wound" />
+		<modelAnswer>Entrance ____</modelAnswer>
+		<list1>ENTRANCE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Back seat" />
+		<gridItem answer="Oath" />
+		<gridItem answer="Breather" />
+		<gridItem answer="Chance" />
+		<modelAnswer>Things you ‘take’</modelAnswer>
+		<list1>TAKE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Go" />
+		<gridItem answer="Income Tax" />
+		<gridItem answer="Strand" />
+		<gridItem answer="Water Works" />
+		<modelAnswer>Squares on a UK Monopoly board</modelAnswer>
+		<list1>MONOPOLY</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Watusi" />
+		<gridItem answer="Charleston" />
+		<gridItem answer="Madison" />
+		<gridItem answer="Bunny hop" />
+		<modelAnswer>Dance crazes</modelAnswer>
+		<list1>DANCING,DANCE*,CHOREO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plushenko" />
+		<gridItem answer="Dean" />
+		<gridItem answer="Cousins" />
+		<gridItem answer="Witt" />
+		<modelAnswer>Olympic figure skating champions</modelAnswer>
+		<list1>FIGURE*,SKATER*,SKATING,ICE,ICE-SK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pumpkin pie" />
+		<gridItem answer="Turkey trot" />
+		<gridItem answer="Macy's parade" />
+		<gridItem answer="We Gather Together" />
+		<modelAnswer>Associated with Thanksgiving</modelAnswer>
+		<list1>THANKS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jerk" />
+		<gridItem answer="Curry" />
+		<gridItem answer="Baharat" />
+		<gridItem answer="Masala" />
+		<modelAnswer>Spice mixtures</modelAnswer>
+		<list1>SPICE*,CURRY,CURRIES,SAUCE*</list1>
+		<list2></list2>
+	</answers>
+</data>

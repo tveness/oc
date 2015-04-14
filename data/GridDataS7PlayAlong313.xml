@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bong" />
+		<gridItem answer="Tintinna- bulation" />
+		<gridItem answer="Knell" />
+		<gridItem answer="Ding dong" />
+		<modelAnswer>Bell sounds</modelAnswer>
+		<list1>BELL*,GONG*,RING*,CHIME*,PEAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slaughter" />
+		<gridItem answer="Milk" />
+		<gridItem answer="Raise" />
+		<gridItem answer="Dehorn" />
+		<modelAnswer>Things that are done to cattle</modelAnswer>
+		<list1>CATTLE*,COW*,BULL*,OXEN*,LIVESTOCK*,STOCK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bad Boys" />
+		<gridItem answer="Colors" />
+		<gridItem answer="Mystic River" />
+		<gridItem answer="The Game" />
+		<modelAnswer>Sean Penn films</modelAnswer>
+		<list1>PENN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Peal" />
+		<gridItem answer="Lore" />
+		<gridItem answer="Blare" />
+		<gridItem answer="Rustle" />
+		<modelAnswer>Homophones of British Prime Ministers</modelAnswer>
+		<list1>PM,PRIME</list1>
+		<list2></list2>
+	</answers>
+</data>

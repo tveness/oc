@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Manège" />
+		<gridItem answer="Course" />
+		<gridItem answer="Paddock" />
+		<gridItem answer="Corral" />
+		<modelAnswer>Places where horses can be found</modelAnswer>
+		<list1>HORSE*,ANIMAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Yard" />
+		<gridItem answer="Car boot" />
+		<gridItem answer="Garage" />
+		<gridItem answer="Rummage" />
+		<modelAnswer>Types of sale</modelAnswer>
+		<list1>SALE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fire" />
+		<gridItem answer="Earth" />
+		<gridItem answer="Water" />
+		<gridItem answer="Wood" />
+		<modelAnswer>Elements in the Chinese 'Wu Xing'</modelAnswer>
+		<list1>XING,PHASE*,AGENT*,MOVEMENT*,STEP*,STAGE*,ELEMENT*,CHINA,CHINESE,TAO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Metal" />
+		<gridItem answer="Charity donor" />
+		<gridItem answer="Muscle" />
+		<gridItem answer="Soldier" />
+		<modelAnswer>Things that can get fatigue</modelAnswer>
+		<list1>FATIGUE*</list1>
+		<list2></list2>
+	</answers>
+</data>

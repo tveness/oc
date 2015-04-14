@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Dagong" />
+		<gridItem answer="Egan-Jones" />
+		<gridItem answer="Moody's" />
+		<gridItem answer="Standard and Poor's" />
+		<modelAnswer>Credit rating agencies</modelAnswer>
+		<list1>CREDIT,RATING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fitch" />
+		<gridItem answer="Marten" />
+		<gridItem answer="Tayra" />
+		<gridItem answer="Wolverine" />
+		<modelAnswer>Animals in the weasel family</modelAnswer>
+		<list1>MUSTEL*,WEASEL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Badger" />
+		<gridItem answer="Beaver" />
+		<gridItem answer="Cub" />
+		<gridItem answer="Daisy" />
+		<modelAnswer>Junior members of organisations</modelAnswer>
+		<list1>JUNIOR,CHILD*,YOUNG*,BABY,BABIES,MEMBER,CLUB,ORGAN*,ASSOC*,SOCIET*,GROUP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Figaro" />
+		<gridItem answer="Foxtail" />
+		<gridItem answer="Roller" />
+		<gridItem answer="Singapore" />
+		<modelAnswer>Types of chain</modelAnswer>
+		<list1>CHAIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

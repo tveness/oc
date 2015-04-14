@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bramble" />
+		<gridItem answer="Angel" />
+		<gridItem answer="Silky" />
+		<gridItem answer="Goblin" />
+		<modelAnswer>Sharks</modelAnswer>
+		<list1>SHARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Leprechaun" />
+		<gridItem answer="Fairy" />
+		<gridItem answer="Pixie" />
+		<gridItem answer="Sprite" />
+		<modelAnswer>Mythological 'little people'</modelAnswer>
+		<list1>MYTH*,ELF,ELVES,IMP*,LITTLE,SMALL,FOLKLORE,SPIRIT*,IMAGIN*,SUPERNATURAL,LEGEND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wodwo" />
+		<gridItem answer="Crow" />
+		<gridItem answer="Lupercal" />
+		<gridItem answer="River" />
+		<modelAnswer>Ted Hughes poetry collection titles</modelAnswer>
+		<list1>HUGHES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brownie" />
+		<gridItem answer="Junction" />
+		<gridItem answer="Office" />
+		<gridItem answer="Hedge" />
+		<modelAnswer>Box ____</modelAnswer>
+		<list1>BOX*</list1>
+		<list2></list2>
+	</answers>
+</data>

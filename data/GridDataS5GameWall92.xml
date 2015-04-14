@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Moses" />
+		<gridItem answer="Hopper" />
+		<gridItem answer="Pollock" />
+		<gridItem answer="Ray" />
+		<modelAnswer>US painters</modelAnswer>
+		<list1>AMERICAN*,US,USA,STATES</list1>
+		<list2>PAINT*,ART*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bronte" />
+		<gridItem answer="Corday" />
+		<gridItem answer="Edwards" />
+		<gridItem answer="Rampling" />
+		<modelAnswer>Famous Charlottes</modelAnswer>
+		<list1>CHARLOT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Court" />
+		<gridItem answer="Skirt" />
+		<gridItem answer="Widow" />
+		<gridItem answer="Roots" />
+		<modelAnswer>Grass ____</modelAnswer>
+		<list1>GRASS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gurnard" />
+		<gridItem answer="Coley" />
+		<gridItem answer="Tilapia" />
+		<gridItem answer="Sardine" />
+		<modelAnswer>Sustainable fish</modelAnswer>
+		<list1>FISH,FISHES,SEAFOOD</list1>
+		<list2></list2>
+	</answers>
+</data>

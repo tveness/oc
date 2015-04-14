@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bluff" />
+		<gridItem answer="Cape" />
+		<gridItem answer="Point" />
+		<gridItem answer="Spit" />
+		<modelAnswer>Promontories</modelAnswer>
+		<list1>PROMON*,HEAD*,FORELAND*,PRECIP*,PROJECT*,RIDGE*,SPUR*,PENIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spice World" />
+		<gridItem answer="Head" />
+		<gridItem answer="Honest" />
+		<gridItem answer="A Hard Day's Night" />
+		<modelAnswer>Pop group films</modelAnswer>
+		<list1>FILM*,MOVIE*</list1>
+		<list2>MUSIC*,GROUP*,POP,ACT*,BAND</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Announced" />
+		<gridItem answer="Confirmed" />
+		<gridItem answer="Sure" />
+		<gridItem answer="Frank" />
+		<modelAnswer>To be ____</modelAnswer>
+		<list1>TO</list1>
+		<list2>BE</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Made" />
+		<gridItem answer="Hazed" />
+		<gridItem answer="Drafted" />
+		<gridItem answer="Signed" />
+		<modelAnswer>Initiated</modelAnswer>
+		<list1>BEGIN*,BEGUN,START*,PIONEER*,INSTITU*,SET,ESTABLISH*,LAUNCH*,INTRO*,OPEN*,INAUGUR*,INSTIG*,ACTIV*,TRIGG*,PROMP*,STIM*,INDUCE*,COMMENCE*,MEMBER*,RECRUIT*,ENTRANT*,LEARN*,NEWCOM*,NOVIC*,CONVERT*,NOVIT*,NEOPHY*,TENDER*,ROOKIE</list1>
+		<list2></list2>
+	</answers>
+</data>

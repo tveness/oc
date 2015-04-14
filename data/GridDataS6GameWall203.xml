@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bird's eye" />
+		<gridItem answer="Habanero" />
+		<gridItem answer="Scotch bonnet" />
+		<gridItem answer="Banana" />
+		<modelAnswer>Chillies</modelAnswer>
+		<list1>CHILLI*,CHILE*,CHILI*,PEPPER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cayenne" />
+		<gridItem answer="La Paz" />
+		<gridItem answer="Quito" />
+		<gridItem answer="Lima" />
+		<modelAnswer>Capitals of South America</modelAnswer>
+		<list1>CAPITAL*,AMERICA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sucre" />
+		<gridItem answer="Siwgr" />
+		<gridItem answer="Zucker" />
+		<gridItem answer="Azucar" />
+		<modelAnswer>Sugar in different languages</modelAnswer>
+		<list1>SUGAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coen" />
+		<gridItem answer="Scott" />
+		<gridItem answer="Hughes" />
+		<gridItem answer="Farrelly" />
+		<modelAnswer>Famous film director brothers</modelAnswer>
+		<list1>FILM*,DIRECTOR*,PRODUCER*,WRITER*,MOVIE*,CINEMA*</list1>
+		<list2>BROTHER*,SIBLING*,RELAT*,FAMIL*</list2>
+	</answers>
+</data>
+
+
+

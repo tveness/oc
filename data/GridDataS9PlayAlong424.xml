@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Monk"/>
+		<gridItem answer="Peterson"/>
+		<gridItem answer="Waller"/>
+		<gridItem answer="Tatum"/>
+		<modelAnswer>Jazz pianists</modelAnswer>
+		<list1>PIAN*,MUSIC*</list1>
+		<list2>JAZZ</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bard"/>
+		<gridItem answer="Wizard"/>
+		<gridItem answer="Psion"/>
+		<gridItem answer="Paladin"/>
+		<modelAnswer>AD&amp;D character classes</modelAnswer>
+		<list1>AD&amp;D,D&amp;D,DUNGEON*,FANTASY*,ROLE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Priest"/>
+		<gridItem answer="Galore"/>
+		<gridItem answer="Mac"/>
+		<gridItem answer="a Go-Go"/>
+		<modelAnswer>Whisky ____</modelAnswer>
+		<list1>WHISK*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Newton"/>
+		<gridItem answer="Lisa"/>
+		<gridItem answer="PowerBook"/>
+		<gridItem answer="Performa"/>
+		<modelAnswer>Former Apple products</modelAnswer>
+		<list1>APPLE*</list1>
+		<list2></list2>
+	</answers></data>

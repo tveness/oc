@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Muscle" />
+		<gridItem answer="Soul" />
+		<gridItem answer="Tuner" />
+		<gridItem answer="Wail" />
+		<modelAnswer>Homophones of sea creatures</modelAnswer>
+		<list1>SEA,OCEAN,SEAFOOD,FISH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Essex" />
+		<gridItem answer="Bowie" />
+		<gridItem answer="Gray" />
+		<gridItem answer="Cassidy" />
+		<modelAnswer>Musicians called David</modelAnswer>
+		<list1>DAVID*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parang" />
+		<gridItem answer="Bread" />
+		<gridItem answer="Kukri" />
+		<gridItem answer="Steak" />
+		<modelAnswer>Types of knife</modelAnswer>
+		<list1>KNIVES,KNIFE,CUT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Heel" />
+		<gridItem answer="Tongue" />
+		<gridItem answer="Vamp" />
+		<gridItem answer="Lace" />
+		<modelAnswer>Parts of a shoe</modelAnswer>
+		<list1>SHOE*,BOOT*,FOOT*,FEET</list1>
+		<list2></list2>
+	</answers>
+</data>

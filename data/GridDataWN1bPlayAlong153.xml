@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="I-D" />
+		<gridItem answer="GQ" />
+		<gridItem answer="SFX" />
+		<gridItem answer="FHM" />
+		<modelAnswer>Monthly magazines</modelAnswer>
+		<list1>MAGS,MAGAZINE*,PUBLICATION*,MONTHL*,JOURNAL*,PERIODIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="SKP" />
+		<gridItem answer="NME" />
+		<gridItem answer="SA" />
+		<gridItem answer="XLNC" />
+		<modelAnswer>Sound like words when said aloud</modelAnswer>
+		<list1>SOUND*,SAID*,LIKE,ALOUD*,WORD*,LETTER*,HOMONYM*,HEAR*,PHONET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="PSX" />
+		<gridItem answer="VCS" />
+		<gridItem answer="NES" />
+		<gridItem answer="SMS" />
+		<modelAnswer>Home gaming consoles</modelAnswer>
+		<list1>CONSOLE*,GAME*,GAMING*,COMPUTER*,PLAY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="PSP" />
+		<gridItem answer="SFO" />
+		<gridItem answer="SAN" />
+		<gridItem answer="LAX" />
+		<modelAnswer>Californian international airports</modelAnswer>
+		<list1>AIRPORT*,AIR PORT</list1>
+		<list2></list2>
+	</answers>
+</data>

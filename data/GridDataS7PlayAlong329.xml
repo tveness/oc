@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Master of Foxhounds" />
+		<gridItem answer="Toastmaster" />
+		<gridItem answer="Butlin's employee" />
+		<gridItem answer="Chelsea Pensioner" />
+		<modelAnswer>Wear red coats</modelAnswer>
+		<list1>RED</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brie" />
+		<gridItem answer="Moss" />
+		<gridItem answer="Jones" />
+		<gridItem answer="Hendricks" />
+		<modelAnswer>‘Mad Men’ actresses</modelAnswer>
+		<list1>MAD</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Penny Black" />
+		<gridItem answer="Bombay Sapphire" />
+		<gridItem answer="Double florin" />
+		<gridItem answer="Crimea Medal" />
+		<modelAnswer>Feature the image of Queen Victoria</modelAnswer>
+		<list1>VICTORIA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beefeater" />
+		<gridItem answer="Citadelle" />
+		<gridItem answer="Tanqueray" />
+		<gridItem answer="Cork Dry" />
+		<modelAnswer>Brands of gin</modelAnswer>
+		<list1>GIN</list1>
+		<list2></list2>
+	</answers>
+</data>

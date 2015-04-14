@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Oology" />
+		<gridItem answer="Eel" />
+		<gridItem answer="Llandudno" />
+		<gridItem answer="Aardvark" />
+		<modelAnswer>Begin with two identical letters</modelAnswer>
+		<list1>TWO,DOUBLE,SAME,TWICE,PAIR,COUPLE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Llama" />
+		<gridItem answer="Angora" />
+		<gridItem answer="Alpaca" />
+		<gridItem answer="Cashmere" />
+		<modelAnswer>Types of wool</modelAnswer>
+		<list1>WOOL*,FLEECE*,HAIR*,YARN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barry" />
+		<gridItem answer="Tenby" />
+		<gridItem answer="Mumbles" />
+		<gridItem answer="Rhyl" />
+		<modelAnswer>Welsh seaside resorts</modelAnswer>
+		<list1>BEACH*,COAST*,SEASIDE,RESORT*</list1>
+		<list2>WELSH,WALES</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Silk" />
+		<gridItem answer="Glow" />
+		<gridItem answer="Earth" />
+		<gridItem answer="Wood" />
+		<modelAnswer>____worm</modelAnswer>
+		<list1>WORM*</list1>
+		<list2></list2>
+	</answers>
+</data>

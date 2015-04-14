@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brabham" />
+		<gridItem answer="Vanwall" />
+		<gridItem answer="Toyota" />
+		<gridItem answer="Jordan" />
+		<modelAnswer>Former F1 constructors</modelAnswer>
+		<list1>FORMULA,F1,CONSTRUCT*,PRIX</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nile" />
+		<gridItem answer="Gihon" />
+		<gridItem answer="Kishon" />
+		<gridItem answer="Pharpar" />
+		<modelAnswer>Biblical rivers</modelAnswer>
+		<list1>BIBL*,SCRIPTUR*</list1>
+		<list2>RIVER</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tyrell" />
+		<gridItem answer="Bolton" />
+		<gridItem answer="Baratheon" />
+		<gridItem answer="Frey" />
+		<modelAnswer>Houses in \'Game of Thrones\'</modelAnswer>
+		<list1>THRONES,FIRE,MARTIN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Odin" />
+		<gridItem answer="Baldr" />
+		<gridItem answer="Heimdall" />
+		<gridItem answer="Delling" />
+		<modelAnswer>Norse deities</modelAnswer>
+		<list1>NORSE,NORWAY,NORDIC,SCANDIN*</list1>
+		<list2>GOD*,DEITIES,DEITY,IMMORTAL*</list2>
+	</answers>
+</data>

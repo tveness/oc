@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Boscán" />
+		<gridItem answer="Forties" />
+		<gridItem answer="Ghawar" />
+		<gridItem answer="Jupiter" />
+		<modelAnswer>Major oilfields</modelAnswer>
+		<list1>OIL*,GAS*,DRILL*,ENERGY*,FIELD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Drunk" />
+		<gridItem answer="Game" />
+		<gridItem answer="Success" />
+		<gridItem answer="Trade" />
+		<modelAnswer>Roaring ____ (game = curling)</modelAnswer>
+		<list1>ROARING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Indra" />
+		<gridItem answer="Odin" />
+		<gridItem answer="Osiris" />
+		<gridItem answer="Sakka" />
+		<modelAnswer>Principal gods</modelAnswer>
+		<list1>GOD*,MYTH*,BEING,ALMIGHTY*,LORD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beast" />
+		<gridItem answer="Netbus" />
+		<gridItem answer="ProRat" />
+		<gridItem answer="Zeus" />
+		<modelAnswer>Computing 'Trojan horse' malware</modelAnswer>
+		<list1>TROJAN,PROGRAM*,VIRUS,MALWARE</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="My Fathers" />
+		<gridItem answer="The White Eagle" />
+		<gridItem answer="The Rising Sun" />
+		<gridItem answer="Hope and Glory" />
+		<modelAnswer>Land of ____</modelAnswer>
+		<list1>LAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Licking Hitler" />
+		<gridItem answer="Plenty" />
+		<gridItem answer="Pravda" />
+		<gridItem answer="Skylight" />
+		<modelAnswer>Works by Sir David Hare</modelAnswer>
+		<list1>HARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bridge" />
+		<gridItem answer="Pegbox" />
+		<gridItem answer="Chinrest" />
+		<gridItem answer="F-hole" />
+		<modelAnswer>Parts of a violin</modelAnswer>
+		<list1>VIOL*,STRING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bow" />
+		<gridItem answer="Oculus" />
+		<gridItem answer="Picture" />
+		<gridItem answer="Oriel" />
+		<modelAnswer>Types of window</modelAnswer>
+		<list1>WINDOW*,PANE*,OPENING</list1>
+		<list2></list2>
+	</answers>
+</data>

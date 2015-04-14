@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pip" />
+		<gridItem answer="Crown" />
+		<gridItem answer="Stripe" />
+		<gridItem answer="Chevron" />
+		<modelAnswer>Military insignia</modelAnswer>
+		<list1>INSIGNIA*,RANK*,LIVERY*,MILITARY*,OFFICER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Skin" />
+		<gridItem answer="Flesh" />
+		<gridItem answer="Core" />
+		<gridItem answer="Stalk" />
+		<modelAnswer>Parts of an apple</modelAnswer>
+		<list1>APPLE*,FRUIT*,PEAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pelt" />
+		<gridItem answer="Hide" />
+		<gridItem answer="Leather" />
+		<gridItem answer="Fleece" />
+		<modelAnswer>Animal skins</modelAnswer>
+		<list1>ANIMAL*,SKIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cover" />
+		<gridItem answer="Veil" />
+		<gridItem answer="Mask" />
+		<gridItem answer="Bury" />
+		<modelAnswer>To conceal</modelAnswer>
+		<list1>CONCEAL*,OBSCURE*,DISGUISE*,CAMOUFLAGE*,CLOAK*,HIDE*,HIDDEN,SIGHT,SECRET*</list1>
+		<list2></list2>
+	</answers>
+</data>

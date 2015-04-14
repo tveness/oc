@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Quahog" />
+		<gridItem answer="Arlen" />
+		<gridItem answer="Orbit City" />
+		<gridItem answer="Bikini Bottom" />
+		<modelAnswer>Fictional settings of cartoons</modelAnswer>
+		<list1>CARTOON*,ANIMAT*,COMIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Soldier" />
+		<gridItem answer="Bill" />
+		<gridItem answer="Mozzarella" />
+		<gridItem answer="Springfield" />
+		<modelAnswer>Buffalo ____</modelAnswer>
+		<list1>BUFFALO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cheddar" />
+		<gridItem answer="Avon" />
+		<gridItem answer="Ironbridge" />
+		<gridItem answer="Ebbor" />
+		<modelAnswer>Famous English gorges</modelAnswer>
+		<list1>GORGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stilton" />
+		<gridItem answer="Parma Ham" />
+		<gridItem answer="Champagne" />
+		<gridItem answer="Ouzo" />
+		<modelAnswer>Have EU protected designation of origin</modelAnswer>
+		<list1>PROTECT*,LOCATION*,ORIGIN*,GEOGRAPH*,AREA*,DESIGNAT*,PDO</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Diminish" />
+		<gridItem answer="Wane" />
+		<gridItem answer="Droop" />
+		<gridItem answer="Abate" />
+		<modelAnswer>Words meaning to ‘decline’</modelAnswer>
+		<list1>DECLIN*,FALL,DWINDL*,EBB,FAIL*,DISAPPEAR*,VANISH*,RECED*,DISSOLV*,PALE*,FLAG*,WEAK*,WILT*,WITHER*,SHRIVEL*,PERISH*,PETER*,SHRINK, LESSEN,DECREASE,DIE*,FADE*,TAIL*,SUBSIDE,DECAY,DROP*,SLUMP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Peter" />
+		<gridItem answer="Dilbert" />
+		<gridItem answer="Uncertainty" />
+		<gridItem answer="Pareto" />
+		<modelAnswer>The ____ Principle</modelAnswer>
+		<list1>PRINCIPLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wally" />
+		<gridItem answer="Alice" />
+		<gridItem answer="Asok" />
+		<gridItem answer="Dogbert" />
+		<modelAnswer>Characters in the ‘Dilbert’ comic strip</modelAnswer>
+		<list1>DILBERT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Archimedes" />
+		<gridItem answer="Atom" />
+		<gridItem answer="Electron" />
+		<gridItem answer="Master" />
+		<modelAnswer>Computers manufactured by Acorn</modelAnswer>
+		<list1>MICRO*,COMPUTER*,ACORN*</list1>
+		<list2></list2>
+	</answers>
+</data>

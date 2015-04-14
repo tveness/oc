@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Mistaken identity" />
+		<gridItem answer="The Mondays" />
+		<gridItem answer="Chickenpox" />
+		<gridItem answer="Conscience" />
+		<modelAnswer>A case of ____</modelAnswer>
+		<list1>CASE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Saturdays" />
+		<gridItem answer="The Angels" />
+		<gridItem answer="Precious" />
+		<gridItem answer="Eternal" />
+		<modelAnswer>Girl pop groups</modelAnswer>
+		<list1>GIRL,FEMALE,WOMEN,WOMAN,POP,MUSIC*,GROUP*,BAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="All Saints" />
+		<gridItem answer="Epiphany" />
+		<gridItem answer="Ascension" />
+		<gridItem answer="Pentecost" />
+		<modelAnswer>Christian feast days</modelAnswer>
+		<list1>FEAST*,HOLIDAY*,CHRIST*,CHURCH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Good Friday" />
+		<gridItem answer="Constantinople" />
+		<gridItem answer="Lancaster House" />
+		<gridItem answer="Munich" />
+		<modelAnswer>Agreements signed with the UK</modelAnswer>
+		<list1>AGREEMENT*</list1>
+		<list2></list2>
+	</answers>
+</data>

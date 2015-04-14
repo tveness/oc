@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Sack" />
+		<gridItem answer="Three-legged" />
+		<gridItem answer="Egg-and-spoon" />
+		<gridItem answer="Wheelbarrow" />
+		<modelAnswer>Fun races</modelAnswer>
+		<list1>RACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pancake" />
+		<gridItem answer="Foundation" />
+		<gridItem answer="Rouge" />
+		<gridItem answer="Bronzer" />
+		<modelAnswer>Facial make-up</modelAnswer>
+		<list1>MAKE-UP,MAKEUP,FACE*,COSMETIC*,MAQUILLAGE,POWDER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Click" />
+		<gridItem answer="Goliath" />
+		<gridItem answer="Stag" />
+		<gridItem answer="Death watch" />
+		<modelAnswer>Species of beetle</modelAnswer>
+		<list1>BEETLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Colorado" />
+		<gridItem answer="Rot" />
+		<gridItem answer="Coch" />
+		<gridItem answer="Rosso" />
+		<modelAnswer>'Red' in various languages</modelAnswer>
+		<list1>RED,REDS</list1>
+		<list2></list2>
+	</answers>
+</data>

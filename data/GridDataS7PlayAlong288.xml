@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Shazam" />
+		<gridItem answer="Abracadabra" />
+		<gridItem answer="Sim Sala Bim" />
+		<gridItem answer="Expelliarmus" />
+		<modelAnswer>Magical expressions</modelAnswer>
+		<list1>MAGIC*,SPELL*,SORCERY,ENCHANT*,WITCH*,WIZARD*,WICCA,VOODOO,CURSE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Eve" />
+		<gridItem answer="Izanami" />
+		<gridItem answer="Embla" />
+		<gridItem answer="Pandora" />
+		<modelAnswer>Women in creation myths</modelAnswer>
+		<list1>CREAT*,GENESIS*,ORIGIN*,WOMAN,WOMEN,MAN,MANKIND</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beaches" />
+		<gridItem answer="Hocus Pocus" />
+		<gridItem answer="Stella" />
+		<gridItem answer="The Rose" />
+		<modelAnswer>Bette Midler movies</modelAnswer>
+		<list1>MIDLER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Angry Birds" />
+		<gridItem answer="Vine" />
+		<gridItem answer="Instagram" />
+		<gridItem answer="Fruit Ninja" />
+		<modelAnswer>Popular apps</modelAnswer>
+		<list1>APP*</list1>
+		<list2></list2>
+	</answers>
+</data>

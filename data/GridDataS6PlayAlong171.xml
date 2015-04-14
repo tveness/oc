@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Poke" />
+		<gridItem answer="Hot Tin Roof" />
+		<gridItem answer="Bonnet" />
+		<gridItem answer="Manger" />
+		<modelAnswer>Locations of idiomatic animals</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,PHRASE*,IDIOM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tag" />
+		<gridItem answer="Unfriend" />
+		<gridItem answer="Share" />
+		<gridItem answer="Like" />
+		<modelAnswer>Things you can do on Facebook</modelAnswer>
+		<list1>SOCIAL,FACEBOOK,INTERNET</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boat Race" />
+		<gridItem answer="Phizog" />
+		<gridItem answer="Smiler" />
+		<gridItem answer="Kisser" />
+		<modelAnswer>Slang for ‘face’</modelAnswer>
+		<list1>FACE*,VISAGE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Block" />
+		<gridItem answer="Mug" />
+		<gridItem answer="Chip" />
+		<gridItem answer="Bun" />
+		<modelAnswer>‘Happy Families’ card game</modelAnswer>
+		<list1>HAPPY,FAMILY,FAMILIES,CARD</list1>
+		<list2></list2>
+	</answers>
+</data>

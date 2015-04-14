@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Navy" />
+		<gridItem answer="Broad" />
+		<gridItem answer="Butter" />
+		<gridItem answer="Jelly" />
+		<modelAnswer>____ bean</modelAnswer>
+		<list1>BEAN*,PULSE*,LEGUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tarantula" />
+		<gridItem answer="Kneebar" />
+		<gridItem answer="Crucifix" />
+		<gridItem answer="Tombstone" />
+		<modelAnswer>Pro-wrestling moves</modelAnswer>
+		<list1>PROW*,WRESTL*,WWE*,MMA*,MARTIAL*,GRAPPL*,HOLD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Corn" />
+		<gridItem answer="Garter" />
+		<gridItem answer="Coral" />
+		<gridItem answer="Moccasin" />
+		<modelAnswer>Species of snake</modelAnswer>
+		<list1>SNAKE*,REPTIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Platform" />
+		<gridItem answer="Mary Jane" />
+		<gridItem answer="Mule" />
+		<gridItem answer="Wellington" />
+		<modelAnswer>Kinds of footwear</modelAnswer>
+		<list1>FOOTWEAR,FOOTGEAR,SHOE*,</list1>
+		<list2></list2>
+	</answers>
+</data>

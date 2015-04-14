@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="East"/>
+		<gridItem answer="Eats"/>
+		<gridItem answer="Teas"/>
+		<gridItem answer="Seta"/>
+		<modelAnswer>Anagrams of each other</modelAnswer>
+		<list1>ANAGRAM*,SPEL*,LETTER*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Seat"/>
+		<gridItem answer="Room"/>
+		<gridItem answer="Kite"/>
+		<gridItem answer="File"/>
+		<modelAnswer>Box ____</modelAnswer>
+		<list1>BOX*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Etas"/>
+		<gridItem answer="Psis"/>
+		<gridItem answer="Rhos"/>
+		<gridItem answer="Phis"/>
+		<modelAnswer>Plurals of Greek letters</modelAnswer>
+		<list1>GREEK*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Toms"/>
+		<gridItem answer="Mize"/>
+		<gridItem answer="Love"/>
+		<gridItem answer="Pate"/>
+		<modelAnswer>American Major-winning golfers</modelAnswer>
+		<list1>GOLF*</list1>
+		<list2></list2>
+	</answers></data>

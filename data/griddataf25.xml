@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Sulu" />
+		<gridItem answer="Bismarck" />
+		<gridItem answer="Solomon" />
+		<gridItem answer="Yellow" />
+		<modelAnswer>Seas in the Pacific Ocean</modelAnswer>
+		<list1>PACIFIC,SEA,SEAS,MARE,MARES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scott" />
+		<gridItem answer="Kirk" />
+		<gridItem answer="McCoy" />
+		<gridItem answer="Chekov" />
+		<modelAnswer>‘Star Trek’ characters</modelAnswer>
+		<list1>TREK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Baltic" />
+		<gridItem answer="Walker" />
+		<gridItem answer="Whitworth" />
+		<gridItem answer="Dean" />
+		<modelAnswer>UK art galleries</modelAnswer>
+		<list1>GALLERY,GALLERIES,EXHIBIT*,SHOWROOM,MUSEUM,MUSEUMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shackleton" />
+		<gridItem answer="Weddell" />
+		<gridItem answer="Ross" />
+		<gridItem answer="Fuchs" />
+		<modelAnswer>Antarctic explorers</modelAnswer>
+		<list1>EXPLOR*,ANTARCTIC,ANTARCTICA</list1>
+		<list2></list2>
+	</answers>
+</data>

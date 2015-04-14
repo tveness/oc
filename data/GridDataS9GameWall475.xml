@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Poppa" />
+		<gridItem answer="Rusty" />
+		<gridItem answer="Electra" />
+		<gridItem answer="Greaseball" />
+		<modelAnswer>Starlight Express’ locomotives</modelAnswer>
+		<list1>STARLIGHT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Trojan Women" />
+		<gridItem answer="Ion" />
+		<gridItem answer="Rhesus" />
+		<gridItem answer="Medea" />
+		<modelAnswer>Plays by Euripides</modelAnswer>
+		<list1>EURIPIDES*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spider" />
+		<gridItem answer="Woolly" />
+		<gridItem answer="Squirrel" />
+		<gridItem answer="Proboscis" />
+		<modelAnswer>Monkeys</modelAnswer>
+		<list1>MONKEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Santa" />
+		<gridItem answer="Agent" />
+		<gridItem answer="Ballot" />
+		<gridItem answer="Passage" />
+		<modelAnswer>Secret ____</modelAnswer>
+		<list1>SECRET*</list1>
+		<list2></list2>
+	</answers>
+</data>

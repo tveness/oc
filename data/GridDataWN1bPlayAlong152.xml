@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Envy" />
+		<gridItem answer="Go" />
+		<gridItem answer="Ireland" />
+		<gridItem answer="Islam" />
+		<modelAnswer>Associated with the colour green</modelAnswer>
+		<list1>GREEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Discotheque" />
+		<gridItem answer="The Fly" />
+		<gridItem answer="Desire" />
+		<gridItem answer="Vertigo" />
+		<modelAnswer>No.1 singles by U2</modelAnswer>
+		<list1>U2,BONO</list1>
+		<list2></list2>
+	</answers>
+	<answers phonetic="false">
+		<gridItem answer="Beetle" />
+		<gridItem answer="Greed" />
+		<gridItem answer="Hazard" />
+		<gridItem answer="Crown and Anchor" />
+		<modelAnswer>Dice games</modelAnswer>
+		<list1>DIE,DICE,GAMBL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pack" />
+		<gridItem answer="Crash" />
+		<gridItem answer="Pride" />
+		<gridItem answer="Sloth" />
+		<modelAnswer>Animal collective nouns</modelAnswer>
+		<list1>COLLECT*,ANIMAL*,CREATURE*,MAMMAL*,GROUP*</list1>
+		<list2></list2>
+	</answers>
+</data>

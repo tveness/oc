@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Festoon" />
+		<gridItem answer="Nosegay" />
+		<gridItem answer="Buttonhole" />
+		<gridItem answer="Garland" />
+		<modelAnswer>Types of floral bouquet</modelAnswer>
+		<list1>BOUQUET*,FLOWER*,FLORAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Corral" />
+		<gridItem answer="Assemble" />
+		<gridItem answer="Muster" />
+		<gridItem answer="Convene" />
+		<modelAnswer>Gather people together</modelAnswer>
+		<list1>GATHER*,MEET*,CONVERG*,COLLECT*,CONGREGATE*,RALLY*,RENDEZ*,UNITE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Corsage" />
+		<gridItem answer="Archives" />
+		<gridItem answer="Bombay" />
+		<gridItem answer="Organise" />
+		<modelAnswer>End with a herb</modelAnswer>
+		<list1>HERB*,SPICE*,PLANT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rangoon" />
+		<gridItem answer="Salisbury" />
+		<gridItem answer="Tananarive" />
+		<gridItem answer="Port Natal" />
+		<modelAnswer>Former colonial names for cities</modelAnswer>
+		<list1>CITY,CITIES,TOWN*</list1>
+		<list2>FORMER,OLD,COLONY,COLONIAL,CHANG*,PREV*,PAST*,PRIOR</list2>
+	</answers>
+</data>

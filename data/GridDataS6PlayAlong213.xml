@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blackberry" />
+		<gridItem answer="Fiver" />
+		<gridItem answer="Hazel" />
+		<gridItem answer="Clover" />
+		<modelAnswer>‘Watership Down’ rabbits</modelAnswer>
+		<list1>WATERSHIP*,RABBIT*,ADAMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="How" />
+		<gridItem answer="Magpie" />
+		<gridItem answer="Bod" />
+		<gridItem answer="Rainbow" />
+		<modelAnswer>1970s children's TV programmes</modelAnswer>
+		<list1>SEVENTIES*,CHILD*,KID*,TELEVISION,TV,TELLY,SCHOOLCHILD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Marmite" />
+		<gridItem answer="Olla" />
+		<gridItem answer="Pipkin" />
+		<gridItem answer="Terrine" />
+		<modelAnswer>Earthenware cooking pots</modelAnswer>
+		<list1>EARTHEN*,CLAY*,CERAMIC*,POT*,FIRED,STONEWARE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Curry" />
+		<gridItem answer="Cocks" />
+		<gridItem answer="Honey" />
+		<gridItem answer="Tooth" />
+		<modelAnswer>____comb</modelAnswer>
+		<list1>COMB*</list1>
+		<list2></list2>
+	</answers>
+</data>

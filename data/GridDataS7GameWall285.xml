@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Audacity" />
+		<gridItem answer="WordPress" />
+		<gridItem answer="FileZilla" />
+		<gridItem answer="Haiku" />
+		<modelAnswer>Open-source software</modelAnswer>
+		<list1>SOFTWA*,PROGRAM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kibbeh" />
+		<gridItem answer="Empanda" />
+		<gridItem answer="Spanakopita" />
+		<gridItem answer="Samosa" />
+		<modelAnswer>Savoury pastries</modelAnswer>
+		<list1>PASTR*,DOUGH*,SAVOUR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fedora" />
+		<gridItem answer="Pork pie" />
+		<gridItem answer="Fez" />
+		<gridItem answer="Karakul" />
+		<modelAnswer>Hats</modelAnswer>
+		<list1>HAT*,HEADGEAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clerihew" />
+		<gridItem answer="Sestina" />
+		<gridItem answer="Pantoum" />
+		<gridItem answer="Pastoral" />
+		<modelAnswer>Poetry forms</modelAnswer>
+		<list1>POEM*,VERSE*,POET*</list1>
+		<list2></list2>
+	</answers>
+</data>

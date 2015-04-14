@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rioja" />
+		<gridItem answer="Sangria" />
+		<gridItem answer="Cava" />
+		<gridItem answer="Queimada" />
+		<modelAnswer>Spanish drinks</modelAnswer>
+		<list1>SPAIN,SPANISH,IBERIA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Manx" />
+		<gridItem answer="Diurach" />
+		<gridItem answer="Vectian" />
+		<gridItem answer="Orcadian" />
+		<modelAnswer>Residents of British Isles</modelAnswer>
+		<list1>RESIDENT*,PEOPLE*,BRITISH*,BRITAIN*,UK,UNITED*,INHABITANT*,CITIZEN*,OCCUPA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rag Doll" />
+		<gridItem answer="Sherry" />
+		<gridItem answer="Let's Hang On" />
+		<gridItem answer="Silver Star" />
+		<modelAnswer>Songs by The Four Seasons</modelAnswer>
+		<list1>SEASONS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sphynx" />
+		<gridItem answer="Burmese" />
+		<gridItem answer="Korat" />
+		<gridItem answer="Cornish Rex" />
+		<modelAnswer>Breeds of cat</modelAnswer>
+		<list1>CAT*,FELINE*</list1>
+		<list2></list2>
+	</answers>
+</data>

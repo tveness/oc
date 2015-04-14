@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Sash" />
+		<gridItem answer="Caliper" />
+		<gridItem answer="Ghoul" />
+		<gridItem answer="Elixir" />
+		<modelAnswer>English words derived from Arabic</modelAnswer>
+		<list1>ARAB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chimera" />
+		<gridItem answer="Demon" />
+		<gridItem answer="Golem" />
+		<gridItem answer="Goblin" />
+		<modelAnswer>Monsters</modelAnswer>
+		<list1>MYTH*,CREAT*,IMAGINAR*,CHIMERA*,BEAST*,FIEND*,VILLAIN*,FIGHT*,ROLE*,MONSTER*,MUTANT*,LEVIATH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shot" />
+		<gridItem answer="Potion" />
+		<gridItem answer="Spirit" />
+		<gridItem answer="Nectar" />
+		<modelAnswer>Synonyms for \'drink\'</modelAnswer>
+		<list1>MAGIC*,BEVER*,LIQUID*,DRINK*,BREW*,REFRESH*,DRAUGHT*,SIP*,SPIRIT*,BOTTLE*,BOOZE*,ALCOHOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bay" />
+		<gridItem answer="Casement" />
+		<gridItem answer="Picture" />
+		<gridItem answer="Lattice" />
+		<modelAnswer>Types of window</modelAnswer>
+		<list1>WINDOW*</list1>
+		<list2></list2>
+	</answers>
+</data>

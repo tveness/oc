@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rosyth" />
+		<gridItem answer="Scapa Flow" />
+		<gridItem answer="Woolwich" />
+		<gridItem answer="Chatham" />
+		<modelAnswer>British dockyards</modelAnswer>
+		<list1>DOCK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barrytown" />
+		<gridItem answer="Millennium" />
+		<gridItem answer="Border" />
+		<gridItem answer="Deptford" />
+		<modelAnswer>Literary trilogies</modelAnswer>
+		<list1>TRILOG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Murrayfield" />
+		<gridItem answer="Eden Park" />
+		<gridItem answer="Flaminio" />
+		<gridItem answer="Newlands" />
+		<modelAnswer>National rugby stadia</modelAnswer>
+		<list1>RUGBY</list1>
+		<list2>STADIUM*,STADIA,GROUND*,ARENA*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bull" />
+		<gridItem answer="Skye" />
+		<gridItem answer="Norfolk" />
+		<gridItem answer="Cairn" />
+		<modelAnswer>Breeds of terrier</modelAnswer>
+		<list1>TERRIER*</list1>
+		<list2></list2>
+	</answers>
+</data>

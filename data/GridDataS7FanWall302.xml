@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Baby" />
+		<gridItem answer="Joe" />
+		<gridItem answer="Paula" />
+		<gridItem answer="Jude" />
+		<modelAnswer>Songs called 'Hey ____'</modelAnswer>
+		<list1>HEY*,SONG*,MUSIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cherie" />
+		<gridItem answer="Samantha" />
+		<gridItem answer="Norma" />
+		<gridItem answer="Sarah" />
+		<modelAnswer>Recent spouses of UK Prime Ministers</modelAnswer>
+		<list1>SPOUSE*,WIFE*,PARTNER*,PM,PRIME</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Darling" />
+		<gridItem answer="Working" />
+		<gridItem answer="Norman" />
+		<gridItem answer="Washing" />
+		<modelAnswer>English towns called ____ton</modelAnswer>
+		<list1>TOWN*,PLACE*,TON,END*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Honey" />
+		<gridItem answer="Stock" />
+		<gridItem answer="Chamber" />
+		<gridItem answer="Flower" />
+		<modelAnswer>Types of pot</modelAnswer>
+		<list1>POT*</list1>
+		<list2></list2>
+	</answers>
+</data>

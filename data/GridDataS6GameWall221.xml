@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Angle" />
+		<gridItem answer="Colour" />
+		<gridItem answer="Dent" />
+		<gridItem answer="Cycle" />
+		<modelAnswer>Tri____</modelAnswer>
+		<list1>TRI*,THREE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Prefect" />
+		<gridItem answer="Trillian" />
+		<gridItem answer="Beeblebrox" />
+		<gridItem answer="Marvin" />
+		<modelAnswer>‘Hitchhikers Guide’ characters</modelAnswer>
+		<list1>HHGTTG,HITCH*,GALAXY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fag" />
+		<gridItem answer="Preppy" />
+		<gridItem answer="Boarder" />
+		<gridItem answer="Bluecoat" />
+		<modelAnswer>Schoolchildren</modelAnswer>
+		<list1>SCHOOL*,CHILD*,KID*,PUPIL*,STUDENT*,SCHOL*,LEARN*,CLASS*,PUBLIC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bearded" />
+		<gridItem answer="Flying" />
+		<gridItem answer="Sand" />
+		<gridItem answer="Monitor" />
+		<modelAnswer>Types of lizard</modelAnswer>
+		<list1>LIZARD*,REPTILE*</list1>
+		<list2></list2>
+	</answers>
+</data>

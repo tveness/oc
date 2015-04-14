@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Jones" />
+		<gridItem answer="Blake" />
+		<gridItem answer="Dinkley" />
+		<gridItem answer="Rogers" />
+		<modelAnswer>Surnames of Scooby-Doo characters</modelAnswer>
+		<list1>SCOOBY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scott" />
+		<gridItem answer="Clare" />
+		<gridItem answer="Shelley" />
+		<gridItem answer="Robinson" />
+		<modelAnswer>British Romantic poets</modelAnswer>
+		<list1>POET*,ROMANTI*,</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clarks" />
+		<gridItem answer="Nash" />
+		<gridItem answer="Fayette" />
+		<gridItem answer="Louis" />
+		<modelAnswer>US cities called ____ville</modelAnswer>
+		<list1>US,USA,AMERICA*,CITY,CITIES,TOWN*,PLACE*,VILLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dickies" />
+		<gridItem answer="Converse" />
+		<gridItem answer="Timberland" />
+		<gridItem answer="Dunlop" />
+		<modelAnswer>Footwear manufacturers</modelAnswer>
+		<list1>FOOT*,FEET*,SHOE*,TRAINER*,SNEAKERS,BOOT*</list1>
+		<list2></list2>
+	</answers>
+</data>

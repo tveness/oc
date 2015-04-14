@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hesse" />
+		<gridItem answer="Schiller" />
+		<gridItem answer="Grimm" />
+		<gridItem answer="Mann" />
+		<modelAnswer>German-born writers</modelAnswer>
+		<list1>GERMAN*,AUTHOR*,WRITE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Broomstick" />
+		<gridItem answer="Quaffle" />
+		<gridItem answer="Beater's bat" />
+		<gridItem answer="Bludger" />
+		<modelAnswer>Quidditch equipment</modelAnswer>
+		<list1>QUIDDITCH*,ROWLING*,POTTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grass" />
+		<gridItem answer="Shop" />
+		<gridItem answer="Snitch" />
+		<gridItem answer="Sneak" />
+		<modelAnswer>To betray</modelAnswer>
+		<list1>BETRAY*,INFORM*,DOUBLE*,CROSS*,DESERT*,ABANDON*,TRAITOR*,DISLOYAL*,UNFAITHFUL*,PROMISE*,RENEGE*,FORSAKE*,DECIEVE*,DELUDE*,MISLEAD*,DUPE*,CHEAT*,AWAY,ASTRAY,RAT*,SELL,TELL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Graph" />
+		<gridItem answer="Synthesis" />
+		<gridItem answer="Journalism" />
+		<gridItem answer="Taxis" />
+		<modelAnswer>Photo____</modelAnswer>
+		<list1>PHOTO*</list1>
+		<list2></list2>
+	</answers>
+</data>

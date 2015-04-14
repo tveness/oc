@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Yeast" />
+		<gridItem answer="Shortening" />
+		<gridItem answer="Gluten" />
+		<gridItem answer="Arrowroot" />
+		<modelAnswer>Ingredients in bread</modelAnswer>
+		<list1>INGREDIENT*,BREAD*,BAKE*,CAKE*,SPONGE*,PATISS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carter" />
+		<gridItem answer="Reeves" />
+		<gridItem answer="Maguire" />
+		<gridItem answer="Bale" />
+		<modelAnswer>Actors who played comic book heroes</modelAnswer>
+		<list1>COMIC*,ANIMAT*,SUPERHERO*,HERO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Yew" />
+		<gridItem answer="Mayor" />
+		<gridItem answer="Dough" />
+		<gridItem answer="Damn" />
+		<modelAnswer>Homophones of female animals</modelAnswer>
+		<list1>FEMALE,LADY,LADIES,WOMEN,WOMAN,ANIMAL*,CREATURE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grandee" />
+		<gridItem answer="Provost" />
+		<gridItem answer="Reeve" />
+		<gridItem answer="Nazim" />
+		<modelAnswer>Local dignitaries</modelAnswer>
+		<list1>DIGNITAR*,VIP*,IMPORTANT*,WORTH*,NOTABL*,CIVIC,LUMINAR*,BIGWIG*,BIG GUN,TOP BRASS</list1>
+		<list2></list2>
+	</answers>
+</data>

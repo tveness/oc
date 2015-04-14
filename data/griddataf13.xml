@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Computer" />
+		<gridItem answer="Constable" />
+		<gridItem answer="Postcard" />
+		<gridItem answer="Per cent" />
+		<modelAnswer>Represented by ‘PC’</modelAnswer>
+		<list1>PC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tonic" />
+		<gridItem answer="Heavy" />
+		<gridItem answer="Barley" />
+		<gridItem answer="Bath" />
+		<modelAnswer>____ water</modelAnswer>
+		<list1>WATER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Minor" />
+		<gridItem answer="Marina" />
+		<gridItem answer="Oxford" />
+		<gridItem answer="Isis" />
+		<modelAnswer>Makes of Morris car</modelAnswer>
+		<list1>MORRIS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Major" />
+		<gridItem answer="Darling" />
+		<gridItem answer="Clarke" />
+		<gridItem answer="Brown" />
+		<modelAnswer>Chancellors of the Exchequer</modelAnswer>
+		<list1>CHANCELLOR,SECOND LORD,2ND LORD,EXCHEQUER</list1>
+		<list2></list2>
+	</answers>
+</data>

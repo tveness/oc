@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Psyche" />
+		<gridItem answer="Schmetterling" />
+		<gridItem answer="Mariposa" />
+		<gridItem answer="Farfalla" />
+		<modelAnswer>'Butterfly' in different languages</modelAnswer>
+		<list1>BUTTERFL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bullitt" />
+		<gridItem answer="Crown" />
+		<gridItem answer="Horn" />
+		<gridItem answer="Papillon" />
+		<modelAnswer>Title roles played by Steve McQueen</modelAnswer>
+		<list1>MCQUEEN*,MACQUEEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Angel hair" />
+		<gridItem answer="Conchiglie" />
+		<gridItem answer="Orzo" />
+		<gridItem answer="Penne" />
+		<modelAnswer>Types of pasta</modelAnswer>
+		<list1>PASTA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lasagna" />
+		<gridItem answer="Jim Davis" />
+		<gridItem answer="Pooky" />
+		<gridItem answer="Mondays" />
+		<modelAnswer>Associated with Garfield (cartoon cat)</modelAnswer>
+		<list1>GARFIELD*</list1>
+		<list2></list2>
+	</answers>
+</data>

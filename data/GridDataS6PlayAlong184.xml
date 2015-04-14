@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Red" />
+		<gridItem answer="Tiananmen" />
+		<gridItem answer="Tahrir" />
+		<gridItem answer="St Peter's" />
+		<modelAnswer>World-famous city squares</modelAnswer>
+		<list1>SQUARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Oak Apple" />
+		<gridItem answer="Armistice" />
+		<gridItem answer="Lady" />
+		<gridItem answer="Trafalgar" />
+		<modelAnswer>Traditional UK holidays</modelAnswer>
+		<list1>DAY*,HOLIDAY*,VACATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Remus" />
+		<gridItem answer="Wenceslas" />
+		<gridItem answer="King Hamlet" />
+		<gridItem answer="Abel" />
+		<modelAnswer>Victims of fratricide</modelAnswer>
+		<list1>FRAT*,BROTHER*,SIBLING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pinko" />
+		<gridItem answer="Lefty" />
+		<gridItem answer="Attack poodle" />
+		<gridItem answer="Wet" />
+		<modelAnswer>Political epithets</modelAnswer>
+		<list1>POLITIC*,SATIR*,GOVERNM*,EPITHET*</list1>
+		<list2></list2>
+	</answers>
+</data>

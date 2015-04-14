@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="McCoy" />
+		<gridItem answer="Deal" />
+		<gridItem answer="Thing" />
+		<gridItem answer="Me" />
+		<modelAnswer>The Real ____</modelAnswer>
+		<list1>REAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cauthen" />
+		<gridItem answer="Eddery" />
+		<gridItem answer="Pitman" />
+		<gridItem answer="Francome" />
+		<modelAnswer>Famous jockeys</modelAnswer>
+		<list1>JOCKEY*,RIDER*,RIDING,EQUESTRIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gomez" />
+		<gridItem answer="Itt" />
+		<gridItem answer="Fester" />
+		<gridItem answer="Grandmama" />
+		<modelAnswer>Characters in ‘The Addams Family’</modelAnswer>
+		<list1>ADAMS,ADDAMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plate" />
+		<gridItem answer="United" />
+		<gridItem answer="Steel" />
+		<gridItem answer="Wednesday" />
+		<modelAnswer>Sheffield ____</modelAnswer>
+		<list1>SHEFFIELD</list1>
+		<list2></list2>
+	</answers>
+</data>

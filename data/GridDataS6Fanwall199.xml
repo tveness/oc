@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spanish" />
+		<gridItem answer="Angel" />
+		<gridItem answer="Bette Davis" />
+		<gridItem answer="Blue" />
+		<modelAnswer>'____ Eyes' songs</modelAnswer>
+		<list1>EYE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="White" />
+		<gridItem answer="Red" />
+		<gridItem answer="Silverskin" />
+		<gridItem answer="Salad" />
+		<modelAnswer>Varieties of onion</modelAnswer>
+		<list1>ONION*,ALLIUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Asiatic" />
+		<gridItem answer="Hong Kong" />
+		<gridItem answer="Russian" />
+		<gridItem answer="Swine" />
+		<modelAnswer>'Flu pandemics</modelAnswer>
+		<list1>FLU*,INFLUENZA,GRIPPE,VIRUS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="China" />
+		<gridItem answer="Barbie" />
+		<gridItem answer="Bobblehead" />
+		<gridItem answer="Kewpie" />
+		<modelAnswer>Types of doll</modelAnswer>
+		<list1>DOLL*</list1>
+		<list2></list2>
+	</answers>
+</data>

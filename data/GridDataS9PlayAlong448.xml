@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Careen"/>
+		<gridItem answer="Heel"/>
+		<gridItem answer="List"/>
+		<gridItem answer="Tilt"/>
+		<modelAnswer>Words meaning slant</modelAnswer>
+		<list1>SLANT*,LEAN*,INCLIN*,RAKE*,PITCH*,GRAD*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Peacock"/>
+		<gridItem answer="Simmonds"/>
+		<gridItem answer="Stone"/>
+		<gridItem answer="Storey"/>
+		<modelAnswer>UK Paralympian Golds, 2012</modelAnswer>
+		<list1>PARALYMPI*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Dam"/>
+		<gridItem answer="Lock"/>
+		<gridItem answer="Staunch"/>
+		<gridItem answer="Weir"/>
+		<modelAnswer>River barriers</modelAnswer>
+		<list1>RIVER*,WATER*,STREAM*,CANAL*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Air"/>
+		<gridItem answer="Cant"/>
+		<gridItem answer="Marks"/>
+		<gridItem answer="Rustle"/>
+		<modelAnswer>Homophones of philosophers</modelAnswer>
+		<list1>PHILOSOPH*</list1>
+		<list2></list2>
+	</answers></data>

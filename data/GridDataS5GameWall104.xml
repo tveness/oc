@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Valve" />
+		<gridItem answer="Namco" />
+		<gridItem answer="Epic" />
+		<gridItem answer="Capcom" />
+		<modelAnswer>Computer game companies</modelAnswer>
+		<list1>COMPUTER,VIDEO*,GAME*,SOFTWARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bungee" />
+		<gridItem answer="Quantum" />
+		<gridItem answer="Triple" />
+		<gridItem answer="Ski" />
+		<modelAnswer>____ jump</modelAnswer>
+		<list1>JUMP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Orbital" />
+		<gridItem answer="Wankel" />
+		<gridItem answer="Piston" />
+		<gridItem answer="Rotary" />
+		<modelAnswer>Types of engine</modelAnswer>
+		<list1>ENGINE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Faithless" />
+		<gridItem answer="808 State" />
+		<gridItem answer="EMF" />
+		<gridItem answer="Leftfield" />
+		<modelAnswer>British electronica groups</modelAnswer>
+		<list1>ELECTRO*,TECHNO*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Alf"/>
+		<gridItem answer="Zenyattà Mondatta"/>
+		<gridItem answer="No Parlez"/>
+		<gridItem answer="Shaky"/>
+		<modelAnswer>1980s number-one albums</modelAnswer>
+		<list1>1980*,80*</list1>
+		<list2>ALBUM*,LP*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="The Mule"/>
+		<gridItem answer="Paul"/>
+		<gridItem answer="Roger"/>
+		<gridItem answer="Ming"/>
+		<modelAnswer>Extraterrestrials</modelAnswer>
+		<list1>EXTRATERRESTRIAL*,ALIEN*,SPACE*, </list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Five by five"/>
+		<gridItem answer="Wilco"/>
+		<gridItem answer="Pan-pan"/>
+		<gridItem answer="Negative"/>
+		<modelAnswer>Voice procedure</modelAnswer>
+		<list1>VOICE*,VOCAL*,RADIO*,COMMUNICAT*,PILOT*,CB*,ARMY*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Stop bath"/>
+		<gridItem answer="Fogging"/>
+		<gridItem answer="Fixer"/>
+		<gridItem answer="Wetting agent"/>
+		<modelAnswer>Photographic development</modelAnswer>
+		<list1>PHOTO*,DARK*</list1>
+		<list2></list2>
+	</answers></data>

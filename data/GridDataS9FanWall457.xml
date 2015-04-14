@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Webb" />
+		<gridItem answer="Taylor" />
+		<gridItem answer="Ling" />
+		<gridItem answer="Reader" />
+		<modelAnswer>British World Cup final referees</modelAnswer>
+		<list1>REF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Panga" />
+		<gridItem answer="Banjo" />
+		<gridItem answer="Perch" />
+		<gridItem answer="Hamlet" />
+		<modelAnswer>Fish</modelAnswer>
+		<list1>FISH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Castle" />
+		<gridItem answer="House" />
+		<gridItem answer="Medium" />
+		<gridItem answer="Luther" />
+		<modelAnswer>One word TV shows titles</modelAnswer>
+		<list1>TV*,TELEVISION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Structure" />
+		<gridItem answer="Pile" />
+		<gridItem answer="Edifice" />
+		<gridItem answer="Construction" />
+		<modelAnswer>Words for buildings</modelAnswer>
+		<list1>BUIL*,ERECT*,ASSEMBL*</list1>
+		<list2></list2>
+	</answers>
+</data>

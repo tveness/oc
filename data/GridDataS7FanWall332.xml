@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pluto" />
+		<gridItem answer="Eris" />
+		<gridItem answer="Makemake" />
+		<gridItem answer="Haumea" />
+		<modelAnswer>Dwarf planets of the Solar System</modelAnswer>
+		<list1>DWARF*,PLANET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gromit" />
+		<gridItem answer="Brian" />
+		<gridItem answer="Droopy" />
+		<gridItem answer="Astro" />
+		<modelAnswer>Animated dogs</modelAnswer>
+		<list1>CARTOON,ANIMATE*,DOG*,CANINE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spike" />
+		<gridItem answer="Armed Forces" />
+		<gridItem answer="Punch The Clock" />
+		<gridItem answer="This Year's Model" />
+		<modelAnswer>Elvis Costello albums</modelAnswer>
+		<list1>COSTELLO*,ELVIS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slough" />
+		<gridItem answer="Entrance" />
+		<gridItem answer="Essay" />
+		<gridItem answer="Console" />
+		<modelAnswer>Heteronyms (noun and verb are said differently)</modelAnswer>
+		<list1>HETERONYM*,NOUN*,VERB*,SAID,PRONOUNC*,PRONUNCI*</list1>
+		<list2></list2>
+	</answers>
+</data>

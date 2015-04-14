@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bramall" />
+		<gridItem answer="Meadow" />
+		<gridItem answer="Gigg" />
+		<gridItem answer="White Hart" />
+		<modelAnswer>Football stadia called ‘____ Lane’</modelAnswer>
+		<list1>SOCCER*,FOOTBALL*,STADIUM*,STADIA*,LANE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bath" />
+		<gridItem answer="Chelsea" />
+		<gridItem answer="Cinnamon" />
+		<gridItem answer="Sticky" />
+		<modelAnswer>Buns</modelAnswer>
+		<list1>BUN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Castle of Castile" />
+		<gridItem answer="Tudor Rose" />
+		<gridItem answer="Fleur-de-lis" />
+		<gridItem answer="White Boar" />
+		<modelAnswer>Royal badges of English monarchs</modelAnswer>
+		<list1>KING*,QUEEN*,MONARCH*,BADGE*,HERALD*,EMBLEM,LIVERY*,COGNIZANCE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Thistle" />
+		<gridItem answer="Garter" />
+		<gridItem answer="Merit" />
+		<gridItem answer="British Empire" />
+		<modelAnswer>Orders of chivalry</modelAnswer>
+		<list1>ORDER*,CHIVALR*</list1>
+		<list2></list2>
+	</answers>
+</data>

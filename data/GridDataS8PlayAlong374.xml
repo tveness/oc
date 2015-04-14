@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cally" />
+		<gridItem answer="Tarrant" />
+		<gridItem answer="Servalan" />
+		<gridItem answer="Avon" />
+		<modelAnswer>'Blake's 7' characters</modelAnswer>
+		<list1>BLAKE*,SEVEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Car key" />
+		<gridItem answer="Rows" />
+		<gridItem answer="Read" />
+		<gridItem answer="Wight" />
+		<modelAnswer>Colour homophones (Khaki, Rose etc.)</modelAnswer>
+		<list1>SOUND*,PRONOUNC*,SAID,SAY,LIKE,COLOUR*,COLOR*,SHADE*,HOMOPHONE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mayo" />
+		<gridItem answer="Cox" />
+		<gridItem answer="Grimshaw" />
+		<gridItem answer="Blackburn" />
+		<modelAnswer>BBC Radio 1 breakfast DJs</modelAnswer>
+		<list1>RADIO*,BREAKFAST*,BBC,R1,DJ*,JOCKEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bute" />
+		<gridItem answer="Dogs" />
+		<gridItem answer="Grain" />
+		<gridItem answer="Man" />
+		<modelAnswer>Isle of ____</modelAnswer>
+		<list1>ISLE*,ISLAND*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="V" />
+		<gridItem answer="Latitude" />
+		<gridItem answer="Isle of Wight" />
+		<gridItem answer="Reading" />
+		<modelAnswer>Music festivals</modelAnswer>
+		<list1>MUSIC*,FESTIVAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Green Man" />
+		<gridItem answer="Adam Bell" />
+		<gridItem answer="Jack o' Kent" />
+		<gridItem answer="Jack Frost" />
+		<modelAnswer>Legendary characters in folklore</modelAnswer>
+		<list1>LEGEND*,FOLK*,LORE*,EXIST*,MYTH*,TALE*,STOR*,TRADITION*,FICT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sandhurst" />
+		<gridItem answer="Eton" />
+		<gridItem answer="Bracknell" />
+		<gridItem answer="Windsor" />
+		<modelAnswer>Places in Berkshire</modelAnswer>
+		<list1>BERK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hungerford" />
+		<gridItem answer="Nanking" />
+		<gridItem answer="Babi Yar" />
+		<gridItem answer="Boston" />
+		<modelAnswer>Locations of famous massacres</modelAnswer>
+		<list1>MASSACRE*,KILL*,MURDER*,DEATH*</list1>
+		<list2></list2>
+	</answers>
+</data>

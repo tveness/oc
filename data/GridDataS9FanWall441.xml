@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Orbison" />
+		<gridItem answer="Hattersley" />
+		<gridItem answer="Scheider" />
+		<gridItem answer="Rogers" />
+		<modelAnswer>People called Roy</modelAnswer>
+		<list1>ROY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Keane" />
+		<gridItem answer="Oasis" />
+		<gridItem answer="Cast" />
+		<gridItem answer="Reef" />
+		<modelAnswer>One word British bands</modelAnswer>
+		<list1>BAND*,GROUP*,MUSIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Queen" />
+		<gridItem answer="King" />
+		<gridItem answer="Pawn" />
+		<gridItem answer="Knight" />
+		<modelAnswer>Chess pieces</modelAnswer>
+		<list1>CHESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bishop" />
+		<gridItem answer="Gunslinger" />
+		<gridItem answer="David" />
+		<gridItem answer="Marvin" />
+		<modelAnswer>Robots or androids in film</modelAnswer>
+		<list1>ROBOT*,ANDROID*</list1>
+		<list2></list2>
+	</answers>
+</data>

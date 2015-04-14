@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Swan" />
+		<gridItem answer="Murray" />
+		<gridItem answer="Darling" />
+		<gridItem answer="Cotter" />
+		<modelAnswer>Australian rivers</modelAnswer>
+		<list1>AUSTRALIA*,RIVER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Giles" />
+		<gridItem answer="Laker" />
+		<gridItem answer="Lock" />
+		<gridItem answer="Underwood" />
+		<modelAnswer>England cricket spinners</modelAnswer>
+		<list1>CRICKET*,SPIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Angel" />
+		<gridItem answer="Spike" />
+		<gridItem answer="Xander" />
+		<gridItem answer="Oz" />
+		<modelAnswer>'Buffy the Vampire Slayer' characters</modelAnswer>
+		<list1>BUFFY*,WHEDON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Willow" />
+		<gridItem answer="Cookie" />
+		<gridItem answer="Smudge" />
+		<gridItem answer="Oke" />
+		<modelAnswer>'Blue Peter' cats</modelAnswer>
+		<list1>BLUE</list1>
+		<list2>CAT*,PET*,FELINE*</list2>
+	</answers>
+</data>

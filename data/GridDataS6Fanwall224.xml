@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="United States, 1776" />
+		<gridItem answer="Ghana, 1957" />
+		<gridItem answer="Zambia, 1964" />
+		<gridItem answer="Burma, 1948" />
+		<modelAnswer>Independence from the UK</modelAnswer>
+		<list1>INDEPEND*,SPLIT*,LEAV*,AUTONOM*,SELF*,HOME*,SOVEREIGN*,FREE*,LIBER*,DECOLON*,SEPARAT*</list1>
+		<list2>UK,UNITED,BRITAIN,BRITISH</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Canada, 1994" />
+		<gridItem answer="Jamaica, 1966" />
+		<gridItem answer="Australia, 1982" />
+		<gridItem answer="Scotland, 2014" />
+		<modelAnswer>Countries hosting the Commonwealth Games</modelAnswer>
+		<list1>COMMONWEALTH</list1>
+		<list2>GAME*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brazil, 1932" />
+		<gridItem answer="Switzerland, 1971" />
+		<gridItem answer="New Zealand, 1893" />
+		<gridItem answer="Kuwait, 2005" />
+		<modelAnswer>When women were given the vote</modelAnswer>
+		<list1>WOMAN*,WOMEN*,FEMALE*,SUFFRAG*,UNIVERS*,ENFRANCHISE*</list1>
+		<list2>VOTE*,SUFFRAG*,ENFRANCHISE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spain, 1955" />
+		<gridItem answer="South Sudan, 2011" />
+		<gridItem answer="Monaco, 1993" />
+		<gridItem answer="Pakistan, 1947" />
+		<modelAnswer>Joined the United Nations</modelAnswer>
+		<list1>UN,UNITED,NATIONS</list1>
+		<list2></list2>
+	</answers>
+</data>

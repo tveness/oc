@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Frog" />
+		<gridItem answer="Popper" />
+		<gridItem answer="Hook-and-eye" />
+		<gridItem answer="Button" />
+		<modelAnswer>Clothing fasteners</modelAnswer>
+		<list1>FASTEN*,ATTACH,CLOSE*,CLOTH*,SECURE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fly" />
+		<gridItem answer="Spoon" />
+		<gridItem answer="Jig" />
+		<gridItem answer="Spinner" />
+		<modelAnswer>Fishing lures</modelAnswer>
+		<list1>FISH*,LURE*,ANGL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plug" />
+		<gridItem answer="Cone" />
+		<gridItem answer="Crater" />
+		<gridItem answer="Caldera" />
+		<modelAnswer>Volcanic landforms</modelAnswer>
+		<list1>VOLCAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Golf" />
+		<gridItem answer="Paving" />
+		<gridItem answer="Horse" />
+		<gridItem answer="Quilt" />
+		<modelAnswer>Crazy ____</modelAnswer>
+		<list1>CRAZY</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Joke" />
+		<gridItem answer="Surprise" />
+		<gridItem answer="Tickling" />
+		<gridItem answer="Relief" />
+		<modelAnswer>Things that make people laugh</modelAnswer>
+		<list1>LAUGH*,SMILE*,CACKLE*,CHORTL*,GIGGL*,SNIGGER*,SNORT*,TITTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cheers" />
+		<gridItem answer="Wow" />
+		<gridItem answer="Rats" />
+		<gridItem answer="Psst" />
+		<modelAnswer>Interjections or exclamations</modelAnswer>
+		<list1>INTERJECT*,EXCLAIM*,EXCLAM*,EJAC*,INTERPELL*,INTERPOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sorry" />
+		<gridItem answer="Chef" />
+		<gridItem answer="Please Sir" />
+		<gridItem answer="Hi-De-Hi" />
+		<modelAnswer>Sitcoms ending with an exclamation mark</modelAnswer>
+		<list1>EXCLAM*,END*,CONTAIN*,MARK*,SITCOM,SITUATION,COMEDY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stan" />
+		<gridItem answer="Butters" />
+		<gridItem answer="Bebe" />
+		<gridItem answer="Kyle" />
+		<modelAnswer>South Park characters</modelAnswer>
+		<list1>PARK</list1>
+		<list2></list2>
+	</answers>
+</data>

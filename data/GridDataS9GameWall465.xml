@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bantam" />
+		<gridItem answer="Feather" />
+		<gridItem answer="Cruiser" />
+		<gridItem answer="Welter" />
+		<modelAnswer>Boxing weights</modelAnswer>
+		<list1>WEIGHT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Frigate" />
+		<gridItem answer="Destroyer" />
+		<gridItem answer="Dreadnought" />
+		<gridItem answer="Minesweeper" />
+		<modelAnswer>Naval vessels</modelAnswer>
+		<list1>VESSEL*,SHIP*,BOAT*,NAV*,SEA*,WATER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cooling" />
+		<gridItem answer="Fly" />
+		<gridItem answer="Water" />
+		<gridItem answer="Siege" />
+		<modelAnswer>Towers</modelAnswer>
+		<list1>TOWER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bell" />
+		<gridItem answer="Kennedy" />
+		<gridItem answer="Perlman" />
+		<gridItem answer="Hahn" />
+		<modelAnswer>Violinists</modelAnswer>
+		<list1>VIOLIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

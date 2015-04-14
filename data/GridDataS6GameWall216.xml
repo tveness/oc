@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ad court" />
+		<gridItem answer="Tramlines" />
+		<gridItem answer="T" />
+		<gridItem answer="Service box" />
+		<modelAnswer>Markings on a tennis court</modelAnswer>
+		<list1>TENNIS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Touchstone" />
+		<gridItem answer="Benchmark" />
+		<gridItem answer="Yardstick" />
+		<gridItem answer="Baseline" />
+		<modelAnswer>Reference points</modelAnswer>
+		<list1>MEASURE*,CRITER*,LEVEL*,MODEL*,NORM*,REFERENCE*,GUIDE*,STANDARD*,BASIS*,BASES*,GAUGE*,SCALE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Duke Frederick" />
+		<gridItem answer="Rosalind" />
+		<gridItem answer="Orlando" />
+		<gridItem answer="Celia" />
+		<modelAnswer>Characters from ‘As You Like It’</modelAnswer>
+		<list1>LIKE,AYLI,SHAKESPEARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Degree" />
+		<gridItem answer="Turn" />
+		<gridItem answer="Fault" />
+		<gridItem answer="Greater extent" />
+		<modelAnswer>To a ____</modelAnswer>
+		<list1>TO</list1>
+		<list2></list2>
+	</answers>
+</data>

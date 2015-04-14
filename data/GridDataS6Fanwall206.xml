@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bamm" />
+		<gridItem answer="Dum" />
+		<gridItem answer="Boo" />
+		<gridItem answer="Choo" />
+		<modelAnswer>(when repeated) Hanna-Barbera cartoon characters</modelAnswer>
+		<list1>CARTOON*,COMIC*,ANIMAT*,HANNA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Can" />
+		<gridItem answer="Go" />
+		<gridItem answer="Cha" />
+		<gridItem answer="Para" />
+		<modelAnswer>(when repeated) Dance styles</modelAnswer>
+		<list1>DANCING,DANCE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Soldier" />
+		<gridItem answer="Relocation" />
+		<gridItem answer="Surprise" />
+		<gridItem answer="'Allo" />
+		<modelAnswer>(when repeated) TV programmes</modelAnswer>
+		<list1>TV,TELLY,TELEVISION</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bang" />
+		<gridItem answer="Mirror" />
+		<gridItem answer="Honey" />
+		<gridItem answer="Monday" />
+		<modelAnswer>(when repeated) UK Top 40 hits</modelAnswer>
+		<list1>POP*,SONG*,SINGLE*,HIT*</list1>
+		<list2></list2>
+	</answers>
+</data>

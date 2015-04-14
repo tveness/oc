@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hot n Cold" />
+		<gridItem answer="E.T." />
+		<gridItem answer="Roar" />
+		<gridItem answer="California Gurls" />
+		<modelAnswer>Katy Perry songs</modelAnswer>
+		<list1>PERRY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Firework" />
+		<gridItem answer="Highway" />
+		<gridItem answer="Green Cross" />
+		<gridItem answer="Da Vinci" />
+		<modelAnswer>____ Code</modelAnswer>
+		<list1>CODE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Post" />
+		<gridItem answer="Lindbergh" />
+		<gridItem answer="Wright" />
+		<gridItem answer="Earhart" />
+		<modelAnswer>American Aviators</modelAnswer>
+		<list1>AVIAT*,PILOT*,PLANE*,AIR*,AERO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Trumpet" />
+		<gridItem answer="Tweet" />
+		<gridItem answer="Low" />
+		<gridItem answer="Squeak" />
+		<modelAnswer>made by animals</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,BEAST*,LIVING*,NATUR*,FAUNA*,SOUND*,NOISE*</list1>
+		<list2></list2>
+	</answers>
+</data>

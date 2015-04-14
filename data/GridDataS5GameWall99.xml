@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Coleridge" />
+		<gridItem answer="de Quincey" />
+		<gridItem answer="Wilson" />
+		<gridItem answer="Southey" />
+		<modelAnswer>Lake Poets</modelAnswer>
+		<list1>LAKE,POET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wordsworth" />
+		<gridItem answer="Cecil" />
+		<gridItem answer="Mr Babbage" />
+		<gridItem answer="Dave" />
+		<modelAnswer>Game show computers</modelAnswer>
+		<list1>GAME,GAMESHOW,QUIZ*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Watch" />
+		<gridItem answer="Discovery" />
+		<gridItem answer="Really" />
+		<gridItem answer="Yesterday" />
+		<modelAnswer>Digital television channels</modelAnswer>
+		<list1>CHANNEL*,STATION*,DIGITAL,TV,TELEVISION</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="History" />
+		<gridItem answer="Greek" />
+		<gridItem answer="Lights" />
+		<gridItem answer="Monument" />
+		<modelAnswer>Ancient ____</modelAnswer>
+		<list1>ANCIENT</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Okinawa" />
+		<gridItem answer="Midway" />
+		<gridItem answer="Britain" />
+		<gridItem answer="Monte Cassino" />
+		<modelAnswer>World War II battles</modelAnswer>
+		<list1>WW2,WWII,WORLD WAR 2,WORLD WAR II,WORLD WAR TWO,2nd WORLD WAR,SECOND WORLD WAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pearl Harbor" />
+		<gridItem answer="The Rock" />
+		<gridItem answer="Transformers" />
+		<gridItem answer="Bad Boys" />
+		<modelAnswer>Michael Bay films</modelAnswer>
+		<list1>BAY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rockstar" />
+		<gridItem answer="Valve" />
+		<gridItem answer="2K" />
+		<gridItem answer="Capcom" />
+		<modelAnswer>Video games companies</modelAnswer>
+		<list1>GAM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Atrium" />
+		<gridItem answer="Septum" />
+		<gridItem answer="Aorta" />
+		<gridItem answer="Ventricle" />
+		<modelAnswer>Parts of the heart</modelAnswer>
+		<list1>HEART*</list1>
+		<list2></list2>
+	</answers>
+</data>

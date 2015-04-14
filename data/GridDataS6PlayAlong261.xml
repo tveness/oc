@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Eight Ace" />
+		<gridItem answer="Mr Logic" />
+		<gridItem answer="Tinribs" />
+		<gridItem answer="Black Bag" />
+		<modelAnswer>‘Viz’ comic characters</modelAnswer>
+		<list1>VIZ</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="River City" />
+		<gridItem answer="Landward" />
+		<gridItem answer="Burnistoun" />
+		<gridItem answer="Sportscene" />
+		<modelAnswer>BBC Scotland programmes</modelAnswer>
+		<list1>SCOTLAND,SCOTTISH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coast" />
+		<gridItem answer="Employment" />
+		<gridItem answer="Data" />
+		<gridItem answer="Consumer" />
+		<modelAnswer>____ Protection Act</modelAnswer>
+		<list1>LAW*,PROTECTION*,ACT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Graffiti" />
+		<gridItem answer="Opera" />
+		<gridItem answer="Agenda" />
+		<gridItem answer="Candelabra" />
+		<modelAnswer>Plurals often used as a singular noun</modelAnswer>
+		<list1>PLURAL*,SINGULAR,SINGLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

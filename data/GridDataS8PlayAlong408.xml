@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Three-pointer" />
+		<gridItem answer="Six" />
+		<gridItem answer="Hail Mary" />
+		<gridItem answer="Lob" />
+		<modelAnswer>High trajectories in ball sports</modelAnswer>
+		<list1>KICK*,THROW*,BALL*,TRAJECT*,HIGH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Denmark" />
+		<gridItem answer="Patron" />
+		<gridItem answer="Melrose" />
+		<gridItem answer="Garryowen" />
+		<modelAnswer>Two forenames combined</modelAnswer>
+		<list1>TWO,NAME*,FORENAME*,CHRISTIAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Collect" />
+		<gridItem answer="Angelus" />
+		<gridItem answer="Grace" />
+		<gridItem answer="Requiescat" />
+		<modelAnswer>Prayers</modelAnswer>
+		<list1>PRAYER*,SERVICE,RELIG*,CHURCH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sweetheart" />
+		<gridItem answer="Tintern" />
+		<gridItem answer="Battle" />
+		<gridItem answer="Glastonbury" />
+		<modelAnswer>British abbeys</modelAnswer>
+		<list1>ABBEY*</list1>
+		<list2></list2>
+	</answers>
+</data>

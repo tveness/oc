@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Shoes" />
+		<gridItem answer="Trousers" />
+		<gridItem answer="Compasses" />
+		<gridItem answer="Headphones" />
+		<modelAnswer>Things that come in pairs</modelAnswer>
+		<list1>PAIR*,TWO*,COUPLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="String" />
+		<gridItem answer="Kidney" />
+		<gridItem answer="Broad" />
+		<gridItem answer="Coffee" />
+		<modelAnswer>Types of bean</modelAnswer>
+		<list1>BEAN*,PULSE*,LEGUME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chaos" />
+		<gridItem answer="Wave" />
+		<gridItem answer="Domino" />
+		<gridItem answer="Game" />
+		<modelAnswer>____ theory</modelAnswer>
+		<list1>THEORY,THEORIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Onions" />
+		<gridItem answer="Sidebottom" />
+		<gridItem answer="Finn" />
+		<gridItem answer="Tredwell" />
+		<modelAnswer>England bowlers</modelAnswer>
+		<list1>BOWLER*,CRICKET*,ALLROUNDER*,BATSMEN</list1>
+		<list2></list2>
+	</answers>
+</data>

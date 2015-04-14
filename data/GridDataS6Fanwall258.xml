@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Lamb" />
+		<gridItem answer="Teg" />
+		<gridItem answer="Wether" />
+		<gridItem answer="Shearling" />
+		<modelAnswer>Terms for sheep</modelAnswer>
+		<list1>SHEEP,RAM,RAMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shearer" />
+		<gridItem answer="Alda" />
+		<gridItem answer="Whicker" />
+		<gridItem answer="Sugar" />
+		<modelAnswer>Famous Alans</modelAnswer>
+		<list1>ALAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hansen" />
+		<gridItem answer="Dublin" />
+		<gridItem answer="Savage" />
+		<gridItem answer="Dixon" />
+		<modelAnswer>Match of the Day pundits</modelAnswer>
+		<list1>MATCH,MOTD</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cork" />
+		<gridItem answer="Limerick" />
+		<gridItem answer="Waterford" />
+		<gridItem answer="Kilkenny" />
+		<modelAnswer>Irish cities</modelAnswer>
+		<list1>IRELAND,IRISH,EIRE,AIRLANN</list1>
+		<list2></list2>
+	</answers>
+</data>

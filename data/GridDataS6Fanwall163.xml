@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Jem" />
+		<gridItem answer="Mayella" />
+		<gridItem answer="Boo" />
+		<gridItem answer="Scout" />
+		<modelAnswer>Characters in 'To Kill a Mockingbird'</modelAnswer>
+		<list1>HARPER,LEE,MOCKING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cub" />
+		<gridItem answer="Brownie" />
+		<gridItem answer="Guide" />
+		<gridItem answer="Beaver" />
+		<modelAnswer>Members of the Scout movement</modelAnswer>
+		<list1>SCOUT*,BADEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Capybara" />
+		<gridItem answer="Porcupine" />
+		<gridItem answer="Gerbil" />
+		<gridItem answer="Mouse" />
+		<modelAnswer>Rodents</modelAnswer>
+		<list1>RODENT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rat" />
+		<gridItem answer="Traitor" />
+		<gridItem answer="Mole" />
+		<gridItem answer="Stool pigeon" />
+		<modelAnswer>Informants</modelAnswer>
+		<list1>INFORM*,BETRAY*,JUDAS*,TELL*,SNEAK*,SPY*,SYCOPHAN*,SNITCH*,CANARY*,GRASS*,SQUEAL*,INCRIMINAT*,BETRAY*,SOURCE*,BLABBER*,BACKSTAB*,TURNCOAT*,DOUBLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

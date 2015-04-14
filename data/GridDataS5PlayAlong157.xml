@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bax" />
+		<gridItem answer="Williamson" />
+		<gridItem answer="Bliss" />
+		<gridItem answer="Maxwell Davies" />
+		<modelAnswer>Masters of the Queen’s/King’s Music</modelAnswer>
+		<list1>MASTER*</list1>
+		<list2>MUSIC,MUSICK</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mizz" />
+		<gridItem answer="Jackie" />
+		<gridItem answer="Sugar" />
+		<gridItem answer="19" />
+		<modelAnswer>Teenage girl magazines</modelAnswer>
+		<list1>MAGAZINE*,PERIODIC*,PUBLIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Felix" />
+		<gridItem answer="Jaz" />
+		<gridItem answer="Ping" />
+		<gridItem answer="Elgar" />
+		<modelAnswer>‘Ed Reardon’s Week’ characters</modelAnswer>
+		<list1>REARDON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kill" />
+		<gridItem answer="Whoami" />
+		<gridItem answer="Cat" />
+		<gridItem answer="Echo" />
+		<modelAnswer>UNIX shell commands</modelAnswer>
+		<list1>UNIX,SHELL</list1>
+		<list2></list2>
+	</answers>
+</data>

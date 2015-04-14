@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Suzuki" />
+		<gridItem answer="Socratic" />
+		<gridItem answer="Montessori" />
+		<gridItem answer="Pimsleur" />
+		<modelAnswer>Educational methods</modelAnswer>
+		<list1>PEDAGOG*,METHOD*,TEACH*,EDUCAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tapestry" />
+		<gridItem answer="Bodkin" />
+		<gridItem answer="Sharp" />
+		<gridItem answer="Darning" />
+		<modelAnswer>Types of needle</modelAnswer>
+		<list1>NEEDLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Canon" />
+		<gridItem answer="Nintendo" />
+		<gridItem answer="Nomura" />
+		<gridItem answer="Bridgestone" />
+		<modelAnswer>Leading Japanese companies</modelAnswer>
+		<list1>JAPAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Twemlow" />
+		<gridItem answer="Wellbeloved" />
+		<gridItem answer="Beach" />
+		<gridItem answer="Voules" />
+		<modelAnswer>Domestic staff at Blandings (P.G. Wodehouse)</modelAnswer>
+		<list1>BLANDINGS,WODEHOUSE</list1>
+		<list2></list2>
+	</answers>
+</data>

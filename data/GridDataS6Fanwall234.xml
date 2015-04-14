@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Honey" />
+		<gridItem answer="Money" />
+		<gridItem answer="Five pound note" />
+		<gridItem answer="Guitar" />
+		<modelAnswer>\'The Owl and the Pussy-Cat\' items</modelAnswer>
+		<list1>LEAR*,OWL*,PUSSY*,BOAT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Turn" />
+		<gridItem answer="Gimme" />
+		<gridItem answer="Fun" />
+		<gridItem answer="Please" />
+		<modelAnswer>Names of song titles, when tripled</modelAnswer>
+		<list1>TRIPL*,THREE*,SONG*,POP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Time" />
+		<gridItem answer="Cons" />
+		<gridItem answer="No" />
+		<gridItem answer="Regret" />
+		<modelAnswer>____table</modelAnswer>
+		<list1>TABLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Page" />
+		<gridItem answer="Bedsheet" />
+		<gridItem answer="The clock" />
+		<gridItem answer="Cuff" />
+		<modelAnswer>Things you can turn back</modelAnswer>
+		<list1>TURN*</list1>
+		<list2></list2>
+	</answers>
+</data>

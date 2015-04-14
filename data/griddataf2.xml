@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Gibson" />
+		<gridItem answer="Manhattan" />
+		<gridItem answer="Margarita" />
+		<gridItem answer="Sidecar" />
+		<modelAnswer>Cocktails</modelAnswer>
+		<list1>COCKTAIL,DRINK,APERITIF,ALCOHOL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="B" />
+		<gridItem answer="Blanc" />
+		<gridItem answer="Brooks" />
+		<gridItem answer="Smith" />
+		<modelAnswer>Famous Mels</modelAnswer>
+		<list1>MEL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gimlet" />
+		<gridItem answer="Hammer" />
+		<gridItem answer="Screwdriver" />
+		<gridItem answer="Wrench" />
+		<modelAnswer>Household tools</modelAnswer>
+		<list1>TOOL,IMPLEMENT,APPARATUS,HARDWARE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Business" />
+		<gridItem answer="Nuts" />
+		<gridItem answer="Puzzle" />
+		<gridItem answer="Suit" />
+		<modelAnswer>Monkey ____</modelAnswer>
+		<list1>MONKEY</list1>
+		<list2></list2>
+	</answers>
+</data>

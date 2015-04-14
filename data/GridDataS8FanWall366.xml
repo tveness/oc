@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="North" />
+		<gridItem answer="Spike" />
+		<gridItem answer="Trust" />
+		<gridItem answer="My Aim is True" />
+		<modelAnswer>Elvis Costello albums</modelAnswer>
+		<list1>COSTELLO</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="South" />
+		<gridItem answer="Stock" />
+		<gridItem answer="Gos" />
+		<gridItem answer="Mary" />
+		<modelAnswer>Towns ending in ____port</modelAnswer>
+		<list1>TOWN*,PORT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="East" />
+		<gridItem answer="Management" />
+		<gridItem answer="English" />
+		<gridItem answer="Ages" />
+		<modelAnswer>Middle ____</modelAnswer>
+		<list1>MIDDLE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="West" />
+		<gridItem answer="Burton" />
+		<gridItem answer="Rice" />
+		<gridItem answer="Vine" />
+		<modelAnswer>Famous Tims/Timothys</modelAnswer>
+		<list1>TIM,TIMS,TIMOTH*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Trainspotting" />
+		<gridItem answer="Filth" />
+		<gridItem answer="Glue" />
+		<gridItem answer="Porno" />
+		<modelAnswer>Irvine Welsh novels</modelAnswer>
+		<list1>IRVINE,WELSH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cauliflower" />
+		<gridItem answer="Tin" />
+		<gridItem answer="Elephant's" />
+		<gridItem answer="Dog" />
+		<modelAnswer>____ ear</modelAnswer>
+		<list1>EAR,EARS,EARED</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kohlrabi" />
+		<gridItem answer="Kale" />
+		<gridItem answer="Rape" />
+		<gridItem answer="Broccoli" />
+		<modelAnswer>Vegetables of the Brassica family</modelAnswer>
+		<list1>MUSTARD*,BRASSICA*,CABBAGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sprouts" />
+		<gridItem answer="Dots and Boxes" />
+		<gridItem answer="Beetle" />
+		<gridItem answer="Battleships" />
+		<modelAnswer>Pencil and paper games</modelAnswer>
+		<list1>PEN,PENCIL,PAPER,GAME*,PLAYER,CHILDREN*</list1>
+		<list2></list2>
+	</answers>
+</data>

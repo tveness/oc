@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Budd" />
+		<gridItem answer="Liar" />
+		<gridItem answer="Elliot" />
+		<gridItem answer="Whizz" />
+		<modelAnswer>Fictional characters called Billy</modelAnswer>
+		<list1>BILLY,BILLIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cram" />
+		<gridItem answer="McColgan" />
+		<gridItem answer="Bannister" />
+		<gridItem answer="Holmes" />
+		<modelAnswer>British middle-distance runners</modelAnswer>
+		<list1>RUN*,MIDDLE,ATHLETE*,OLYMPIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ghetto" />
+		<gridItem answer="Exhaust" />
+		<gridItem answer="Rhythm" />
+		<gridItem answer="Whale" />
+		<modelAnswer>Contain a silent 'H'</modelAnswer>
+		<list1>SILENT*,PRONOUNC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Kid" />
+		<gridItem answer="The Gold Rush" />
+		<gridItem answer="Modern Times" />
+		<gridItem answer="City Lights" />
+		<modelAnswer>Charlie Chaplin films</modelAnswer>
+		<list1>CHAPLIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

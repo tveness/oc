@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Lambeth Walk" />
+		<gridItem answer="Kingsway" />
+		<gridItem answer="Strand" />
+		<gridItem answer="Poultry" />
+		<modelAnswer>London street names</modelAnswer>
+		<list1>LONDON*</list1>
+		<list2>STREET*,ROAD*,THORO*,MAP*,</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lucille" />
+		<gridItem answer="Micawber" />
+		<gridItem answer="Blackie" />
+		<gridItem answer="Old Black" />
+		<modelAnswer>Names of musicians’ guitars</modelAnswer>
+		<list1>GUITAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scrooge" />
+		<gridItem answer="Heep" />
+		<gridItem answer="Twist" />
+		<gridItem answer="Toodle" />
+		<modelAnswer>Dickens characters</modelAnswer>
+		<list1>DICKENS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Charleston" />
+		<gridItem answer="Moonwalk" />
+		<gridItem answer="Fandango" />
+		<gridItem answer="Castle Walk" />
+		<modelAnswer>Dances</modelAnswer>
+		<list1>DANCE*</list1>
+		<list2></list2>
+	</answers>
+</data>

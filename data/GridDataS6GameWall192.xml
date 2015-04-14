@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Gravity roll" />
+		<gridItem answer="Groove" />
+		<gridItem answer="Rimshot" />
+		<gridItem answer="Ride pattern" />
+		<modelAnswer>Strokes performed by a drummer</modelAnswer>
+		<list1>DRUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Backbeat" />
+		<gridItem answer="Notorious" />
+		<gridItem answer="Amadeus" />
+		<gridItem answer="Dreamgirls" />
+		<modelAnswer>Biopics about musicians</modelAnswer>
+		<list1>MUSIC*,ARTISTE*,SINGER*,PLAYER*</list1>
+		<list2>FILM*,BIOPIC*,BIOGRAPH*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ray" />
+		<gridItem answer="Chord" />
+		<gridItem answer="Tangent" />
+		<gridItem answer="Parallel" />
+		<modelAnswer>Mathematical lines</modelAnswer>
+		<list1>LINE*,SEGMENT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Radius" />
+		<gridItem answer="Carpal" />
+		<gridItem answer="Ulna" />
+		<gridItem answer="Humerus" />
+		<modelAnswer>Bones in the human arm</modelAnswer>
+		<list1>BONE*,ARM*,LIMB*</list1>
+		<list2></list2>
+	</answers>
+</data>

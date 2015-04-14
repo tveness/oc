@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Toad" />
+		<gridItem answer="Peach" />
+		<gridItem answer="Yoshi" />
+		<gridItem answer="Koopa" />
+		<modelAnswer>Nintendo computer game characters</modelAnswer>
+		<list1>NINTENDO*,MARIO*,MUSHROOM*,SUPERMARIO*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Saw" />
+		<gridItem answer="Link" />
+		<gridItem answer="Reaction" />
+		<gridItem answer="Smoker" />
+		<modelAnswer>Chain ____</modelAnswer>
+		<list1>CHAIN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scream" />
+		<gridItem answer="Halloween" />
+		<gridItem answer="Psycho" />
+		<gridItem answer="Alien" />
+		<modelAnswer>Horror movie series</modelAnswer>
+		<list1>HORROR,SUSPENSE,THRILLER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Munro" />
+		<gridItem answer="Yan" />
+		<gridItem answer="Lessing" />
+		<gridItem answer="Grass" />
+		<modelAnswer>Recent Nobel Prize for Literature winners</modelAnswer>
+		<list1>NOBEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

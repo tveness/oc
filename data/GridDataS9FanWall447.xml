@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Robin" />
+		<gridItem answer="Scimitar" />
+		<gridItem answer="TW9" />
+		<gridItem answer="Regal" />
+		<modelAnswer>Reliant vehicles</modelAnswer>
+		<list1>RELIANT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scarecrow" />
+		<gridItem answer="Penguin" />
+		<gridItem answer="Joker" />
+		<gridItem answer="Poison Ivy" />
+		<modelAnswer>Batman villains</modelAnswer>
+		<list1>BATMAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ladybird" />
+		<gridItem answer="Puffin" />
+		<gridItem answer="Bloomsbury" />
+		<gridItem answer="Osprey" />
+		<modelAnswer>Book publishers</modelAnswer>
+		<list1>PUBLISH*,BOOK*,MEDIA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Heron" />
+		<gridItem answer="Trellick" />
+		<gridItem answer="BT" />
+		<gridItem answer="Victoria" />
+		<modelAnswer>Towers in London</modelAnswer>
+		<list1>TOWER*</list1>
+		<list2></list2>
+	</answers>
+</data>

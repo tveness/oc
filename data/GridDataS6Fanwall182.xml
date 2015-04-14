@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Henry" />
+		<gridItem answer="Grafton" />
+		<gridItem answer="Nassau" />
+		<gridItem answer="O'Connell" />
+		<modelAnswer>Streets in Dublin</modelAnswer>
+		<list1>DUBLIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fire" />
+		<gridItem answer="Bullet" />
+		<gridItem answer="Bomb" />
+		<gridItem answer="Shatter" />
+		<modelAnswer>____proof</modelAnswer>
+		<list1>PROOF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kingston" />
+		<gridItem answer="Havana" />
+		<gridItem answer="The Valley" />
+		<gridItem answer="St. John's" />
+		<modelAnswer>Caribbean capitals</modelAnswer>
+		<list1>CARIBBEAN*,WEST INDI*,ATLANT*,ISLAND*</list1>
+		<list2>CAPITAL*,TOWN*,CITY,CITIES</list2>
+	</answers>
+	<answers>
+		<gridItem answer="King Edward" />
+		<gridItem answer="Cheroot" />
+		<gridItem answer="Stogie" />
+		<gridItem answer="Montecristo" />
+		<modelAnswer>Cigars</modelAnswer>
+		<list1>CIGAR*,TOBACCO*,SMOK*</list1>
+		<list2></list2>
+	</answers>
+</data>

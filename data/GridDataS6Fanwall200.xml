@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="R=0" />
+		<gridItem answer="H=2" />
+		<gridItem answer="O=Infinity" />
+		<gridItem answer="D=1" />
+		<modelAnswer>Lines of symmetry in the letter's shape</modelAnswer>
+		<list1>SYMM*,AXIS,AXES,REFLECT*,MIRROR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="D=4" />
+		<gridItem answer="B=2" />
+		<gridItem answer="X=24" />
+		<gridItem answer="E=5" />
+		<modelAnswer>Position in the alphabet (A=1, B=2...)</modelAnswer>
+		<list1>POSITION,ALPHAB*,ABC,PLACE*,SITUATION,A=1,LIST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="X=8" />
+		<gridItem answer="K=5" />
+		<gridItem answer="A=1" />
+		<gridItem answer="M=3" />
+		<modelAnswer>Value of the letter in Scrabble</modelAnswer>
+		<list1>SCRABBLE*,TILE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="I=1" />
+		<gridItem answer="X=10" />
+		<gridItem answer="V=5" />
+		<gridItem answer="L=50" />
+		<modelAnswer>Value in Roman numerals</modelAnswer>
+		<list1>ROMAN*</list1>
+		<list2></list2>
+	</answers>
+</data>

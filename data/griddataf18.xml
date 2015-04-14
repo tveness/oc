@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="White" />
+		<gridItem answer="Mustard" />
+		<gridItem answer="Plum" />
+		<gridItem answer="Peacock" />
+		<modelAnswer>Playing pieces in ‘Cluedo’</modelAnswer>
+		<list1>CLUE,CLUEDO</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Green" />
+		<gridItem answer="Bing" />
+		<gridItem answer="Geller" />
+		<gridItem answer="Tribbiani" />
+		<modelAnswer>Surnames of ‘Friends’ characters</modelAnswer>
+		<list1>FRIENDS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fields" />
+		<gridItem answer="Hay" />
+		<gridItem answer="Wall" />
+		<gridItem answer="Hope" />
+		<modelAnswer>Early 20th C. comedians </modelAnswer>
+		<list1>COMIC,COMEDIAN,COMEDY,ACTOR,CLOWN,ENTERTAIN,HUMOUR,JESTER,JOKER,PERFORMER,PLAYER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jacklin" />
+		<gridItem answer="Norman" />
+		<gridItem answer="Langer" />
+		<gridItem answer="Strange" />
+		<modelAnswer>Golfers</modelAnswer>
+		<list1>GOLF,GOLFERS</list1>
+		<list2></list2>
+	</answers>
+</data>

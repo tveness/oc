@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Dry" />
+		<gridItem answer="Elf" />
+		<gridItem answer="Sex" />
+		<gridItem answer="Fear" />
+		<modelAnswer>Homophones of German numbers</modelAnswer>
+		<list1>GERMAN*</list1>
+		<list2>NUMBER*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wrath" />
+		<gridItem answer="Horn" />
+		<gridItem answer="York" />
+		<gridItem answer="Cod" />
+		<modelAnswer>Cape ____</modelAnswer>
+		<list1>CAPE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gluttony" />
+		<gridItem answer="Greed" />
+		<gridItem answer="Lust" />
+		<gridItem answer="Pride" />
+		<modelAnswer>Deadly sins</modelAnswer>
+		<list1>SIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="It's a Sin" />
+		<gridItem answer="Go West" />
+		<gridItem answer="Suburbia" />
+		<gridItem answer="Jealousy" />
+		<modelAnswer>Pet Shop Boys singles</modelAnswer>
+		<list1>PET</list1>
+		<list2>SHOP</list2>
+	</answers>
+</data>

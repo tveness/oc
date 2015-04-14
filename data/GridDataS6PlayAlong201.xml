@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Narrative" />
+		<gridItem answer="Free" />
+		<gridItem answer="Nonsense" />
+		<gridItem answer="Blank" />
+		<modelAnswer>Types of verse</modelAnswer>
+		<list1>VERSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rot" />
+		<gridItem answer="Cobblers" />
+		<gridItem answer="Bunk" />
+		<gridItem answer="Bilge" />
+		<modelAnswer>Mean ‘rubbish’</modelAnswer>
+		<list1>RUBBISH,DRIVEL,TWADDLE,GIBBER*,NONSENSE*,CLAPTRAP,POPPYCOCK,BUNK*,TRIPE*,TOSH,BALONEY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chitterlings" />
+		<gridItem answer="Brawn" />
+		<gridItem answer="Tripe" />
+		<gridItem answer="Lights" />
+		<modelAnswer>Offal</modelAnswer>
+		<list1>OFFAL*,INTESTINE*,VISCERA,BOWELS,ORGANS,GIBLET*,UMBLE*,ENTRAIL*,GUT*,INSIDE*,VITAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Liver" />
+		<gridItem answer="Welsh" />
+		<gridItem answer="Black" />
+		<gridItem answer="Ponty" />
+		<modelAnswer>British places called ____pool</modelAnswer>
+		<list1>POOL*</list1>
+		<list2></list2>
+	</answers>
+</data>

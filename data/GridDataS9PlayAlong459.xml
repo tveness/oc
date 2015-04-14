@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Bosch"/>
+		<gridItem answer="Brill"/>
+		<gridItem answer="Flymo"/>
+		<gridItem answer="Hayter"/>
+		<modelAnswer>Lawnmowers</modelAnswer>
+		<list1>LAWN*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Cuyp"/>
+		<gridItem answer="Hals"/>
+		<gridItem answer="Steen"/>
+		<gridItem answer="Vermeer"/>
+		<modelAnswer>17th-century Dutch painters</modelAnswer>
+		<list1>PAINT*,ARTIST*</list1>
+		<list2>DUTCH*,HOLLAND*,NETHERLANDS*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Anchor"/>
+		<gridItem answer="Circle"/>
+		<gridItem answer="Horseshoe"/>
+		<gridItem answer="Van Dyke"/>
+		<modelAnswer>Types of beard</modelAnswer>
+		<list1>BEARD*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Number seven"/>
+		<gridItem answer="Jade"/>
+		<gridItem answer="Rainbow"/>
+		<gridItem answer="Wishbone"/>
+		<modelAnswer>Symbols of luck</modelAnswer>
+		<list1>LUCK*</list1>
+		<list2></list2>
+	</answers></data>

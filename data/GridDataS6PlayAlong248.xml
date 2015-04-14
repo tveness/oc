@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Douglas" />
+		<gridItem answer="Castletown" />
+		<gridItem answer="Ramsey" />
+		<gridItem answer="Peel" />
+		<modelAnswer>Towns on the Isle of Man</modelAnswer>
+		<list1>MAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Connor" />
+		<gridItem answer="James" />
+		<gridItem answer="Dale" />
+		<gridItem answer="Jacques" />
+		<modelAnswer>‘Carry On’ actors</modelAnswer>
+		<list1>CARRY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stanhope" />
+		<gridItem answer="Gig" />
+		<gridItem answer="Hansom" />
+		<gridItem answer="Surrey" />
+		<modelAnswer>Horse-drawn carriages</modelAnswer>
+		<list1>HORSE*,CARRIAGE*,COACH*,WAGON,CAB*,STAGECOACH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pratt" />
+		<gridItem answer="Windsor" />
+		<gridItem answer="Oriental" />
+		<gridItem answer="Four-in-hand" />
+		<modelAnswer>Necktie knots</modelAnswer>
+		<list1>NECKTIE*,TIE*,KNOT*,CRAVAT*</list1>
+		<list2></list2>
+	</answers>
+</data>

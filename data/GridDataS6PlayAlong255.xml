@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Grub" />
+		<gridItem answer="Civvy" />
+		<gridItem answer="Easy" />
+		<gridItem answer="Queer" />
+		<modelAnswer>Metaphorical streets</modelAnswer>
+		<list1>STREET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Macra" />
+		<gridItem answer="The Silence" />
+		<gridItem answer="Ood" />
+		<gridItem answer="Weeping Angels" />
+		<modelAnswer>Doctor Who adversaries</modelAnswer>
+		<list1>WHO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Smiler" />
+		<gridItem answer="Pethead" />
+		<gridItem answer="Little Monster" />
+		<gridItem answer="Maggot" />
+		<modelAnswer>Music fans</modelAnswer>
+		<list1>POP,MUSIC,FAN*,FOLLOW*,GROUP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nymph" />
+		<gridItem answer="Caterpillar" />
+		<gridItem answer="Wriggler" />
+		<gridItem answer="Tadpole" />
+		<modelAnswer>Larvae</modelAnswer>
+		<list1>LARVA*,METAMORPH*,INVERTIBRA*</list1>
+		<list2></list2>
+	</answers>
+</data>

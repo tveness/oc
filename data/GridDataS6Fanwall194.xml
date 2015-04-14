@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Forty" />
+		<gridItem answer="Bijoux" />
+		<gridItem answer="Chimps" />
+		<gridItem answer="Ghost" />
+		<modelAnswer>Letters are in alphabetical order</modelAnswer>
+		<list1>ORDER*,ALPHABET*,SEQUEN*,SERIAL,SERIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gorillas" />
+		<gridItem answer="Orangutans" />
+		<gridItem answer="Macaques" />
+		<gridItem answer="Capuchins" />
+		<modelAnswer>Primates (monkeys and apes)</modelAnswer>
+		<list1>PRIMATE*,APE*,MONKEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gibbons" />
+		<gridItem answer="Bull" />
+		<gridItem answer="Byrd" />
+		<gridItem answer="Morley" />
+		<modelAnswer>Composers born in the Tudor period</modelAnswer>
+		<list1>TUDOR,COMPOS*,MUSIC*,ARRANGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tallis" />
+		<gridItem answer="Pashmina" />
+		<gridItem answer="Afghan" />
+		<gridItem answer="Stole" />
+		<modelAnswer>Types of shawl or wrap</modelAnswer>
+		<list1>SHAWL*,CLOAK*,WRAP*,BLANKET*</list1>
+		<list2></list2>
+	</answers>
+</data>

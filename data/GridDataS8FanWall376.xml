@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Partridge" />
+		<gridItem answer="Moulding" />
+		<gridItem answer="Chambers" />
+		<gridItem answer="Andrews" />
+		<modelAnswer>Founding members of XTC</modelAnswer>
+		<list1>XTC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Forming" />
+		<gridItem answer="Casting" />
+		<gridItem answer="Machining" />
+		<gridItem answer="Joining" />
+		<modelAnswer>Types of manufacturing processes</modelAnswer>
+		<list1>MANUFAC*,MAKE,MAKING,CONSTRUCT*,FABRIC*,MASS*,PRODUCT*,ASSEMBL*,PROCESS*,CREAT*,FORMAT*,FASHION*,MODEL*,FORM*,METAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="First Assistant" />
+		<gridItem answer="Managing" />
+		<gridItem answer="Funeral" />
+		<gridItem answer="Creative" />
+		<modelAnswer>Types of director</modelAnswer>
+		<list1>DIRECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Turing" />
+		<gridItem answer="von Neumann" />
+		<gridItem answer="Boole" />
+		<gridItem answer="Moore" />
+		<modelAnswer>Scientists connected with computing</modelAnswer>
+		<list1>COMPUT*,INFORMAT*,LOGIC*,INTEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

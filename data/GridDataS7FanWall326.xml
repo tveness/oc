@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brooks" />
+		<gridItem answer="Mulgrew" />
+		<gridItem answer="Bakula" />
+		<gridItem answer="Pine" />
+		<modelAnswer>Played captains in 'Star Trek'</modelAnswer>
+		<list1>TREK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Oak" />
+		<gridItem answer="Glass" />
+		<gridItem answer="Stone" />
+		<gridItem answer="Dixie" />
+		<modelAnswer>Heart of ____</modelAnswer>
+		<list1>HEART*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bubbles" />
+		<gridItem answer="Mind" />
+		<gridItem answer="Pipe" />
+		<gridItem answer="Football" />
+		<modelAnswer>Things that can be blown</modelAnswer>
+		<list1>BLOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Canals" />
+		<gridItem answer="Pyramids" />
+		<gridItem answer="Little Green Men" />
+		<gridItem answer="Face" />
+		<modelAnswer>Mythical things said to be on Mars</modelAnswer>
+		<list1>MARS,MARTIAN</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brickyard" />
+		<gridItem answer="Gabba" />
+		<gridItem answer="Bird's Nest" />
+		<gridItem answer="Cabbage Patch" />
+		<modelAnswer>Sports venues</modelAnswer>
+		<list1>SPORT*,VENUE*,STADIUM*,STADIA,PITCH*,LOCATION*,PLACE*,GROUND*,SETTING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barbie" />
+		<gridItem answer="Strides" />
+		<gridItem answer="Digger" />
+		<gridItem answer="Crook" />
+		<modelAnswer>Australian slang</modelAnswer>
+		<list1>STRINE,AUSTRALIA*,AUSSIE,AUZZIE,OZ,NZ,NEW ZEALAND</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Viking" />
+		<gridItem answer="Magic" />
+		<gridItem answer="Galaxy" />
+		<gridItem answer="Heart" />
+		<modelAnswer>Independent radio stations</modelAnswer>
+		<list1>RADIO,WIRELESS,ILR,FM,STATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Russian" />
+		<gridItem answer="Potato" />
+		<gridItem answer="Greek" />
+		<gridItem answer="Caesar" />
+		<modelAnswer>Salads</modelAnswer>
+		<list1>SALAD,SALADS</list1>
+		<list2></list2>
+	</answers>
+</data>

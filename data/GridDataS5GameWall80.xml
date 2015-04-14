@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Herb" />
+		<gridItem answer="Carn" />
+		<gridItem answer="Insect" />
+		<gridItem answer="Omn" />
+		<modelAnswer>____ivore (animal diets)</modelAnswer>
+		<list1>IVORE*,VORE*,ANIMAL*,EAT*,FOOD</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rose" />
+		<gridItem answer="Berta" />
+		<gridItem answer="Charlie" />
+		<gridItem answer="Evelyn" />
+		<modelAnswer>Characters in ‘Two And a Half Men’</modelAnswer>
+		<list1>TWO,HALF,MEN,SHEEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spoke" />
+		<gridItem answer="Bound" />
+		<gridItem answer="Felt" />
+		<gridItem answer="Lent" />
+		<modelAnswer>Irregular past tense verbs</modelAnswer>
+		<list1>IRREGULAR,PAST,TENSE,VERB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Taffeta" />
+		<gridItem answer="Calico" />
+		<gridItem answer="Organza" />
+		<gridItem answer="Chiffon" />
+		<modelAnswer>Fabrics used in fashion</modelAnswer>
+		<list1>FASHION*,FABRIC*,MATERIAL*,CLOTH*,TEXTILE*,</list1>
+		<list2></list2>
+	</answers>
+</data>

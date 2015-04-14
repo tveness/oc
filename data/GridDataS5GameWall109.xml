@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Gaffer" />
+		<gridItem answer="Big cheese" />
+		<gridItem answer="Ganger" />
+		<gridItem answer="Honcho" />
+		<modelAnswer>Bosses</modelAnswer>
+		<list1>EMPLOYEE*,CAPTAIN*,HEAD*,CHIEF*,LEADER*,SUPREMO*,MANAGER*,SUPERIOR*,FOREMAN*,OVERSEE*,GOVERN*,SUPERVIS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Focus puller" />
+		<gridItem answer="Best boy" />
+		<gridItem answer="Foley artist" />
+		<gridItem answer="Compositor" />
+		<modelAnswer>Jobs on a film production</modelAnswer>
+		<list1>FILM*,MOVIE*,CREW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Moss" />
+		<gridItem answer="Roy" />
+		<gridItem answer="Jen" />
+		<gridItem answer="Denholm" />
+		<modelAnswer>Characters in ‘The IT Crowd’</modelAnswer>
+		<list1>CROWD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Box" />
+		<gridItem answer="Rice" />
+		<gridItem answer="Garter" />
+		<gridItem answer="Seed" />
+		<modelAnswer>Knitting stitches</modelAnswer>
+		<list1>KNIT*,STITCH*,SEW*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rand" />
+		<gridItem answer="Dawkins" />
+		<gridItem answer="Russell" />
+		<gridItem answer="Hitchens" />
+		<modelAnswer>Famous atheists</modelAnswer>
+		<list1>ATHEIS*,BELIEV*,GOD*,UNBELIEV*,NONBELIEV*,NON-BELIEV*,HUMANIS*,RATIONAL*,DISBELIEV*,SCEPTIC,PAGAN*,FREE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bull's-eye" />
+		<gridItem answer="Bumble" />
+		<gridItem answer="Claypole" />
+		<gridItem answer="Sikes" />
+		<modelAnswer>Characters in ‘Oliver Twist’</modelAnswer>
+		<list1>OLIVER,TWIST</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cat's-eye" />
+		<gridItem answer="Alley" />
+		<gridItem answer="China" />
+		<gridItem answer="Taw" />
+		<modelAnswer>Gaming marbles</modelAnswer>
+		<list1>MARBLE*,BALL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Franc" />
+		<gridItem answer="Kwanza" />
+		<gridItem answer="Metical" />
+		<gridItem answer="Dirham" />
+		<modelAnswer>African currencies</modelAnswer>
+		<list1>CURRENC*,MONEY*,COIN*,DENOMIN*,NOTE*,CASH*</list1>
+		<list2></list2>
+	</answers>
+</data>

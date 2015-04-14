@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Tranquility" />
+		<gridItem answer="Crisis" />
+		<gridItem answer="Cleverness" />
+		<gridItem answer="Nectar" />
+		<modelAnswer>Seas on the Moon</modelAnswer>
+		<list1>SEA*,MOON,MARE*,MARIA,LUNAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Career" />
+		<gridItem answer="Bereavement" />
+		<gridItem answer="Relationship" />
+		<gridItem answer="Academic" />
+		<modelAnswer>Types of counselling</modelAnswer>
+		<list1>COUNSEL*,ADVICE,GUID*,COACH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ovary" />
+		<gridItem answer="Pistil" />
+		<gridItem answer="Stigma" />
+		<gridItem answer="Filament" />
+		<modelAnswer>Parts of a flower</modelAnswer>
+		<list1>FLOWER*,BLOOM*,BLOSSOM*,REPRODUCT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Anger" />
+		<gridItem answer="Depression" />
+		<gridItem answer="Denial" />
+		<gridItem answer="Acceptance" />
+		<modelAnswer>Stages of grief</modelAnswer>
+		<list1>GRIEF,GRIEV*,KUBLER*,ROSS</list1>
+		<list2></list2>
+	</answers>
+</data>

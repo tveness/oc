@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="National Express"/>
+		<gridItem answer="The Summerhouse"/>
+		<gridItem answer="Commuter Love"/>
+		<gridItem answer="Sweden"/>
+		<modelAnswer>The Divine Comedy songs</modelAnswer>
+		<list1>DIVINE*,HANNON*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Megabus"/>
+		<gridItem answer="Greyhound"/>
+		<gridItem answer="First"/>
+		<gridItem answer="Arriva"/>
+		<modelAnswer>Bus companies</modelAnswer>
+		<list1>BUS*,COACH*,TRANSPORT*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Labrador"/>
+		<gridItem answer="Pointer"/>
+		<gridItem answer="Pomeranian"/>
+		<gridItem answer="Newfoundland"/>
+		<modelAnswer>Dog breeds</modelAnswer>
+		<list1>DOG*, CANINE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Alberta"/>
+		<gridItem answer="Ontario"/>
+		<gridItem answer="Saskatchewan"/>
+		<gridItem answer="Manitoba"/>
+		<modelAnswer>Canadian provinces</modelAnswer>
+		<list1>CANAD*</list1>
+		<list2></list2>
+	</answers></data>

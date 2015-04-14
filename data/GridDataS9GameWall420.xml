@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Tyrone"/>
+		<gridItem answer="Fiz"/>
+		<gridItem answer="Norris"/>
+		<gridItem answer="Dev"/>
+		<modelAnswer>Coronation Street characters</modelAnswer>
+		<list1>CORONATION*,CORRIE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Izzy"/>
+		<gridItem answer="Wenlock"/>
+		<gridItem answer="Misha"/>
+		<gridItem answer="Cobi"/>
+		<modelAnswer>Olympic mascots</modelAnswer>
+		<list1>MASCOT*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Down"/>
+		<gridItem answer="Antrim"/>
+		<gridItem answer="Armagh"/>
+		<gridItem answer="Fermanagh"/>
+		<modelAnswer>Counties of Northern Ireland</modelAnswer>
+		<list1>IRELAND,NI,NORTHERN</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Kerry"/>
+		<gridItem answer="Rice"/>
+		<gridItem answer="Rusk"/>
+		<gridItem answer="Christopher"/>
+		<modelAnswer>US Secretaries of State</modelAnswer>
+		<list1>SECRETAR*</list1>
+		<list2>STATE</list2>
+	</answers></data>

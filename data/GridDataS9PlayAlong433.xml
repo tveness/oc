@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Victoria"/>
+		<gridItem answer="Asparagus"/>
+		<gridItem answer="Jemima"/>
+		<gridItem answer="Macavity"/>
+		<modelAnswer>Characters from ‘Cats’</modelAnswer>
+		<list1>CAT*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Hamble"/>
+		<gridItem answer="Looby Loo"/>
+		<gridItem answer="Raggedy Ann"/>
+		<gridItem answer="Madeleine"/>
+		<modelAnswer>Dolls</modelAnswer>
+		<list1>DOLL*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Beignet"/>
+		<gridItem answer="Berliner"/>
+		<gridItem answer="Churro"/>
+		<gridItem answer="Yum yum"/>
+		<modelAnswer>Fried dough</modelAnswer>
+		<list1>DOUGH*,FRIED*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="PG"/>
+		<gridItem answer="Q"/>
+		<gridItem answer="Wing"/>
+		<gridItem answer="Felt"/>
+		<modelAnswer>____ tips</modelAnswer>
+		<list1>TIP*</list1>
+		<list2></list2>
+	</answers></data>

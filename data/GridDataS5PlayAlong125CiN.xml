@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="St Clements" />
+		<gridItem answer="Virgin Mary" />
+		<gridItem answer="Prairie Oyster" />
+		<gridItem answer="Shirley Temple" />
+		<modelAnswer>Non-alcoholic cocktails</modelAnswer>
+		<list1>COCKTAIL*,DRINK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bell" />
+		<gridItem answer="Learning" />
+		<gridItem answer="Bathtub" />
+		<gridItem answer="Demand" />
+		<modelAnswer>Types of curve</modelAnswer>
+		<list1>CURVE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lemon" />
+		<gridItem answer="Coren" />
+		<gridItem answer="Muggeridge" />
+		<gridItem answer="Bird" />
+		<modelAnswer>Editors of ‘Punch’</modelAnswer>
+		<list1>EDITOR*,PUNCH,SATIR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Orange" />
+		<gridItem answer="Turtle" />
+		<gridItem answer="The Week" />
+		<gridItem answer="Trial" />
+		<modelAnswer>Mock ____</modelAnswer>
+		<list1>MOCK</list1>
+		<list2></list2>
+	</answers>
+</data>

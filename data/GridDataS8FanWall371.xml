@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Proud" />
+		<gridItem answer="Bloody" />
+		<gridItem answer="Virgin" />
+		<gridItem answer="Hail" />
+		<modelAnswer>____ Mary</modelAnswer>
+		<list1>MARY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snow" />
+		<gridItem answer="Everdeen" />
+		<gridItem answer="Mellark" />
+		<gridItem answer="Crane" />
+		<modelAnswer>'The Hunger Games' characters</modelAnswer>
+		<list1>HUNGER,COLLINS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cormorant" />
+		<gridItem answer="Egret" />
+		<gridItem answer="Heron" />
+		<gridItem answer="Jacana" />
+		<modelAnswer>Water birds</modelAnswer>
+		<list1>WATER*,BIRD*,FOWL*,AQUA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Duck" />
+		<gridItem answer="Rain" />
+		<gridItem answer="Face" />
+		<gridItem answer="Paint" />
+		<modelAnswer>Both a noun and a verb</modelAnswer>
+		<list1>NOUN*,VERB*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rocky Mountains" />
+		<gridItem answer="American Airlines" />
+		<gridItem answer="Bullets" />
+		<gridItem answer="Needles" />
+		<modelAnswer>Names for a pair of Aces in poker</modelAnswer>
+		<list1>ACE*,POKER*,POCKET*,HOLE*,PAIR*,PREFLOP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Heat" />
+		<gridItem answer="The Merchant of Venice" />
+		<gridItem answer="Insomnia" />
+		<gridItem answer="The Godfather" />
+		<modelAnswer>Al Pacino films</modelAnswer>
+		<list1>PACINO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rockets" />
+		<gridItem answer="Jazz" />
+		<gridItem answer="Bobcats" />
+		<gridItem answer="Nuggets" />
+		<modelAnswer>NBA basketball teams</modelAnswer>
+		<list1>NBA*,BASKETBALL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coppers" />
+		<gridItem answer="Blues" />
+		<gridItem answer="Rozzers" />
+		<gridItem answer="Fuzz" />
+		<modelAnswer>Slang terms for the police</modelAnswer>
+		<list1>POLICE*,LAW*,BOBB*,BILL</list1>
+		<list2></list2>
+	</answers>
+</data>

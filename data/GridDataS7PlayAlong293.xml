@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Holt" />
+		<gridItem answer="Drey" />
+		<gridItem answer="Form" />
+		<gridItem answer="Den" />
+		<modelAnswer>Animal homes</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,MAMMAL*,BEAST*,NEST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Last Post" />
+		<gridItem answer="Taps" />
+		<gridItem answer="Boots and Saddles" />
+		<gridItem answer="Reveille" />
+		<modelAnswer>Bugle calls</modelAnswer>
+		<list1>BUGLE*,MILITARY*,ARMY*,TRUMPET*,DRUM,CALL*,SIGNAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Miles" />
+		<gridItem answer="Warren" />
+		<gridItem answer="Egg" />
+		<gridItem answer="Ferdy" />
+		<modelAnswer>‘This Life’ characters</modelAnswer>
+		<list1>LIFE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clock" />
+		<gridItem answer="Retreat" />
+		<gridItem answer="System" />
+		<gridItem answer="Traffic" />
+		<modelAnswer>Beat the ____</modelAnswer>
+		<list1>BEAT*</list1>
+		<list2></list2>
+	</answers>
+</data>

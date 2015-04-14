@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bullet" />
+		<gridItem answer="Cowboy" />
+		<gridItem answer="Deuce" />
+		<gridItem answer="Crab" />
+		<modelAnswer>Nicknames for playing cards</modelAnswer>
+		<list1>CARD,POKER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Love" />
+		<gridItem answer="Scratch" />
+		<gridItem answer="Zip" />
+		<gridItem answer="Duck" />
+		<modelAnswer>Terms for ‘zero’</modelAnswer>
+		<list1>ZERO,NOUGHT,NIL,NOTHING,CIPHER,NAUGHT,ZILCH,NULL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ace" />
+		<gridItem answer="Fox" />
+		<gridItem answer="Fish" />
+		<gridItem answer="Buttress" />
+		<modelAnswer>Flying ____</modelAnswer>
+		<list1>FLYING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sparrow" />
+		<gridItem answer="Hook" />
+		<gridItem answer="Haddock" />
+		<gridItem answer="Ahab" />
+		<modelAnswer>Fictional captains</modelAnswer>
+		<list1>CAPTAIN</list1>
+		<list2></list2>
+	</answers>
+</data>

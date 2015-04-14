@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Elastic band" />
+		<gridItem answer="Puck" />
+		<gridItem answer="Squash ball" />
+		<gridItem answer="Condom" />
+		<modelAnswer>Made from rubber</modelAnswer>
+		<list1>RUBBER,LATEX</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Screw" />
+		<gridItem answer="Grass" />
+		<gridItem answer="Snout" />
+		<gridItem answer="Lag" />
+		<modelAnswer>Prison slang</modelAnswer>
+		<list1>PRISON,JAIL,GAOL,INMATE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Santa" />
+		<gridItem answer="Satan" />
+		<gridItem answer="Bottom" />
+		<gridItem answer="Dr Riviera" />
+		<modelAnswer>Called ‘Nick’</modelAnswer>
+		<list1>NICK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Up" />
+		<gridItem answer="Down" />
+		<gridItem answer="Charm" />
+		<gridItem answer="Strange" />
+		<modelAnswer>Quarks (sub-atomic particles)</modelAnswer>
+		<list1>QUARK,ATOM,PARTICLE</list1>
+		<list2></list2>
+	</answers>
+</data>

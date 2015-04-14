@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Aardvark"/>
+		<gridItem answer="Snowden"/>
+		<gridItem answer="Minderbinder"/>
+		<gridItem answer="Yossarian"/>
+		<modelAnswer>‘Catch-22’ characters</modelAnswer>
+		<list1>CATCH*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Apartheid"/>
+		<gridItem answer="Trek"/>
+		<gridItem answer="Springbok"/>
+		<gridItem answer="Meerkat"/>
+		<modelAnswer>Afrikaans loanwords</modelAnswer>
+		<list1>AFRIKAAN*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Jaguar"/>
+		<gridItem answer="Wallaby"/>
+		<gridItem answer="Three feathers"/>
+		<gridItem answer="Silver fern"/>
+		<modelAnswer>Rugby emblems</modelAnswer>
+		<list1>RUGBY</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Lichfield"/>
+		<gridItem answer="Bailey"/>
+		<gridItem answer="Rankin"/>
+		<gridItem answer="Spender"/>
+		<modelAnswer>British photographers</modelAnswer>
+		<list1>PHOTO*</list1>
+		<list2></list2>
+	</answers></data>

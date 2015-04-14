@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Russia" />
+		<gridItem answer="Licence" />
+		<gridItem answer="Daylights" />
+		<gridItem answer="Quantum" />
+		<modelAnswer>Words that appear in Bond film titles</modelAnswer>
+		<list1>BOND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Casino" />
+		<gridItem answer="La Rascasse" />
+		<gridItem answer="Tunnel" />
+		<gridItem answer="Chicane" />
+		<modelAnswer>Corners on the Monte Carlo F1 circuit</modelAnswer>
+		<list1>MONTE*,CORNER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Limits" />
+		<gridItem answer="The wall" />
+		<gridItem answer="Guard" />
+		<gridItem answer="Peak" />
+		<modelAnswer>Off ____</modelAnswer>
+		<list1>OFF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="P/E" />
+		<gridItem answer="Golden" />
+		<gridItem answer="Aspect" />
+		<gridItem answer="Gear" />
+		<modelAnswer>Ratios</modelAnswer>
+		<list1>RATIO*,FRACTION*,PROPORTION*</list1>
+		<list2></list2>
+	</answers>
+</data>

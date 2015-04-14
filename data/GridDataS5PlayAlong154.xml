@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blue" />
+		<gridItem answer="A1" />
+		<gridItem answer="911" />
+		<gridItem answer="East 17" />
+		<modelAnswer>Boy bands</modelAnswer>
+		<list1>BAND*,GROUP*,POP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Love Bug" />
+		<gridItem answer="Code Red" />
+		<gridItem answer="Melissa" />
+		<gridItem answer="Anna Kournikova" />
+		<modelAnswer>Computer viruses</modelAnswer>
+		<list1>VIRUS*,MALWARE*,TROJAN*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="NC" />
+		<gridItem answer="Channel 16" />
+		<gridItem answer="Orange smoke" />
+		<gridItem answer="112" />
+		<modelAnswer>Emergency signal methods</modelAnswer>
+		<list1>EMERGENC*,SIGNAL*,CRISIS,DISASTER*,DISTRESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Suicide" />
+		<gridItem answer="Flare" />
+		<gridItem answer="1990" />
+		<gridItem answer="Windmill" />
+		<modelAnswer>Acrobatic dance moves</modelAnswer>
+		<list1>DANC*,ACROBAT*,HIP,HIPHOP,BREAK,BREAKDAN*,B-BOY,BBOY</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ping" />
+		<gridItem answer="Callaway" />
+		<gridItem answer="Srixon" />
+		<gridItem answer="John Letters" />
+		<modelAnswer>Makers of golf equipment</modelAnswer>
+		<list1>GOLF*,CLUB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Port" />
+		<gridItem answer="Firewall" />
+		<gridItem answer="Lag" />
+		<gridItem answer="Proxy" />
+		<modelAnswer>Terms used in computer networking</modelAnswer>
+		<list1>NETWORK*,INTERNET*,COMMUNIC*,COMPUT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sherry" />
+		<gridItem answer="Marsala" />
+		<gridItem answer="Madeira" />
+		<gridItem answer="Vermouth" />
+		<modelAnswer>Fortified wines</modelAnswer>
+		<list1>WINE*,ALCOHOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Faro" />
+		<gridItem answer="Porto" />
+		<gridItem answer="Vila Real" />
+		<gridItem answer="Coimbra" />
+		<modelAnswer>Districts/Cities of Portugal</modelAnswer>
+		<list1>PORTUG*</list1>
+		<list2></list2>
+	</answers>
+</data>

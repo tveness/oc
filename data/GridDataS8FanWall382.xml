@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Palatine" />
+		<gridItem answer="Viminal" />
+		<gridItem answer="Capitoline" />
+		<gridItem answer="Caelian" />
+		<modelAnswer>Seven Hills of Rome</modelAnswer>
+		<list1>HILL*,ROME,ROMAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Quirinal" />
+		<gridItem answer="Élysée" />
+		<gridItem answer="Bellevue" />
+		<gridItem answer="Alvorada" />
+		<modelAnswer>Presidential palaces in foreign countries</modelAnswer>
+		<list1>PRESIDE*,OFFICIAL*,RESIDEN*,PALACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Styx" />
+		<gridItem answer="Lethe" />
+		<gridItem answer="Tartarus" />
+		<gridItem answer="Erebus" />
+		<modelAnswer>Geographical features of Hades</modelAnswer>
+		<list1>HADES,HELL*,UNDERWORLD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bellona" />
+		<gridItem answer="Surprise" />
+		<gridItem answer="Sophie" />
+		<gridItem answer="Boadicea" />
+		<modelAnswer>Ships in Patrick O'Brian novels</modelAnswer>
+		<list1>O'BRIAN*,BRIAN*,OBRIAN*</list1>
+		<list2></list2>
+	</answers>
+</data>

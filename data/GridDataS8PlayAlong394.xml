@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Metamorphosis" />
+		<gridItem answer="Guillotine" />
+		<gridItem answer="Milk Can Escape" />
+		<gridItem answer="Zig Zag Girl" />
+		<modelAnswer>Magic illusions</modelAnswer>
+		<list1>MAGIC*,ILLUSION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Prior" />
+		<gridItem answer="Mowlam" />
+		<gridItem answer="King" />
+		<gridItem answer="Atkins" />
+		<modelAnswer>Northern Ireland Secretaries of State</modelAnswer>
+		<list1>NI,IRELAND,IRISH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="South Beach" />
+		<gridItem answer="Zone" />
+		<gridItem answer="F-Plan" />
+		<gridItem answer="Dukan" />
+		<modelAnswer>Diets</modelAnswer>
+		<list1>DIET*,CALORIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bikini" />
+		<gridItem answer="Stethoscope" />
+		<gridItem answer="Daguerreotype" />
+		<gridItem answer="Braille" />
+		<modelAnswer>Invented by Frenchmen</modelAnswer>
+		<list1>FRENCH*,FRANC*</list1>
+		<list2></list2>
+	</answers>
+</data>

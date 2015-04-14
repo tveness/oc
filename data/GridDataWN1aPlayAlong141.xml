@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pommel" />
+		<gridItem answer="Trojan" />
+		<gridItem answer="Rocking" />
+		<gridItem answer="Clothes" />
+		<modelAnswer>Inanimate horses</modelAnswer>
+		<list1>HORSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Merlin" />
+		<gridItem answer="Hobby" />
+		<gridItem answer="Peregrine" />
+		<gridItem answer="Kestrel" />
+		<modelAnswer>Types of falcon</modelAnswer>
+		<list1>FALCON*,PREY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grip" />
+		<gridItem answer="Ricasso" />
+		<gridItem answer="Fuller" />
+		<gridItem answer="Tang" />
+		<modelAnswer>Parts of a sword</modelAnswer>
+		<list1>SWORD*,BLADE*,KNIFE*,STEEL*,FOIL*,RAPIER*,SABRE*,SCIMITAR*,EPEE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Falcon" />
+		<gridItem answer="Jet" />
+		<gridItem answer="Vogue" />
+		<gridItem answer="Nightshade" />
+		<modelAnswer>Female ‘Gladiators’ (game show)</modelAnswer>
+		<list1>GLADIATOR*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Centipede" />
+		<gridItem answer="Asteroids" />
+		<gridItem answer="Frogger" />
+		<gridItem answer="Scramble" />
+		<modelAnswer>Early arcade games</modelAnswer>
+		<list1>ARCADE*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Scuttle" />
+		<gridItem answer="Flit" />
+		<gridItem answer="Bustle" />
+		<gridItem answer="Dash" />
+		<modelAnswer>To move quickly</modelAnswer>
+		<list1>QUICK*,RAPID*,FAST*,SPEED*,SWIFT*,BRISK*,APACE*,HURRY,HURRIED,HAST*,READILY,SMART*,SOON,ABRUPT*,INSTANT*,PROMPT*,PRESTO*,EXPEDIT*,PRONTO*,APACE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pannier" />
+		<gridItem answer="Farthingale" />
+		<gridItem answer="Basque" />
+		<gridItem answer="Chemise" />
+		<modelAnswer>Female undergarments</modelAnswer>
+		<list1>UNDERGARM*,LINGERIE*,INTIMATE*,UNDERWEAR*,PANT*,KNICK*,UNMENTION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bassinet" />
+		<gridItem answer="Punnet" />
+		<gridItem answer="Trug" />
+		<gridItem answer="Creel" />
+		<modelAnswer>Baskets</modelAnswer>
+		<list1>BASKET*,HAMPER*</list1>
+		<list2></list2>
+	</answers>
+</data>

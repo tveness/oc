@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Teeth" />
+		<gridItem answer="Time" />
+		<gridItem answer="Fish" />
+		<gridItem answer="Egg" />
+		<modelAnswer>Answers to riddles in 'The Hobbit'</modelAnswer>
+		<list1>HOBBIT,TOLKIEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="World" />
+		<gridItem answer="The Nation" />
+		<gridItem answer="Newsweek" />
+		<gridItem answer="Mother Jones" />
+		<modelAnswer>US news periodicals</modelAnswer>
+		<list1>NEWS*,TOPIC*,CURRENT,AFFAIR*,MAGAZINE*,MAGS,PERIODICAL*,JOURNAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Zebra" />
+		<gridItem answer="Puffin" />
+		<gridItem answer="Toucan" />
+		<gridItem answer="Pegasus" />
+		<modelAnswer>UK road crossings</modelAnswer>
+		<list1>PEDESTR*,ROAD*,CROSS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Vine" />
+		<gridItem answer="Pelican" />
+		<gridItem answer="Lion" />
+		<gridItem answer="Lamb" />
+		<modelAnswer>Symbols of Christ</modelAnswer>
+		<list1>CHRIST*,JESUS</list1>
+		<list2></list2>
+	</answers>
+</data>

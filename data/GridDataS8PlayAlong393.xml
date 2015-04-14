@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Austin" />
+		<gridItem answer="Dryden" />
+		<gridItem answer="Betjeman" />
+		<gridItem answer="Southey" />
+		<modelAnswer>British Poets Laureate</modelAnswer>
+		<list1>LAUREATE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Motion" />
+		<gridItem answer="Radiation" />
+		<gridItem answer="Altitude" />
+		<gridItem answer="Morning" />
+		<modelAnswer>Forms of sickness</modelAnswer>
+		<list1>SICK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Iowa" />
+		<gridItem answer="Duffy" />
+		<gridItem answer="Saratoga" />
+		<gridItem answer="Missouri" />
+		<modelAnswer>US ships of World War II</modelAnswer>
+		<list1>US,AMERICA,SHIP,WWII,WARSHIP,BATTLESHIP,WORLD WAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Queue" />
+		<gridItem answer="Audio" />
+		<gridItem answer="Eerie" />
+		<gridItem answer="Ouzo" />
+		<modelAnswer>Words with one consonant</modelAnswer>
+		<list1>CONSONANT*,VOWEL*</list1>
+		<list2></list2>
+	</answers>
+</data>

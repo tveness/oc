@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Coren" />
+		<gridItem answer="Cleese" />
+		<gridItem answer="Barrie" />
+		<gridItem answer="Findlay" />
+		<modelAnswer>Rectors of St Andrews University</modelAnswer>
+		<list1>ANDREWS,RECTOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chapman" />
+		<gridItem answer="Ferrari" />
+		<gridItem answer="McLaren" />
+		<gridItem answer="Horch" />
+		<modelAnswer>Founders of sports car companies</modelAnswer>
+		<list1>CAR*,AUTO*,MOTOR*,VEHICL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Idle" />
+		<gridItem answer="Meal" />
+		<gridItem answer="China" />
+		<gridItem answer="Marrow" />
+		<modelAnswer>Bone ____</modelAnswer>
+		<list1>BONE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rodgers" />
+		<gridItem answer="Waterman" />
+		<gridItem answer="Jones" />
+		<gridItem answer="Horn" />
+		<modelAnswer>Music producers</modelAnswer>
+		<list1>PRODUCER*,MUSIC*,POP,MOGUL*,AGENT*,RECORD*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rutherford" />
+		<gridItem answer="Kenny" />
+		<gridItem answer="Dujardin" />
+		<gridItem answer="Trott" />
+		<modelAnswer>London 2012 Team GB gold medallists</modelAnswer>
+		<list1>LONDON,OLYMPIC*,GOLD*,WINNER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Joshua" />
+		<gridItem answer="GERTY" />
+		<gridItem answer="HAL" />
+		<gridItem answer="Skynet" />
+		<modelAnswer>Computer systems in films (War Games, Moon etc.)</modelAnswer>
+		<list1>COMPUTER*,ARTIFICIAL,AI,SYSTEM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ennis" />
+		<gridItem answer="Ricket" />
+		<gridItem answer="Ives" />
+		<gridItem answer="Quash" />
+		<modelAnswer>Ball games minus first letter (Fives, Squash)</modelAnswer>
+		<list1>BALL*,GAME*,SPORT*,RECREATION*,PASTIME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Petroc" />
+		<gridItem answer="Austell" />
+		<gridItem answer="Neot" />
+		<gridItem answer="Columba" />
+		<modelAnswer>Saints with dedications in Cornwall</modelAnswer>
+		<list1>CORNWALL,SAINT*,CORNISH</list1>
+		<list2></list2>
+	</answers>
+</data>

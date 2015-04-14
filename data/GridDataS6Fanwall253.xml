@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rawl" />
+		<gridItem answer="Bath" />
+		<gridItem answer="Travel" />
+		<gridItem answer="Spark" />
+		<modelAnswer>Types of plug</modelAnswer>
+		<list1>PLUG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Star" />
+		<gridItem answer="Jack" />
+		<gridItem answer="Grape" />
+		<gridItem answer="Passion" />
+		<modelAnswer>Fruits</modelAnswer>
+		<list1>FRUIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Portland" />
+		<gridItem answer="Cotswold" />
+		<gridItem answer="Ketton" />
+		<gridItem answer="Barnack" />
+		<modelAnswer>Varieties of limestone</modelAnswer>
+		<list1>LIMESTONE*,STONE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dover" />
+		<gridItem answer="Cirencester" />
+		<gridItem answer="Exeter" />
+		<gridItem answer="Towcester" />
+		<modelAnswer>Roman towns</modelAnswer>
+		<list1>ROMAN,TOWN*,CITIES,CITY</list1>
+		<list2></list2>
+	</answers>
+</data>

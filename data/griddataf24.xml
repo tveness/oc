@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bourbon" />
+		<gridItem answer="Garibaldi" />
+		<gridItem answer="Lincoln" />
+		<gridItem answer="Abernethy" />
+		<modelAnswer>Biscuits</modelAnswer>
+		<list1>BISCUIT,BISCUITS,COOKIE,COOKIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Orange" />
+		<gridItem answer="Angus" />
+		<gridItem answer="Costa" />
+		<gridItem answer="Orwell" />
+		<modelAnswer>British literary awards</modelAnswer>
+		<list1>AWARD*,PRIZE*,TROPHY,TITLE*</list1>
+		<list2>BOOK,BOOKS,LITERARY,LITERATURE,LITERATE,WRITERS,WRITING,NOVEL,NOVELS</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Windsor" />
+		<gridItem answer="Bernadotte" />
+		<gridItem answer="Grimaldi" />
+		<gridItem answer="Belgium" />
+		<modelAnswer>Ruling houses of Europe</modelAnswer>
+		<list1>ROYAL,ARISTOCRAT*,SOVERIGN*,RULING,REIGN*,NOBLE</list1>
+		<list2>HOUSE,HOUSES,FAMILY,FAMILIES</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Balmoral" />
+		<gridItem answer="Glamis" />
+		<gridItem answer="Inverary" />
+		<gridItem answer="Urquhart" />
+		<modelAnswer>Scottish castles</modelAnswer>
+		<list1>SCOTTISH,SCOT,SCOTLAND</list1>
+		<list2>CASTLE,CASTLES,FORT*</list2>
+	</answers>
+</data>

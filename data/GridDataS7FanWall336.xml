@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Polish" />
+		<gridItem answer="Unionized" />
+		<gridItem answer="Minute" />
+		<gridItem answer="Second" />
+		<modelAnswer>Heteronyms (can be pronounced different ways)</modelAnswer>
+		<list1>HETERONYM*,HETEROPHON*,SPELT,SPELL*,PRONOUNC*,PRONUNCIATION*,SAY,SAID</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Third" />
+		<gridItem answer="Running" />
+		<gridItem answer="Elephant" />
+		<gridItem answer="Omega" />
+		<modelAnswer>Films called 'The ____ Man'</modelAnswer>
+		<list1>MAN,FILM*,MOVIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gamma" />
+		<gridItem answer="Beta" />
+		<gridItem answer="Normal" />
+		<gridItem answer="Student's t" />
+		<modelAnswer>Probability distributions</modelAnswer>
+		<list1>STATIST*,PROBABIL*,DISTRIB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chi" />
+		<gridItem answer="Do" />
+		<gridItem answer="Jitsu" />
+		<gridItem answer="Thai" />
+		<modelAnswer>Appear at the end of martial arts</modelAnswer>
+		<list1>MARTIAL,ART,ARTS,ORIENT*,DEFENCE*</list1>
+		<list2></list2>
+	</answers>
+</data>

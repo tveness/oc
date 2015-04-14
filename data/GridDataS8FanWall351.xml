@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Thursday" />
+		<gridItem answer="Eden" />
+		<gridItem answer="Men" />
+		<gridItem answer="Battle" />
+		<modelAnswer>Last words of Steinbeck titles</modelAnswer>
+		<list1>STEINBECK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="War" />
+		<gridItem answer="Enmity" />
+		<gridItem answer="Skirmish" />
+		<gridItem answer="Intifada" />
+		<modelAnswer>Hostilities</modelAnswer>
+		<list1>BATTL*,HOSTIL*,FIGHT*,CONFLICT*,SKIRM*,STRIFE,STRUGGLE*,BLOODSHED,CONTEST*,CONFRONT*,CAMPAIGN*,CONTENT*,CONTEND*,ANTAGONISM*,ILL*,CLASH*,COMBAT*,ARMED*,ASSAULT*,ATTACK*,BLITZ*,ENGAGE*,INVASION*,SIEGE*,RESIST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shangri-la" />
+		<gridItem answer="Nirvana" />
+		<gridItem answer="Goshen" />
+		<gridItem answer="Zion" />
+		<modelAnswer>Ideal places or states</modelAnswer>
+		<list1>HEAVEN*,PROMIS*,PARADISE*,ELYSI*,UTOPIA*,IDEAL*,PERFECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sunday" />
+		<gridItem answer="Apple" />
+		<gridItem answer="Lourdes" />
+		<gridItem answer="Cruz" />
+		<modelAnswer>Unusual celebrity baby names</modelAnswer>
+		<list1>BABY,BABIES,CELEBRIT*,STAR*,HOLLYWOOD*,CHILD*</list1>
+		<list2></list2>
+	</answers>
+</data>

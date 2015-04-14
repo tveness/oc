@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Boise" />
+		<gridItem answer="Tongass" />
+		<gridItem answer="Tonto" />
+		<gridItem answer="Flathead" />
+		<modelAnswer>US National Forests</modelAnswer>
+		<list1>FOREST*,PARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Obelix" />
+		<gridItem answer="Robin" />
+		<gridItem answer="Falcon" />
+		<gridItem answer="Speedy" />
+		<modelAnswer>Comic book sidekicks</modelAnswer>
+		<list1>COMIC*,SIDEKICK*,ASSISTANT*,HELPER*,FRIEND*,COLLABORAT*,ALLY,ALLIES,CONFED*,PARTNER*,ASSOCIAT*,COLLEAGU*,RIGHT-HAND,ACCOMPLICE*,ACOLTYE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Finback" />
+		<gridItem answer="Weasel" />
+		<gridItem answer="Hammerhead" />
+		<gridItem answer="Requiem" />
+		<modelAnswer>Sharks</modelAnswer>
+		<list1>SHARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pyramid" />
+		<gridItem answer="Eliminator" />
+		<gridItem answer="Pole-Axe" />
+		<gridItem answer="Duel" />
+		<modelAnswer>Challenges from 'Gladiators' TV show</modelAnswer>
+		<list1>GLADIATORS</list1>
+		<list2></list2>
+	</answers>
+</data>

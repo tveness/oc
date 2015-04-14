@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spike" />
+		<gridItem answer="Dig" />
+		<gridItem answer="Block" />
+		<gridItem answer="Tip" />
+		<modelAnswer>Actions in volleyball</modelAnswer>
+		<list1>VOLLEY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Silver" />
+		<gridItem answer="Lime" />
+		<gridItem answer="Sand" />
+		<gridItem answer="Set" />
+		<modelAnswer>Quick____</modelAnswer>
+		<list1>QUICK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Woodstock" />
+		<gridItem answer="Pig-Pen" />
+		<gridItem answer="Marcie" />
+		<gridItem answer="Schroeder" />
+		<modelAnswer>Characters in ‘Peanuts’</modelAnswer>
+		<list1>PEANUTS,CHARLIE,SNOOPY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Playfair" />
+		<gridItem answer="Substitution" />
+		<gridItem answer="Vigenere" />
+		<gridItem answer="Book" />
+		<modelAnswer>Types of cipher</modelAnswer>
+		<list1>CIPHER*,CODE*,ENCOD*,CRYPTO*,SECRET</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Camilla" />
+		<gridItem answer="Vincent" />
+		<gridItem answer="Ola" />
+		<gridItem answer="Anton" />
+		<modelAnswer>‘Strictly Come Dancing’ professionals</modelAnswer>
+		<list1>STRICTLY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Zipper" />
+		<gridItem answer="Contra" />
+		<gridItem answer="Cherie" />
+		<gridItem answer="Squidgy" />
+		<modelAnswer>‘____gate’ scandals</modelAnswer>
+		<list1>GATE*,SCANDAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Viking" />
+		<gridItem answer="Vimy" />
+		<gridItem answer="Wellington" />
+		<gridItem answer="Viscount" />
+		<modelAnswer>Vickers aircraft</modelAnswer>
+		<list1>VICKER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Condesa" />
+		<gridItem answer="Viceroy" />
+		<gridItem answer="Emir" />
+		<gridItem answer="Comte" />
+		<modelAnswer>Noble titles</modelAnswer>
+		<list1>NOBLE*,NOBIL*,ROYAL*,ARISTOCR*,GENTRY,TITLE*,ORDER*,RULER*,PEER*,ELITE*,RANK*</list1>
+		<list2></list2>
+	</answers>
+</data>

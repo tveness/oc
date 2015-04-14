@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bresaola" />
+		<gridItem answer="Charqui" />
+		<gridItem answer="Speck" />
+		<gridItem answer="Biltong" />
+		<modelAnswer>Dried meats</modelAnswer>
+		<list1>DRY,DRIED,CURE*,SALT*,SMOKE*,PRESERV*</list1>
+		<list2>BEEF,MEAT*,SAUSAGE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crumb" />
+		<gridItem answer="Scintilla" />
+		<gridItem answer="Atom" />
+		<gridItem answer="Mite" />
+		<modelAnswer>Small things</modelAnswer>
+		<list1>SMALL*,LITTLE,TINY,MINUTE*,MINI*,PETIT*,DIMIN*,MICRO*,INFINITES*,TEENY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parliament" />
+		<gridItem answer="News" />
+		<gridItem answer="Alba" />
+		<gridItem answer="Four" />
+		<modelAnswer>BBC TV channels</modelAnswer>
+		<list1>BBC*,TV,TELEV*,DIGITAL,TELLY,CHANNEL*,STATION*,BROADCAST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Iota" />
+		<gridItem answer="sqrt(-1)" />
+		<gridItem answer="One" />
+		<gridItem answer="Interlaced video" />
+		<modelAnswer>Can be represented as 'i'</modelAnswer>
+		<list1>I,i,‘i’,'i',"i",LETTER*,ONE,SMALL,LOWER</list1>
+		<list2></list2>
+	</answers>
+</data>

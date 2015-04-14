@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Twelfth" />
+		<gridItem answer="Goodwood" />
+		<gridItem answer="Revolution" />
+		<gridItem answer="Dead" />
+		<modelAnswer>Glorious ____</modelAnswer>
+		<list1>GLORIOUS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="I'll Get You" />
+		<gridItem answer="Yes It Is" />
+		<gridItem answer="Old Brown Shoe" />
+		<gridItem answer="Rain" />
+		<modelAnswer>B-sides by The Beatles</modelAnswer>
+		<list1>BEATLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Plumpton" />
+		<gridItem answer="Ascot" />
+		<gridItem answer="Carlisle" />
+		<gridItem answer="Redcar" />
+		<modelAnswer>Racecourses in England</modelAnswer>
+		<list1>RACING,HORSE*,RACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cheat" />
+		<gridItem answer="Newmarket" />
+		<gridItem answer="Racing Demon" />
+		<gridItem answer="Spite and Malice" />
+		<modelAnswer>Shedding card games</modelAnswer>
+		<list1>CARD*</list1>
+		<list2></list2>
+	</answers>
+</data>

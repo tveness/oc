@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Cowboy" />
+		<gridItem answer="Wellington" />
+		<gridItem answer="Riding" />
+		<gridItem answer="Ugg" />
+		<modelAnswer>Types of boot</modelAnswer>
+		<list1>BOOT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tomato" />
+		<gridItem answer="Eater" />
+		<gridItem answer="Burger" />
+		<gridItem answer="Stroganoff" />
+		<modelAnswer>Words that can follow beef</modelAnswer>
+		<list1>BEEF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Christchurch" />
+		<gridItem answer="Dunedin" />
+		<gridItem answer="Hamilton" />
+		<gridItem answer="Nelson" />
+		<modelAnswer>Places in New Zealand</modelAnswer>
+		<list1>NEW ZEALAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snack" />
+		<gridItem answer="Blue" />
+		<gridItem answer="Oil" />
+		<gridItem answer="Mass" />
+		<modelAnswer>Midnight ____</modelAnswer>
+		<list1>MIDNIGHT</list1>
+		<list2></list2>
+	</answers>
+</data>

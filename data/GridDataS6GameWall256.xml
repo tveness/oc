@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Moresby" />
+		<gridItem answer="Elizabeth" />
+		<gridItem answer="Said" />
+		<gridItem answer="Sunlight" />
+		<modelAnswer>Places called Port ____</modelAnswer>
+		<list1>PORT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stanley" />
+		<gridItem answer="Alexandra" />
+		<gridItem answer="Argyle" />
+		<gridItem answer="Orient" />
+		<modelAnswer>Football team suffixes</modelAnswer>
+		<list1>FOOTBALL*,SOCCER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Talbot" />
+		<gridItem answer="Humber" />
+		<gridItem answer="Singer" />
+		<gridItem answer="Reliant" />
+		<modelAnswer>Defunct car companies</modelAnswer>
+		<list1>CAR*,AUTO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jane" />
+		<gridItem answer="Mary" />
+		<gridItem answer="Kitty" />
+		<gridItem answer="Lydia" />
+		<modelAnswer>Bennet sisters in ‘Pride and Prejudice’</modelAnswer>
+		<list1>BENNET*,PRIDE,PREJUDICE,AUSTEN*</list1>
+		<list2></list2>
+	</answers>
+</data>

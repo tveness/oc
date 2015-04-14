@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Clubs" />
+		<gridItem answer="Ball" />
+		<gridItem answer="Hoop" />
+		<gridItem answer="Ribbon" />
+		<modelAnswer>Equipment in rhythmic gymnastics</modelAnswer>
+		<list1>RHYTHM*,GYM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Diamonds" />
+		<gridItem answer="Madonna" />
+		<gridItem answer="Submarine" />
+		<gridItem answer="Tripper" />
+		<modelAnswer>Final words in Beatles song titles</modelAnswer>
+		<list1>BEATLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Spades" />
+		<gridItem answer="Civil action" />
+		<gridItem answer="Manager" />
+		<gridItem answer="Pinstripe" />
+		<modelAnswer>Different types of ‘suit’</modelAnswer>
+		<list1>SUIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hearts" />
+		<gridItem answer="Kisses" />
+		<gridItem answer="Moments" />
+		<gridItem answer="Bases" />
+		<modelAnswer>Things that can be ‘stolen’</modelAnswer>
+		<list1>STEAL*,STOLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

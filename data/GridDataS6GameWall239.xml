@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spot" />
+		<gridItem answer="Search" />
+		<gridItem answer="Lime" />
+		<gridItem answer="Torch" />
+		<modelAnswer></modelAnswer>
+		<list1>____light</list1>
+		<list2>LIGHT*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flood" />
+		<gridItem answer="Youngs" />
+		<gridItem answer="Ashton" />
+		<gridItem answer="Palmer" />
+		<modelAnswer>England Rugby Union squad members</modelAnswer>
+		<list1>RUGBY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Greene King" />
+		<gridItem answer="Fuller's" />
+		<gridItem answer="Brains" />
+		<gridItem answer="Adnams" />
+		<modelAnswer>Breweries</modelAnswer>
+		<list1>BREW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bury" />
+		<gridItem answer="Eccles" />
+		<gridItem answer="Sale" />
+		<gridItem answer="Altrincham" />
+		<modelAnswer>Places in Greater Manchester</modelAnswer>
+		<list1>MANCHEST*,MANCUNIA*</list1>
+		<list2></list2>
+	</answers>
+</data>

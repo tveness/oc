@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Bulgari"/>
+		<gridItem answer="Cartier"/>
+		<gridItem answer="Graff"/>
+		<gridItem answer="Tiffany"/>
+		<modelAnswer>Jewellers</modelAnswer>
+		<list1>JEWEL*,WATCH*,DIAMOND*,RING*,NECKLAC*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Burmese"/>
+		<gridItem answer="Peggy"/>
+		<gridItem answer="Sanction"/>
+		<gridItem answer="Winston"/>
+		<modelAnswer>Horses ridden by Elizabeth II</modelAnswer>
+		<list1>HORSE*</list1>
+		<list2>QUEEN*,ELIZABETH*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Fiat"/>
+		<gridItem answer="Leave"/>
+		<gridItem answer="Nod"/>
+		<gridItem answer="Okay"/>
+		<modelAnswer>Authorisation</modelAnswer>
+		<list1>AUTHORI*,YES*,ALLOW*,POSITIV*,CLEAR*,FINE*,GOOD*,GRANT*,LET*,PERMI*,APPROV*,RECOGNI*,SANCTION*,ENDORS*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bertone"/>
+		<gridItem answer="Ferrari"/>
+		<gridItem answer="Lancia"/>
+		<gridItem answer="Maserati"/>
+		<modelAnswer>Italian cars</modelAnswer>
+		<list1>ITAL*</list1>
+		<list2>CAR*,MOTOR*,AUTOMOBIL*,SUPERCAR*</list2>
+	</answers></data>

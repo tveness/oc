@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Purpura" />
+		<gridItem answer="Ringworm" />
+		<gridItem answer="Hives" />
+		<gridItem answer="Impetigo" />
+		<modelAnswer>Skin discolourations</modelAnswer>
+		<list1>SKIN*,DERM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Belladonna" />
+		<gridItem answer="Potato" />
+		<gridItem answer="Oleander" />
+		<gridItem answer="Peony" />
+		<modelAnswer>Poisonous plants</modelAnswer>
+		<list1>POISON*,TOXIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hickey" />
+		<gridItem answer="Atticus" />
+		<gridItem answer="Mandrake" />
+		<gridItem answer="Pandora" />
+		<modelAnswer>Newspaper diary columns</modelAnswer>
+		<list1>NEWSPAP*,DAILY,DIARY,DIARIES,COLUMN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mini" />
+		<gridItem answer="Franky" />
+		<gridItem answer="Effy" />
+		<gridItem answer="Cassie" />
+		<modelAnswer>Characters in ‘Skins’</modelAnswer>
+		<list1>SKINS</list1>
+		<list2></list2>
+	</answers>
+</data>

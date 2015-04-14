@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bouncer" />
+		<gridItem answer="Flipper" />
+		<gridItem answer="Doosra" />
+		<gridItem answer="Slider" />
+		<modelAnswer>Cricket deliveries</modelAnswer>
+		<list1>CRICKET*,BOWL*,BALL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wellard" />
+		<gridItem answer="Eccles" />
+		<gridItem answer="Tootsie" />
+		<gridItem answer="Willy" />
+		<modelAnswer>UK soap dogs</modelAnswer>
+		<list1>DOG*,PET*,CANINE*</list1>
+		<list2>SOAP*,DRAMA*,TV,TELEVIS*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boxcar" />
+		<gridItem answer="Ceiling" />
+		<gridItem answer="Sigmoid" />
+		<gridItem answer="Hyperbolic" />
+		<modelAnswer>Mathematical functions</modelAnswer>
+		<list1>MATH*,FUNCT*,ALGEB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jaffa" />
+		<gridItem answer="Alexandria" />
+		<gridItem answer="Toulon" />
+		<gridItem answer="Barcelona" />
+		<modelAnswer>Mediterranean ports</modelAnswer>
+		<list1>MEDIT*,SEAPORT*,HARBOUR*,DOCK*,PORT*</list1>
+		<list2></list2>
+	</answers>
+</data>

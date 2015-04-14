@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Turpin" />
+		<gridItem answer="May" />
+		<gridItem answer="Roat" />
+		<gridItem answer="Weeds" />
+		<modelAnswer>Anagrams of root vegetables (taro, yam, etc.)</modelAnswer>
+		<list1>ROOT,VEGETABLE*,CROP*,EDIBLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Edge" />
+		<gridItem answer="Cooder" />
+		<gridItem answer="Page" />
+		<gridItem answer="Slash" />
+		<modelAnswer>Rock guitarists</modelAnswer>
+		<list1>GUITAR*,MUSICIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Supplementary" />
+		<gridItem answer="Interior" />
+		<gridItem answer="Right" />
+		<gridItem answer="Adjacent" />
+		<modelAnswer>Angles</modelAnswer>
+		<list1>ANGLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Asterisk" />
+		<gridItem answer="Tilde" />
+		<gridItem answer="Caret" />
+		<gridItem answer="Hyphen" />
+		<modelAnswer>Symbols used in typography</modelAnswer>
+		<list1>PRINT*,TYPO*,TYPE*,PUNCT*,SYMBOL*,KEY*</list1>
+		<list2></list2>
+	</answers>
+</data>

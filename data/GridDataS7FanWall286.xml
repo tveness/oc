@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Humbert" />
+		<gridItem answer="Montgomery" />
+		<gridItem answer="Major" />
+		<gridItem answer="Jameson" />
+		<modelAnswer>Fictional characters with reduplicated names</modelAnswer>
+		<list1>TWICE,DOUBLE*,TWO,TIMES,REDUPLIC*,DUPLIC*,REPEAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Radnor" />
+		<gridItem answer="Monmouth" />
+		<gridItem answer="Merioneth" />
+		<gridItem answer="Flint" />
+		<modelAnswer>Historical counties of Wales</modelAnswer>
+		<list1>WALES,WELSH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Steel" />
+		<gridItem answer="Cable" />
+		<gridItem answer="Kennedy" />
+		<gridItem answer="Ashdown" />
+		<modelAnswer>(Social and) Liberal Democrat party leaders</modelAnswer>
+		<list1>SDLP,LIBDEM,LIB DEM,LIBERAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Street" />
+		<gridItem answer="Box" />
+		<gridItem answer="Side" />
+		<gridItem answer="Stock" />
+		<modelAnswer>____car</modelAnswer>
+		<list1>CAR,CARS</list1>
+		<list2></list2>
+	</answers>
+</data>

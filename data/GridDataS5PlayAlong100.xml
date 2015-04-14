@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Report" />
+		<gridItem answer="Forecast" />
+		<gridItem answer="Balloon" />
+		<gridItem answer="Station" />
+		<modelAnswer>Weather ____</modelAnswer>
+		<list1>WEATHER*,METEOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gray" />
+		<gridItem answer="Wotton" />
+		<gridItem answer="Hallward" />
+		<gridItem answer="Vane" />
+		<modelAnswer>‘The Picture of Dorian Gray’ characters</modelAnswer>
+		<list1>DORIAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stocking" />
+		<gridItem answer="Diamond" />
+		<gridItem answer="Cable" />
+		<gridItem answer="Rice" />
+		<modelAnswer>Knitting stitches</modelAnswer>
+		<list1>SEW*,KNIT*,STITCH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Garter" />
+		<gridItem answer="Confetti" />
+		<gridItem answer="Bouquet" />
+		<gridItem answer="Petals" />
+		<modelAnswer>Things thrown at weddings</modelAnswer>
+		<list1>THROW*,CHUCK*,SCATTER*,CAST,WED*,MARRIAGE,MARRIE*,MATRIOM*,CEREMONY</list1>
+		<list2></list2>
+	</answers>
+</data>

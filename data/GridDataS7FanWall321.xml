@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Asp" />
+		<gridItem answer="Hale" />
+		<gridItem answer="Easel" />
+		<gridItem answer="Ren" />
+		<modelAnswer>Animals with their initial W removed</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,LIVING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boa" />
+		<gridItem answer="Adder" />
+		<gridItem answer="Mamba" />
+		<gridItem answer="Viper" />
+		<modelAnswer>Snakes</modelAnswer>
+		<list1>SNAKE*,SERPENT*,REPTILE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Python" />
+		<gridItem answer="Lisp" />
+		<gridItem answer="Pascal" />
+		<gridItem answer="Java" />
+		<modelAnswer>Programming languages</modelAnswer>
+		<list1>PROGRAM*,COMPUTER*,LANGUAGE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rhubarb" />
+		<gridItem answer="Bermuda" />
+		<gridItem answer="Love" />
+		<gridItem answer="Sierpinski" />
+		<modelAnswer>____ triangle</modelAnswer>
+		<list1>TRIANGLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Boast" />
+		<gridItem answer="Kill" />
+		<gridItem answer="T" />
+		<gridItem answer="Tin" />
+		<modelAnswer>Terms used in squash</modelAnswer>
+		<list1>SQUASH,RACKET*,RACQUET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Blow" />
+		<gridItem answer="Crow" />
+		<gridItem answer="Vaunt" />
+		<gridItem answer="Trumpet" />
+		<modelAnswer>Ways to boast</modelAnswer>
+		<list1>BRAG,BOAST,EXAGGER*,BLUST*,SHOW,IMPRESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coal" />
+		<gridItem answer="Flint" />
+		<gridItem answer="Uranium" />
+		<gridItem answer="Gold" />
+		<modelAnswer>Resources that are mined</modelAnswer>
+		<list1>MINE*,EARTH*,GROUND*,QUARR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ann Arbor" />
+		<gridItem answer="Detroit" />
+		<gridItem answer="Grand Rapids" />
+		<gridItem answer="Lansing" />
+		<modelAnswer>Cities in Michigan</modelAnswer>
+		<list1>MICHIGAN,MI</list1>
+		<list2></list2>
+	</answers>
+</data>

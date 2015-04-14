@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Trouble" />
+		<gridItem answer="Mick" />
+		<gridItem answer="Bait" />
+		<gridItem answer="Plunge" />
+		<modelAnswer>Take the ____</modelAnswer>
+		<list1>TAKE*,TAKING</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Harry" />
+		<gridItem answer="Badger" />
+		<gridItem answer="Hound" />
+		<gridItem answer="Nag" />
+		<modelAnswer>To goad or irritate</modelAnswer>
+		<list1>VEX*,IRRITATE*,PESTER*,HARASS*,OPPRESS*,PRESS*,TORMENT*,PERSECUT*,ANNOY*,WORRY*,TROUBL*,BOTHER*,PRESSUR*,GOAD*,HASSLE*,PROVOKE*,IRK*,BUG*,NEEDLE*,TEASE*,SPUR*,URGE*,BAIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mark" />
+		<gridItem answer="Grant" />
+		<gridItem answer="Sue" />
+		<gridItem answer="Bill" />
+		<modelAnswer>Given names that can be verbs</modelAnswer>
+		<list1>VERB*,DO*,ACTION*,PREDICAT*,NAME*,CHRISTIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fox" />
+		<gridItem answer="Trick" />
+		<gridItem answer="Gull" />
+		<gridItem answer="Fool" />
+		<modelAnswer>Mean 'to deceive'</modelAnswer>
+		<list1>DECEIV*,MISLEAD*,DELUD*,DELUS*,CHEAT*,BETRAY*,HOAX*,BLUFF*,DUPE*,SWINDLE*,OUTSMART*,OUTWIT*,MISGUIDE*,HOODWINK*,BEGUIL*,TRAP*,ENTRAP*,ENSNAR*,CON*,KID*,BAMBOOZ*,TWOTIME,DEFRAUD*</list1>
+		<list2></list2>
+	</answers>
+</data>

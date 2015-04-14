@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Pascal" />
+		<gridItem answer="Python" />
+		<gridItem answer="C++" />
+		<gridItem answer="Java" />
+		<modelAnswer>Programming languages</modelAnswer>
+		<list1>PROGRAM*,COMPUT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sulawesi" />
+		<gridItem answer="Sumatra" />
+		<gridItem answer="Ambon" />
+		<gridItem answer="Komodo" />
+		<modelAnswer>Indonesian islands</modelAnswer>
+		<list1>INDONESIA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Glaurung" />
+		<gridItem answer="Saphira" />
+		<gridItem answer="Toothless" />
+		<gridItem answer="Puff" />
+		<modelAnswer>Dragons in fiction</modelAnswer>
+		<list1>DRAGON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Katal" />
+		<gridItem answer="Watt" />
+		<gridItem answer="Henry" />
+		<gridItem answer="Ohm" />
+		<modelAnswer>SI derived units</modelAnswer>
+		<list1>UNIT*,MEASUR*</list1>
+		<list2></list2>
+	</answers>
+</data>

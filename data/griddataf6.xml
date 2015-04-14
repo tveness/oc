@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rover" />
+		<gridItem answer="Terrier" />
+		<gridItem answer="Yew" />
+		<gridItem answer="Coffee" />
+		<modelAnswer>Irish ____</modelAnswer>
+		<list1>IRISH,IRELAND</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Trinity" />
+		<gridItem answer="Rogation" />
+		<gridItem answer="Palm" />
+		<gridItem answer="Remembrance" />
+		<modelAnswer>Sundays of the year</modelAnswer>
+		<list1>SUNDAY,SABBATH,REST</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boxer" />
+		<gridItem answer="Easter" />
+		<gridItem answer="Whiskey" />
+		<gridItem answer="Mau Mau" />
+		<modelAnswer>Rebellions, uprisings or revolts</modelAnswer>
+		<list1>REBELLION,UPRISING,RISING,REVOLT,INSURGEN,INSURRECTION,REVOLUTION</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beagle" />
+		<gridItem answer="Bounty" />
+		<gridItem answer="Victory" />
+		<gridItem answer="Pinta" />
+		<modelAnswer>Famous sailing ships</modelAnswer>
+		<list1>SHIP,BOAT,SAILING,VESSEL,CRAFT,TENDER,BRIG</list1>
+		<list2></list2>
+	</answers>
+</data>

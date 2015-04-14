@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Proops" />
+		<gridItem answer="Lawrence" />
+		<gridItem answer="Slattery" />
+		<gridItem answer="Frost" />
+		<modelAnswer>Improvisers on ‘Whose Line is it Anyway?’</modelAnswer>
+		<list1>WHOSE,ANYWAY,IMPROV*,COMED*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dew" />
+		<gridItem answer="Sleet" />
+		<gridItem answer="Drizzle" />
+		<gridItem answer="Virga" />
+		<modelAnswer>Precipitation</modelAnswer>
+		<list1>PRECIP*,WATER*,WET*,WEATHER*,CLIMAT*,METEROL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Snow" />
+		<gridItem answer="Coke" />
+		<gridItem answer="Crack" />
+		<gridItem answer="Charlie" />
+		<modelAnswer>Slang terms for cocaine</modelAnswer>
+		<list1>COCAINE*,DRUG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Aquarium" />
+		<gridItem answer="Ariel" />
+		<gridItem answer="Cancel" />
+		<gridItem answer="Libre" />
+		<modelAnswer>Zodiac signs with last letter changed</modelAnswer>
+		<list1>ZODIAC*,STAR,SUN,SIGN*,ASTROL*,FINAL,LAST</list1>
+		<list2></list2>
+	</answers>
+</data>

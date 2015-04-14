@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brittany" />
+		<gridItem answer="Irish" />
+		<gridItem answer="Pentland" />
+		<gridItem answer="Condor" />
+		<modelAnswer>Ferry companies serving the UK</modelAnswer>
+		<list1>FERRY*,FERRIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Steampacket" />
+		<gridItem answer="Faces" />
+		<gridItem answer="Shotgun Express" />
+		<gridItem answer="Soul Agents" />
+		<modelAnswer>Bands featuring Rod Stewart</modelAnswer>
+		<list1>STEWART*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Buzzard" />
+		<gridItem answer="Vulture" />
+		<gridItem answer="Caracara" />
+		<gridItem answer="Harrier" />
+		<modelAnswer>Large birds of prey</modelAnswer>
+		<list1>PREY,RAPTOR*,BIRD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Black" />
+		<gridItem answer="Viennese" />
+		<gridItem answer="Turkish" />
+		<gridItem answer="Iced" />
+		<modelAnswer>Ways of serving coffee</modelAnswer>
+		<list1>COFFEE*</list1>
+		<list2></list2>
+	</answers>
+</data>

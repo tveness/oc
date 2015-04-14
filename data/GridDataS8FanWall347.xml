@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Waterloo" />
+		<gridItem answer="Euphoria" />
+		<gridItem answer="Hallelujah" />
+		<gridItem answer="Fairytale" />
+		<modelAnswer>Songs that won Eurovision</modelAnswer>
+		<list1>EUROVIS*,</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Austerlitz" />
+		<gridItem answer="Dresden" />
+		<gridItem answer="Trafalgar" />
+		<gridItem answer="Nile" />
+		<modelAnswer>Napoleonic battles</modelAnswer>
+		<list1>NAPOLEON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clapton" />
+		<gridItem answer="Russell" />
+		<gridItem answer="Grosvenor" />
+		<gridItem answer="Leicester" />
+		<modelAnswer>Squares in London</modelAnswer>
+		<list1>LONDON*,SQUARE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Liddell" />
+		<gridItem answer="Morecambe" />
+		<gridItem answer="Bana" />
+		<gridItem answer="Idle" />
+		<modelAnswer>Famous Erics</modelAnswer>
+		<list1>ERIC*</list1>
+		<list2></list2>
+	</answers>
+</data>

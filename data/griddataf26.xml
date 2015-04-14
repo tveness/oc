@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Carpaccio" />
+		<gridItem answer="Pavlova" />
+		<gridItem answer="Sandwich" />
+		<gridItem answer="Wellington" />
+		<modelAnswer>Foods named after famous people</modelAnswer>
+		<list1>FOOD*,DISH,DISHES,NAMED AFTER</list1>
+		<list2>FAMOUS,PEOPLE,PERSON,PERSONS,CELEBRITY,CELEBRITIES,FIGURES,NOTABLE,PERSONALIT*,SOMEBODY,SOMEONE,STAR,STARS</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cookie" />
+		<gridItem answer="Custard" />
+		<gridItem answer="Snowball" />
+		<gridItem answer="Vienna" />
+		<modelAnswer>TV cats</modelAnswer>
+		<list1>CAT,CATS,FELINE,FELINES,PUSSY,PUSSIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Boxer" />
+		<gridItem answer="Clover" />
+		<gridItem answer="Major" />
+		<gridItem answer="Napoleon" />
+		<modelAnswer>‘Animal Farm’ characters</modelAnswer>
+		<list1>ANIMAL</list1>
+		<list2>FARM</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brogue" />
+		<gridItem answer="Mule" />
+		<gridItem answer="Pump" />
+		<gridItem answer="Wedge" />
+		<modelAnswer>Footwear</modelAnswer>
+		<list1>FOOTWEAR,SHOE,SHOES,BOOT,BOOTS,FOOTGEAR,FEET</list1>
+		<list2></list2>
+	</answers>
+</data>

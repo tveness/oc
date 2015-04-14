@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Turnip" />
+		<gridItem answer="Golden Raspberry" />
+		<gridItem answer="Pigasus" />
+		<gridItem answer="Ig Nobel" />
+		<modelAnswer>Anti-prizes</modelAnswer>
+		<list1>PRIZE*,ANTI*,BOOBY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Salvador" />
+		<gridItem answer="Douglas" />
+		<gridItem answer="Goose Green" />
+		<gridItem answer="Darwin" />
+		<modelAnswer>Settlements in the Falkland Islands</modelAnswer>
+		<list1>FALKLAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grinling" />
+		<gridItem answer="Stanley" />
+		<gridItem answer="Orlando" />
+		<gridItem answer="Stella" />
+		<modelAnswer>Famous people called Gibbons</modelAnswer>
+		<list1>GIBBONS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Libertador" />
+		<gridItem answer="Cordobes" />
+		<gridItem answer="Greco" />
+		<gridItem answer="Cid" />
+		<modelAnswer>Famous 'El ____' names</modelAnswer>
+		<list1>EL,SPANISH,SPAIN</list1>
+		<list2></list2>
+	</answers>
+</data>

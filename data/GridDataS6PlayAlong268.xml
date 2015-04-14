@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Trophy" />
+		<gridItem answer="Venue" />
+		<gridItem answer="Corn" />
+		<gridItem answer="Steroid" />
+		<modelAnswer>A____ (Atrophy, Avenue etc.)</modelAnswer>
+		<list1>A,LETTER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Quinoa" />
+		<gridItem answer="Sorghum" />
+		<gridItem answer="Amaranth" />
+		<gridItem answer="Millet" />
+		<modelAnswer>Seeds used as cereals</modelAnswer>
+		<list1>SEED*,CEREAL*,CROP*,GRAIN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cup" />
+		<gridItem answer="Dish" />
+		<gridItem answer="Belt" />
+		<gridItem answer="Claret jug" />
+		<modelAnswer>Sporting prizes</modelAnswer>
+		<list1>SPORT*,PRIZE*,REWARD*,TROPH*,WINN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shelf" />
+		<gridItem answer="Drift" />
+		<gridItem answer="Plate" />
+		<gridItem answer="Crust" />
+		<modelAnswer>Continental _____</modelAnswer>
+		<list1>CONTINENT*,PLATE*,TECTONIC*</list1>
+		<list2></list2>
+	</answers>
+</data>

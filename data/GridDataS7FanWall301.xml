@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Poll" />
+		<gridItem answer="Baler" />
+		<gridItem answer="Man" />
+		<gridItem answer="Wine" />
+		<modelAnswer>Straw ____</modelAnswer>
+		<list1>STRAW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Great" />
+		<gridItem answer="Swell" />
+		<gridItem answer="Solo" />
+		<gridItem answer="Echo" />
+		<modelAnswer>Organ manuals</modelAnswer>
+		<list1>ORGAN*,MANUAL*,KEYBOARD</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grand" />
+		<gridItem answer="Tara River" />
+		<gridItem answer="Colca" />
+		<gridItem answer="Copper" />
+		<modelAnswer>Canyons</modelAnswer>
+		<list1>CANYON*,GORGE*,RAVINE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Awesome" />
+		<gridItem answer="Sweet" />
+		<gridItem answer="Boss" />
+		<gridItem answer="Neat" />
+		<modelAnswer>Slang for 'cool'</modelAnswer>
+		<list1>IMPRESS*,EXTRAORD*,SPECTAC*,AMAZ*,ASTONISH*,STUN*,DAUNT*,INTIMID*,WONDER*,MARVEL*,SENSAT*,SUPER*,EXCELL*,FIRST RATE,TREMEND*,IMPRESS*,TERRIF*,GREAT,BRILL*,INCRED*,UNBELIEV*,AMAZ*,REMARK*,PHENOM*,SUPER*,COOL,MAGIC,SMASHING,ACE,RADICAL,WICKED,MEGA,WORLD*,TRIFF,SECOND</list1>
+		<list2></list2>
+	</answers>
+</data>

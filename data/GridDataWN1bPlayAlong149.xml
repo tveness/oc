@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Kick" />
+		<gridItem answer="Skin" />
+		<gridItem answer="Bread" />
+		<gridItem answer="Republic" />
+		<modelAnswer>Banana ____</modelAnswer>
+		<list1>BANANA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lerner" />
+		<gridItem answer="Kander" />
+		<gridItem answer="Boublil" />
+		<gridItem answer="Rodgers" />
+		<modelAnswer>Halves of musicals partnerships</modelAnswer>
+		<list1>COMPOSER*,LYRIC*,MUSICAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Short" />
+		<gridItem answer="Peace" />
+		<gridItem answer="Glazer" />
+		<gridItem answer="Ashley" />
+		<modelAnswer>English Premier League club owners (2010-11)</modelAnswer>
+		<list1>PREMIER*,FOOTBALL*,SOCCER*,OWNER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Haircut" />
+		<gridItem answer="Rally" />
+		<gridItem answer="Split" />
+		<gridItem answer="Spread" />
+		<modelAnswer>Stock market terms</modelAnswer>
+		<list1>STOCK*,MARKET*,FINANC*,MONEY*,INVEST*</list1>
+		<list2></list2>
+	</answers>
+</data>

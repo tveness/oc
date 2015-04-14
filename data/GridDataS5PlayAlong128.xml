@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Poisson" />
+		<gridItem answer="Laplace" />
+		<gridItem answer="Normal" />
+		<gridItem answer="Binomial" />
+		<modelAnswer>Probability distributions</modelAnswer>
+		<list1>PROBABIL*,STATIST*,DISTRIBUT*,CHANCE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fish" />
+		<gridItem answer="Chi-Rho" />
+		<gridItem answer="Peacock" />
+		<gridItem answer="Crucifix" />
+		<modelAnswer>Christian symbols</modelAnswer>
+		<list1>CHRISTI*,RELIGIO*,HOLY,DIVINE,SPIRITU*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Glover" />
+		<gridItem answer="Russo" />
+		<gridItem answer="Gibson" />
+		<gridItem answer="Pesci" />
+		<modelAnswer>‘Lethal Weapon’ regulars</modelAnswer>
+		<list1>LETHAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Medicine" />
+		<gridItem answer="Advice" />
+		<gridItem answer="Pez" />
+		<gridItem answer="Justice" />
+		<modelAnswer>Things that are dispensed</modelAnswer>
+		<list1>DISPENS*</list1>
+		<list2></list2>
+	</answers>
+</data>

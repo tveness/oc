@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Water" />
+		<gridItem answer="Down" />
+		<gridItem answer="Through" />
+		<gridItem answer="Neck" />
+		<modelAnswer>Break____</modelAnswer>
+		<list1>BREAK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shift" />
+		<gridItem answer="Control" />
+		<gridItem answer="Home" />
+		<gridItem answer="Enter" />
+		<modelAnswer>Keys on a computer keyboard</modelAnswer>
+		<list1>KEY*,COMPUTER*,IBM,LAPTOP,QWERTY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Out" />
+		<gridItem answer="Bola" />
+		<gridItem answer="Curvy" />
+		<gridItem answer="Ox" />
+		<modelAnswer>Diseases minus first letter (Gout, Pox etc.)</modelAnswer>
+		<list1>DISEASE*,COMPLAINT,ILL*,SICK*,DISORDER*,CONDIT*,INFECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Leg" />
+		<gridItem answer="Frame" />
+		<gridItem answer="End" />
+		<gridItem answer="Game" />
+		<modelAnswer>Divisions of scoring in sports</modelAnswer>
+		<list1>SPORT*,DIVID*,DIVISION*,PASTIME*,RECREAT*,SCOR*,MATCH*,TIE*</list1>
+		<list2></list2>
+	</answers>
+</data>

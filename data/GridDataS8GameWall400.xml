@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Shopping" />
+		<gridItem answer="Ledge" />
+		<gridItem answer="Frame" />
+		<gridItem answer="Dresser" />
+		<modelAnswer>Window ____</modelAnswer>
+		<list1>WINDOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Secretaire" />
+		<gridItem answer="Vanity unit" />
+		<gridItem answer="Chesterfield" />
+		<gridItem answer="Tallboy" />
+		<modelAnswer>Large furniture items</modelAnswer>
+		<list1>FURNITURE,FURNISH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Buxton" />
+		<gridItem answer="Glossop" />
+		<gridItem answer="Long Eaton" />
+		<gridItem answer="Matlock" />
+		<modelAnswer>Places in Derbyshire</modelAnswer>
+		<list1>DERBYSHIRE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bakewell" />
+		<gridItem answer="Custard" />
+		<gridItem answer="Treacle" />
+		<gridItem answer="Manchester" />
+		<modelAnswer>Traditional tarts</modelAnswer>
+		<list1>TART*</list1>
+		<list2></list2>
+	</answers>
+</data>

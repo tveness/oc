@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Brad" />
+		<gridItem answer="Riff Raff" />
+		<gridItem answer="Columbia" />
+		<gridItem answer="Eddie" />
+		<modelAnswer>‘Rocky Horror’ characters</modelAnswer>
+		<list1>ROCKY,O'BRIEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Balaclava helmet" />
+		<gridItem answer="Trafalgar Square" />
+		<gridItem answer="Chicken Marengo" />
+		<gridItem answer="Magenta" />
+		<modelAnswer>Named after battles</modelAnswer>
+		<list1>BATTLE*,WAR*,CONFLICT*,FIGHT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Janet" />
+		<gridItem answer="Foucault" />
+		<gridItem answer="Binet" />
+		<gridItem answer="Coué" />
+		<modelAnswer>French psychologists</modelAnswer>
+		<list1>PSYCH*,PHILOSOPH*,SOCIAL*</list1>
+		<list2>FRENCH,FRANCE,EUROP*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Atlantis" />
+		<gridItem answer="Endeavour" />
+		<gridItem answer="Discovery" />
+		<gridItem answer="Challenger" />
+		<modelAnswer>Space Shuttles</modelAnswer>
+		<list1>SHUTTLE*,SPACE*,ROCKET*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Dee" />
+		<gridItem answer="Kay" />
+		<gridItem answer="Vine" />
+		<gridItem answer="Brand" />
+		<modelAnswer>British Comedians</modelAnswer>
+		<list1>COMED*,STAND*,PRESENT*,HOST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Vogue" />
+		<gridItem answer="Cosmopolitan" />
+		<gridItem answer="Red" />
+		<gridItem answer="More" />
+		<modelAnswer>Magazines</modelAnswer>
+		<list1>MAG*,GOSSIP*,PUBLICATION*,TITLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sow" />
+		<gridItem answer="Doe" />
+		<gridItem answer="Hen" />
+		<gridItem answer="Pen" />
+		<modelAnswer>Female Animals</modelAnswer>
+		<list1>FEMALE*,GIRL*,LAD*,MOTHER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ewe"/>
+		<gridItem answer="Elle"/>
+		<gridItem answer="Eye"/>
+		<gridItem answer="Sea"/>
+		<modelAnswer>Homophones for letters of the alphabet</modelAnswer>
+		<list1>LETTER*</list1>
+		<list2></list2>
+	</answers>
+</data>

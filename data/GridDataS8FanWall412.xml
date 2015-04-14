@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Arnold" />
+		<gridItem answer="Rhinestone" />
+		<gridItem answer="Tweedledum" />
+		<gridItem answer="Deer" />
+		<modelAnswer>Start with European rivers (Arno, Tweed etc.)</modelAnswer>
+		<list1>RIVER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Poppy" />
+		<gridItem answer="Crude" />
+		<gridItem answer="Lavender" />
+		<gridItem answer="Snake" />
+		<modelAnswer>____ oil</modelAnswer>
+		<list1>OIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Remus" />
+		<gridItem answer="Castor" />
+		<gridItem answer="Jacob" />
+		<gridItem answer="Dromio" />
+		<modelAnswer>Half of a famous set of twins</modelAnswer>
+		<list1>TWIN*,HALF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Vanya" />
+		<gridItem answer="Fester" />
+		<gridItem answer="Silas" />
+		<gridItem answer="Sam" />
+		<modelAnswer>Fictional uncles</modelAnswer>
+		<list1>UNCLE*</list1>
+		<list2></list2>
+	</answers>
+</data>

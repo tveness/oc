@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Phoenix" />
+		<gridItem answer="Viking" />
+		<gridItem answer="Mariner" />
+		<gridItem answer="Beagle" />
+		<modelAnswer>Missions to Mars</modelAnswer>
+		<list1>MARS*,MARTIAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bailey" />
+		<gridItem answer="Humber" />
+		<gridItem answer="Thames" />
+		<gridItem answer="Forth" />
+		<modelAnswer>Areas in the Shipping Forecast</modelAnswer>
+		<list1>SHIPPING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Imp" />
+		<gridItem answer="Minx" />
+		<gridItem answer="Avenger" />
+		<gridItem answer="Hunter" />
+		<modelAnswer>Cars manufactured by Hillman</modelAnswer>
+		<list1>HILLMAN*,ROOTES,CHRYSLER</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Keep" />
+		<gridItem answer="Motte" />
+		<gridItem answer="Murder hole" />
+		<gridItem answer="Ward" />
+		<modelAnswer>Parts of a castle</modelAnswer>
+		<list1>CASTLE*,STRONGHOLD*,FORT*,CITADEL</list1>
+		<list2></list2>
+	</answers>
+</data>

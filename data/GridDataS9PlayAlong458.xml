@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Babington"/>
+		<gridItem answer="Bye"/>
+		<gridItem answer="Gunpowder"/>
+		<gridItem answer="Main"/>
+		<modelAnswer>Catholic plots</modelAnswer>
+		<list1>PLOT*</list1>
+		<list2>CATHOLIC*</list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Cya"/>
+		<gridItem answer="Ciao"/>
+		<gridItem answer="Ta-ta"/>
+		<gridItem answer="Vale"/>
+		<modelAnswer>Parting phrases</modelAnswer>
+		<list1>PART*,BYE*,GOODBYE*,LEAV*,FAREWELL*,DEPART*,GO*,DEPART* </list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Flea"/>
+		<gridItem answer="Practices"/>
+		<gridItem answer="Inquisition"/>
+		<gridItem answer="Fly"/>
+		<modelAnswer>Spanish ____</modelAnswer>
+		<list1>SPANISH*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Chun Mee"/>
+		<gridItem answer="Gyokuro"/>
+		<gridItem answer="Hyson"/>
+		<gridItem answer="Sencha"/>
+		<modelAnswer>Varieties of green tea</modelAnswer>
+		<list1>TEA*</list1>
+		<list2></list2>
+	</answers></data>

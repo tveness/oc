@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Oval" />
+		<gridItem answer="Bank" />
+		<gridItem answer="Highgate" />
+		<gridItem answer="Angel" />
+		<modelAnswer>Stations on the Northern Line</modelAnswer>
+		<list1>NORTHERN,UNDER,UNDERGROUND,TUBE,METRO</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Oasis" />
+		<gridItem answer="French Connection" />
+		<gridItem answer="Jigsaw" />
+		<gridItem answer="Monsoon" />
+		<modelAnswer>High street fashion chains</modelAnswer>
+		<list1>FASHION*,CLOTH*,RETAIL*,HIGH STREET,CHAIN*,LABEL*,RAG</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Desire" />
+		<gridItem answer="Kismet" />
+		<gridItem answer="Morocco" />
+		<gridItem answer="Shanghai Express" />
+		<modelAnswer>Marlene Dietrich films</modelAnswer>
+		<list1>DEITRIC*,DIETRIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bunhill Fields" />
+		<gridItem answer="La Recoleta" />
+		<gridItem answer="Pere Lachaise" />
+		<gridItem answer="Arlington" />
+		<modelAnswer>Famous cemeteries</modelAnswer>
+		<list1>CEMET*</list1>
+		<list2></list2>
+	</answers>
+</data>

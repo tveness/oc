@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="King" />
+		<gridItem answer="Allcock" />
+		<gridItem answer="Corsie" />
+		<gridItem answer="Bryant" />
+		<modelAnswer>World Indoor Bowls Singles champions</modelAnswer>
+		<list1>BOWL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Marshall" />
+		<gridItem answer="Norfolk" />
+		<gridItem answer="Solomon" />
+		<gridItem answer="Cook" />
+		<modelAnswer>Island groups in Oceania</modelAnswer>
+		<list1>OCEAN*,ISLAND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Islands" />
+		<gridItem answer="Fire" />
+		<gridItem answer="Takeover" />
+		<gridItem answer="Advice" />
+		<modelAnswer>Friendly ____</modelAnswer>
+		<list1>FRIEND*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Caroline" />
+		<gridItem answer="In the Army Now" />
+		<gridItem answer="Down Down" />
+		<gridItem answer="Rain" />
+		<modelAnswer>Status Quo singles</modelAnswer>
+		<list1>QUO</list1>
+		<list2></list2>
+	</answers>
+</data>

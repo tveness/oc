@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bell" />
+		<gridItem answer="Martello" />
+		<gridItem answer="Ivory" />
+		<gridItem answer="Conning" />
+		<modelAnswer>____ tower</modelAnswer>
+		<list1>TOWER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mark" />
+		<gridItem answer="Lookout" />
+		<gridItem answer="Roper" />
+		<gridItem answer="Shill" />
+		<modelAnswer>Participants in a scam</modelAnswer>
+		<list1>SCAM*,RACKET*,FRAUD*,FIDDLE*,DECEPT*,TRICK*,DODGE*,SCHEM*,CON,RIP-OFF,RIPOFF</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brockman" />
+		<gridItem answer="Medford" />
+		<gridItem answer="Royle" />
+		<gridItem answer="Good" />
+		<modelAnswer>Families in British sitcoms</modelAnswer>
+		<list1>FAMIL*,RELATIV*,HOUSEHOLD*,KIN,SURNAME*,CLAN*</list1>
+		<list2>SIT-COM,SITCOM,COMEDY,TV,TELEV*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bucket" />
+		<gridItem answer="Trotter" />
+		<gridItem answer="Kranky" />
+		<gridItem answer="Wormwood" />
+		<modelAnswer>Roald Dahl protagonists</modelAnswer>
+		<list1>DAHL</list1>
+		<list2></list2>
+	</answers>
+</data>

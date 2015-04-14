@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Etch" />
+		<gridItem answer="Hamm" />
+		<gridItem answer="Rex" />
+		<gridItem answer="Woody" />
+		<modelAnswer>‘Toy Story’ characters</modelAnswer>
+		<list1>TOY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Viral" />
+		<gridItem answer="Buzz" />
+		<gridItem answer="Live-in" />
+		<gridItem answer="Guerilla" />
+		<modelAnswer>Forms of marketing</modelAnswer>
+		<list1>MARKET*,SALE*,SELL*,PROMOT*,PUBLIC*,ADVERT*,DISTRIB*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Corbis" />
+		<gridItem answer="Getty" />
+		<gridItem answer="Magnum" />
+		<gridItem answer="Alamy" />
+		<modelAnswer>Photo agencies</modelAnswer>
+		<list1>AGENCY,AGENCIES,PHOTO*,PICTURE*,CLIP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Marlowe" />
+		<gridItem answer="Poirot" />
+		<gridItem answer="Spade" />
+		<gridItem answer="Queen" />
+		<modelAnswer>Fictional private investigators</modelAnswer>
+		<list1>PI,PRIVATE,INVESTIGAT*,DICK*,DETECTIVE*,TEC,SLEUTH*,GUMSHOE*</list1>
+		<list2></list2>
+	</answers>
+</data>

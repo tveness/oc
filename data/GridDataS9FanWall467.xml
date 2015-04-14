@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+ 	<answers>
+		<gridItem answer="Honey" />
+		<gridItem answer="Craftwork" />
+		<gridItem answer="Sweetener" />
+		<gridItem answer="Apennines" />
+		<modelAnswer>Words that contain numbers</modelAnswer>
+		<list1>NUMBER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Butter" />
+		<gridItem answer="Marmite" />
+		<gridItem answer="Jam" />
+		<gridItem answer="Beans" />
+		<modelAnswer>Foods that can go on toast</modelAnswer>
+		<list1>TOAST*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Marmalade" />
+		<gridItem answer="Traffic" />
+		<gridItem answer="Cream" />
+		<gridItem answer="Small Faces" />
+		<modelAnswer>Bands popular in the 1960s</modelAnswer>
+		<list1>BAND*,GROUP*,MUSIC*,ACT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Grampian" />
+		<gridItem answer="Jura" />
+		<gridItem answer="Alps" />
+		<gridItem answer="Pyrenees" />
+		<modelAnswer>European mountain ranges</modelAnswer>
+		<list1>MOUNTAIN*</list1>
+		<list2></list2>
+	</answers>
+</data>

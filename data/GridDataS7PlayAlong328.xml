@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Caesars Palace" />
+		<gridItem answer="Paul Ricard" />
+		<gridItem answer="Aintree" />
+		<gridItem answer="Monaco" />
+		<modelAnswer>Formula 1 Grand Prix venues</modelAnswer>
+		<list1>F1,FORMULA,PRIX</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jealousy" />
+		<gridItem answer="Britt Reid" />
+		<gridItem answer="Vermont" />
+		<gridItem answer="Absinthe" />
+		<modelAnswer>Associated with the colour green</modelAnswer>
+		<list1>GREEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Guy" />
+		<gridItem answer="Pyre" />
+		<gridItem answer="Christmas pudding" />
+		<gridItem answer="Chametz" />
+		<modelAnswer>Celemonially set on fire</modelAnswer>
+		<list1>FIRE*,BURN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Black Jack" />
+		<gridItem answer="Fennel" />
+		<gridItem answer="Gunpowder Kali" />
+		<gridItem answer="Sambuca" />
+		<modelAnswer>Aniseed-flavoured</modelAnswer>
+		<list1>ANISE*,LIQUOR*</list1>
+		<list2></list2>
+	</answers>
+</data>

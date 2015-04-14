@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Haworth Parsonage" />
+		<gridItem answer="Dove Cottage" />
+		<gridItem answer="Max Gate" />
+		<gridItem answer="Abbotsford" />
+		<modelAnswer>Houses of writers</modelAnswer>
+		<list1>WRITE*,AUTHOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Duck" />
+		<gridItem answer="Drill" />
+		<gridItem answer="Seersucker" />
+		<gridItem answer="Moleskin" />
+		<modelAnswer>Cotton fabrics</modelAnswer>
+		<list1>COTTON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Eider" />
+		<gridItem answer="Goldeneye" />
+		<gridItem answer="Scoter" />
+		<gridItem answer="Smew" />
+		<modelAnswer>Ducks</modelAnswer>
+		<list1>DUCK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Swan" />
+		<gridItem answer="Steven" />
+		<gridItem answer="Want" />
+		<gridItem answer="Burn" />
+		<modelAnswer>English places called ____age</modelAnswer>
+		<list1>AGE,TOWN*,PLACE*,LOCATION*,UK,BRIT*</list1>
+		<list2></list2>
+	</answers>
+</data>

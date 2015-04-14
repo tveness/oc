@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Shut Up" />
+		<gridItem answer="Michael Caine" />
+		<gridItem answer="House of Fun" />
+		<gridItem answer="Lovestruck" />
+		<modelAnswer>Songs by ‘Madness’</modelAnswer>
+		<list1>MADNESS*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Insurance" />
+		<gridItem answer="Benefit" />
+		<gridItem answer="Advance fee" />
+		<gridItem answer="Carousel" />
+		<modelAnswer>Types of fraud</modelAnswer>
+		<list1>FRAUD*,SWINDLE*,EMBEZZLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Teacups" />
+		<gridItem answer="Octopus" />
+		<gridItem answer="Waltzer" />
+		<gridItem answer="Pirate ship" />
+		<modelAnswer>Rides at a fairground</modelAnswer>
+		<list1>RIDE*,FAIR*,FUNFAIR,CARNIVAL,AMUSEMENT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jel" />
+		<gridItem answer="Mayja" />
+		<gridItem answer="Reem" />
+		<gridItem answer="Vajazzle" />
+		<modelAnswer>‘The Only Way is Essex’ slang</modelAnswer>
+		<list1>TOWIE,ESSEX</list1>
+		<list2></list2>
+	</answers>
+</data>

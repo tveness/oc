@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Flannel" />
+		<gridItem answer="Flummery" />
+		<gridItem answer="Puff" />
+		<gridItem answer="Soft soap" />
+		<modelAnswer>Forms of flattery</modelAnswer>
+		<list1>FLATTER*,ADULAT*,PRAISE*,BLARNEY,COMPLIM*,FAWN*,TOADY*,SERVILITY,BUTTELR,FLEECH*,SYCOPHANCY,SWEET TALK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ante" />
+		<gridItem answer="Creek" />
+		<gridItem answer="Junction" />
+		<gridItem answer="Aisle" />
+		<modelAnswer>Up the ____</modelAnswer>
+		<list1>UP</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cobbler" />
+		<gridItem answer="Charlotte" />
+		<gridItem answer="Sponge" />
+		<gridItem answer="Duff" />
+		<modelAnswer>Hot puddings</modelAnswer>
+		<list1>PUD*,DESSERT*,SWEET*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beater" />
+		<gridItem answer="Tao" />
+		<gridItem answer="Pie" />
+		<gridItem answer="Sigh" />
+		<modelAnswer>Sound like Greek letters</modelAnswer>
+		<list1>GREEK*,LETTER*</list1>
+		<list2></list2>
+	</answers>
+</data>

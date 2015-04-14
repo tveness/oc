@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Franks" />
+		<gridItem answer="Wolfenden" />
+		<gridItem answer="Hutton" />
+		<gridItem answer="Taylor" />
+		<modelAnswer>Major UK government reports</modelAnswer>
+		<list1>REPORT*,GOVERNMENT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Butler" />
+		<gridItem answer="Wilkes" />
+		<gridItem answer="O'Hara" />
+		<gridItem answer="Hamilton" />
+		<modelAnswer>Characters in 'Gone with the Wind'</modelAnswer>
+		<list1>WIND*,MITCHELL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Valet" />
+		<gridItem answer="Footman" />
+		<gridItem answer="Char" />
+		<gridItem answer="Nanny" />
+		<modelAnswer>Domestic servants</modelAnswer>
+		<list1>SERVANT*,HELP*,HOME*,HOUSE*,HANDMAID*,ATTEND*,HIRE*,ASSIST*,STAFF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Brew" />
+		<gridItem answer="Stroupach" />
+		<gridItem answer="Rosie" />
+		<gridItem answer="Cuppa" />
+		<modelAnswer>A drink of tea</modelAnswer>
+		<list1>TEA*,TISANE*,CHA*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Leander" />
+		<gridItem answer="Flower" />
+		<gridItem answer="Duke" />
+		<gridItem answer="Algerine" />
+		<modelAnswer>Classes of Royal Navy warships</modelAnswer>
+		<list1>NAVY,RN,WARSHIP*,WAR SHIP*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sea" />
+		<gridItem answer="Reward" />
+		<gridItem answer="Black" />
+		<gridItem answer="Civil" />
+		<modelAnswer>Types of power</modelAnswer>
+		<list1>POWER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Curlew" />
+		<gridItem answer="Cygnet" />
+		<gridItem answer="Marlow" />
+		<gridItem answer="Molesey" />
+		<modelAnswer>Thames rowing clubs</modelAnswer>
+		<list1>ROW*,BOAT*,CANOE*,SKIFF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Criminal " />
+		<gridItem answer="Common" />
+		<gridItem answer="Property" />
+		<gridItem answer="Canon" />
+		<modelAnswer>____ law</modelAnswer>
+		<list1>LAW*,LEGAL*</list1>
+		<list2></list2>
+	</answers>
+</data>

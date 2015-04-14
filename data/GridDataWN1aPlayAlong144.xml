@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Georgia" />
+		<gridItem answer="Courier" />
+		<gridItem answer="Baskerville" />
+		<gridItem answer="Garamond" />
+		<modelAnswer>Popular typefaces</modelAnswer>
+		<list1>FONT*,FOUNT,LETTER*,CHARACTER*,TYPE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="HMRC" />
+		<gridItem answer="Catchpole" />
+		<gridItem answer="Publican" />
+		<gridItem answer="St Matthew" />
+		<modelAnswer>Tax collectors</modelAnswer>
+		<list1>TAX*,LEVY,DUTY,DUTIES,CUSTOMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Malone" />
+		<gridItem answer="Futtock" />
+		<gridItem answer="Fletcher" />
+		<gridItem answer="Arkwright" />
+		<modelAnswer>Ronnie Barker roles</modelAnswer>
+		<list1>BARKER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Wisdom" />
+		<gridItem answer="Mailer" />
+		<gridItem answer="Rockwell" />
+		<gridItem answer="Cook" />
+		<modelAnswer>Famous Normans</modelAnswer>
+		<list1>NORMAN*</list1>
+		<list2></list2>
+	</answers>
+</data>

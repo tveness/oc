@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Caspian" />
+		<gridItem answer="Igor" />
+		<gridItem answer="Charming" />
+		<gridItem answer="Escalus" />
+		<modelAnswer>Characters who are princes</modelAnswer>
+		<list1>PRINCE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Central" />
+		<gridItem answer="Anglia" />
+		<gridItem answer="Yorkshire" />
+		<gridItem answer="Meridian" />
+		<modelAnswer>ITV franchises</modelAnswer>
+		<list1>ITV,TV,TELLY,TELEVISION,FRANCHISE*,CHANNEL*,INDEPENDENT,STATION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Otto" />
+		<gridItem answer="Hyde" />
+		<gridItem answer="Flint" />
+		<gridItem answer="Balfour" />
+		<modelAnswer>Robert Louis Stevenson characters</modelAnswer>
+		<list1>STEVENSON</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Patton" />
+		<gridItem answer="Lee" />
+		<gridItem answer="Sherman" />
+		<gridItem answer="MacArthur" />
+		<modelAnswer>Famous US Generals</modelAnswer>
+		<list1>GENERAL*,ARMY,LEADER*,COMMANDER*,OFFICER*,CHIEF*</list1>
+		<list2></list2>
+	</answers>
+</data>

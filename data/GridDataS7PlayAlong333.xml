@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Clontarf" />
+		<gridItem answer="Bosworth" />
+		<gridItem answer="Crécy" />
+		<gridItem answer="Flodden" />
+		<modelAnswer>Battles in which monarchs were killed</modelAnswer>
+		<list1>BATTLE*,KING*,MEDIEVAL,MEDIAEVAL</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Paterson" />
+		<gridItem answer="Irvine" />
+		<gridItem answer="Hastings" />
+		<gridItem answer="Sole" />
+		<modelAnswer>Scottish rugby union internationals</modelAnswer>
+		<list1>RUGBY</list1>
+		<list2>SCOTLAND,SCOTTISH</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Whiz" />
+		<gridItem answer="Shark" />
+		<gridItem answer="Maestro" />
+		<gridItem answer="Maven" />
+		<modelAnswer>Experts</modelAnswer>
+		<list1>EXPERT*,SPECIAL*,MASTER*,PRO,PROFESSION*,VIRTUOSO*,PROFICIENT*,COGNOSC*,EGGHEAD*,BOFFIN*,WISE*,CLEVER*,ADEPT*,KNOW*,ABLE*,EXPERIEN*,ACCOMP*,BRILLIAN*,QUALIF*,ACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dab" />
+		<gridItem answer="Flounder" />
+		<gridItem answer="Brill" />
+		<gridItem answer="Megrim" />
+		<modelAnswer>Flatfish</modelAnswer>
+		<list1>FLATFISH,FISH*,FLAT</list1>
+		<list2></list2>
+	</answers>
+</data>

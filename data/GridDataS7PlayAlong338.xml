@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Higher" />
+		<gridItem answer="SAT" />
+		<gridItem answer="Tripos" />
+		<gridItem answer="Viva" />
+		<modelAnswer>Examinations</modelAnswer>
+		<list1>EXAM*,TEST*,EXERCISE*,QUIZ*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Finland" />
+		<gridItem answer="Henry Kissinger" />
+		<gridItem answer="Oliver Cromwell" />
+		<gridItem answer="Decomposing Composers" />
+		<modelAnswer>Monty Python songs</modelAnswer>
+		<list1>PYTHON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Adolf Hitler" />
+		<gridItem answer="The Protester" />
+		<gridItem answer="You" />
+		<gridItem answer="Elizabeth II" />
+		<modelAnswer>Time magazine ‘Person of the Year’ winners</modelAnswer>
+		<list1>TIME,YEAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Knowledge" />
+		<gridItem answer="ES" />
+		<gridItem answer="Luxx" />
+		<gridItem answer="Fabulous" />
+		<modelAnswer>Magazine supplements of UK newspapers</modelAnswer>
+		<list1>MAGAZINE*,SUPPLEMENT*,GLOSS*,MAGS,NEWSPAPER*</list1>
+		<list2></list2>
+	</answers>
+</data>

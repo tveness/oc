@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Glace" />
+		<gridItem answer="Éclair" />
+		<gridItem answer="Vent" />
+		<gridItem answer="Neige" />
+		<modelAnswer>Weather conditions in French</modelAnswer>
+		<list1>WEATHER,FRENCH,FRANCE,METEOR*,CONDITION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Breast" />
+		<gridItem answer="Pocket" />
+		<gridItem answer="Lapel" />
+		<gridItem answer="Cuff" />
+		<modelAnswer>Parts of a jacket</modelAnswer>
+		<list1>JACKET*,COAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Shaft" />
+		<gridItem answer="Rockford" />
+		<gridItem answer="Ironside" />
+		<gridItem answer="Cannon" />
+		<modelAnswer>US TV detectives of the 1970s</modelAnswer>
+		<list1>DETECTIVE*,PRIVATE,DICK*,INVESTIGAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Baulk" />
+		<gridItem answer="Bridge" />
+		<gridItem answer="Plant" />
+		<gridItem answer="Kiss" />
+		<modelAnswer>Snooker terms</modelAnswer>
+		<list1>SNOOKER,BILLIARDS,CUE,POOL</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Rhodes" />
+		<gridItem answer="Beaton" />
+		<gridItem answer="DeMille" />
+		<gridItem answer="Day-Lewis" />
+		<modelAnswer>Famous Cecils</modelAnswer>
+		<list1>CECIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Travesties" />
+		<gridItem answer="Arcadia" />
+		<gridItem answer="The Real Thing" />
+		<gridItem answer="Jumpers" />
+		<modelAnswer>Tom Stoppard plays</modelAnswer>
+		<list1>STOPPARD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cos" />
+		<gridItem answer="Iceberg" />
+		<gridItem answer="Batavian" />
+		<gridItem answer="Lollo Rosso" />
+		<modelAnswer>Varieties of lettuce</modelAnswer>
+		<list1>LETTUCE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ithaca" />
+		<gridItem answer="Paxos" />
+		<gridItem answer="Lefkada" />
+		<gridItem answer="Euboea" />
+		<modelAnswer>Greek islands</modelAnswer>
+		<list1>MEDIT*,GREEK,GREECE,IONIAN*</list1>
+		<list2>ISLAND*,ISLE*,ARCHIPEL*</list2>
+	</answers>
+</data>

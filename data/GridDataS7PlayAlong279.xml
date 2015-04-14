@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Clegg" />
+		<gridItem answer="Eden" />
+		<gridItem answer="Butler" />
+		<gridItem answer="Attlee" />
+		<modelAnswer>Deputy Prime Ministers</modelAnswer>
+		<list1>PM,PRIME*</list1>
+		<list2>DEPUTY</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Babylon" />
+		<gridItem answer="Kew" />
+		<gridItem answer="Monet" />
+		<gridItem answer="Versailles" />
+		<modelAnswer>Famous gardens</modelAnswer>
+		<list1>GARDEN*,HORTICUL*,PARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lessing" />
+		<gridItem answer="Morrison" />
+		<gridItem answer="Jelinek" />
+		<gridItem answer="Buck" />
+		<modelAnswer>Female winners of the Nobel Literature Prize</modelAnswer>
+		<list1>NOBEL,LAUREAT*</list1>
+		<list2>LITERATURE,FEMALE,WOMEN</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hat" />
+		<gridItem answer="Torch" />
+		<gridItem answer="Parcel" />
+		<gridItem answer="Baton" />
+		<modelAnswer>Things that are passed</modelAnswer>
+		<list1>PASS*</list1>
+		<list2></list2>
+	</answers>
+</data>

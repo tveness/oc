@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Kim" />
+		<gridItem answer="Captains Courageous" />
+		<gridItem answer="If" />
+		<gridItem answer="Gunga Din" />
+		<modelAnswer>Works by Rudyard Kipling</modelAnswer>
+		<list1>KIPLING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Beano" />
+		<gridItem answer="Session" />
+		<gridItem answer="Binge" />
+		<gridItem answer="Bender" />
+		<modelAnswer>Drinking sprees</modelAnswer>
+		<list1>SPREE*,BOUT*,DO,DOS,BLOW*,DRINK*,DRUNK*,INDULG*,BOOZ*,CAROUS*,ALCOHOL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rem" />
+		<gridItem answer="Data" />
+		<gridItem answer="Print" />
+		<gridItem answer="Goto" />
+		<modelAnswer>Keywords in the BASIC computer language</modelAnswer>
+		<list1>BASIC,PROGRAM*,COMPUTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rosey" />
+		<gridItem answer="Bishop" />
+		<gridItem answer="GLaDOS" />
+		<gridItem answer="Metal Mickey" />
+		<modelAnswer>Fictional robots</modelAnswer>
+		<list1>ROBOT*,COMPUTER*,AUTOMAT*,MACHINE*,ANDROID*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Prime" />
+		<gridItem answer="Square" />
+		<gridItem answer="Cube" />
+		<gridItem answer="Irrational" />
+		<modelAnswer>Types of numbers</modelAnswer>
+		<list1>NUMBER,MATHEMATICS,MATHEMATICAL,MATHS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Presto" />
+		<gridItem answer="Piano" />
+		<gridItem answer="Largo" />
+		<gridItem answer="Grave" />
+		<modelAnswer>Musical directions</modelAnswer>
+		<list1>DIRECTION,DYNAMIC,INSTRUCTION,SCORE,SHEET,TERM</list1>
+		<list2>MUSIC</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Anvil" />
+		<gridItem answer="Stirrup" />
+		<gridItem answer="Hammer" />
+		<gridItem answer="Tympanum" />
+		<modelAnswer>Parts of the ear</modelAnswer>
+		<list1>EAR,HEAR,LISTEN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Integral" />
+		<gridItem answer="Triangle" />
+		<gridItem answer="Altering" />
+		<gridItem answer="Relating" />
+		<modelAnswer>Anagrams of each other</modelAnswer>
+		<list1>ANAGRAM,LETTER,REARRANGE,MIX,REORDER,ORDER,SHUFFLE,CHANGE</list1>
+		<list2></list2>
+	</answers>
+</data>

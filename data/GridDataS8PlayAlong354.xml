@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Smith and Wesson" />
+		<gridItem answer="Weatherby" />
+		<gridItem answer="Winchester" />
+		<gridItem answer="Ruger" />
+		<modelAnswer>Brands of firearms</modelAnswer>
+		<list1>FIREARM*,GUN*,RIFLE*,WEAPON*,SHOOT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Portsmouth" />
+		<gridItem answer="Blue Peter" />
+		<gridItem answer="Sentinel" />
+		<gridItem answer="Moonlight Shadow" />
+		<modelAnswer>Mike Oldfield singles</modelAnswer>
+		<list1>OLDFIELD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fleet" />
+		<gridItem answer="Aldershot" />
+		<gridItem answer="Alton" />
+		<gridItem answer="Ringwood" />
+		<modelAnswer>Places in Hampshire</modelAnswer>
+		<list1>HANTS,HAMPSHIRE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tiranga" />
+		<gridItem answer="Old Glory" />
+		<gridItem answer="Jolly Roger" />
+		<gridItem answer="Maple Leaf" />
+		<modelAnswer>Flags</modelAnswer>
+		<list1>FLAG*,COLOUR*,VEXIL*,ENSIGN*</list1>
+		<list2></list2>
+	</answers>
+</data>

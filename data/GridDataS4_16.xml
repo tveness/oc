@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Maze" />
+		<gridItem answer="Fifteen" />
+		<gridItem answer="Petrus" />
+		<gridItem answer="Sketch" />
+		<modelAnswer>London restaurants</modelAnswer>
+		<list1>RESTAURANT*,EAT*,FOOD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ivy" />
+		<gridItem answer="Rugby" />
+		<gridItem answer="Major" />
+		<gridItem answer="Arab" />
+		<modelAnswer>____ League</modelAnswer>
+		<list1>LEAGUE,LEAGUES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Medoc"/>
+		<gridItem answer="Sauternes" />
+		<gridItem answer="Cadillac" />
+		<gridItem answer="Pomerol" />
+		<modelAnswer>Bordeaux wine regions</modelAnswer>
+		<list1>BORDEAU*,FRENCH,FRANCE</list1>
+		<list2>WINE*,GRAPE*,REGION*,VINEYARD*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Buick" />
+		<gridItem answer="GMC" />
+		<gridItem answer="Opel" />
+		<gridItem answer="Vauxhall" />
+		<modelAnswer>Marques owned by General Motors</modelAnswer>
+		<list1>CAR*,AUTO*,VEHICLE*,MARQUE*,MOTOR*,GENERAL MOTORS,GM,G.M.</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Kabocha" />
+		<gridItem answer="Courgette" />
+		<gridItem answer="Pumpkin" />
+		<gridItem answer="Gourd" />
+		<modelAnswer>Members of the squash family</modelAnswer>
+		<list1>SQUASH*,CUCURB*,MARROW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Aubergine" />
+		<gridItem answer="Autumn" />
+		<gridItem answer="Trousers" />
+		<gridItem answer="Lorry" />
+		<modelAnswer>Called something different in the US</modelAnswer>
+		<list1>US,USA,AMERICA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Combs" />
+		<gridItem answer="Marrow" />
+		<gridItem answer="Broadus" />
+		<gridItem answer="Wallace" />
+		<modelAnswer>Real surnames of rappers</modelAnswer>
+		<list1>RAP,RAPPER*,RNB,RHYTHM</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Love" />
+		<gridItem answer="Mathers" />
+		<gridItem answer="Art" />
+		<gridItem answer="Moues" />
+		<modelAnswer>Anagrams of rodents</modelAnswer>
+		<list1>RODENT*,RAT*,MOUSE*,ANAGRAM*</list1>
+		<list2></list2>
+	</answers>
+</data>

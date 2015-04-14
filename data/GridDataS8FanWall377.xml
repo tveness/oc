@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Blintz" />
+		<gridItem answer="Fish" />
+		<gridItem answer="Square" />
+		<gridItem answer="Waterbomb" />
+		<modelAnswer>Basic origami folds</modelAnswer>
+		<list1>ORIGAMI*,FOLD*,PAPER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parallelogram" />
+		<gridItem answer="Rectangle" />
+		<gridItem answer="Rhombus" />
+		<gridItem answer="Trapezium" />
+		<modelAnswer>Four-sided shapes</modelAnswer>
+		<list1>QUADRIL*,FOUR,PLANE,GEOMET*,2D,SHAPE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crane" />
+		<gridItem answer="Kite" />
+		<gridItem answer="Love" />
+		<gridItem answer="Woods" />
+		<modelAnswer>Male US golfers</modelAnswer>
+		<list1>GOLF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Advance" />
+		<gridItem answer="Blast" />
+		<gridItem answer="Chaos" />
+		<gridItem answer="Rush" />
+		<modelAnswer>Sonic the Hedgehog computer games</modelAnswer>
+		<list1>SONIC*</list1>
+		<list2></list2>
+	</answers>
+</data>

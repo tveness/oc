@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data>
+
+<answers>
+
+	<gridItem answer="Lynda Day" />
+
+	<gridItem answer="George Dent" />
+	<gridItem answer="Sarah Jane Smith" />
+	<gridItem answer="Bridget Jones" />
+
+	<modelAnswer>Fictional journalists</modelAnswer>
+
+	<list1>JOURNAL*,WRITE*,REPORT*,NEWS*,CORRESPOND*,EDITOR*,PRESS*,FEATURE*,HACK*,JOURNO*</list1>
+
+	<list2></list2>
+</answers>
+
+<answers>
+	<gridItem answer="Rory Williams" />
+	<gridItem answer="Charlie Fairhead" />
+
+	<gridItem answer="Christine Chapel" />
+	<gridItem answer="Jackie Peyton" />
+
+	<modelAnswer>Fictional nurses</modelAnswer>
+
+	<list1>NURSE*</list1>
+	<list2></list2>
+</answers>
+<answers>
+	<gridItem answer="Adrian Mole" />
+
+	<gridItem answer="Charles Pooter" />
+
+	<gridItem answer="Greg Heffley" />
+
+	<gridItem answer="Mia Thermopolis" />
+
+	<modelAnswer>Fictional diarists</modelAnswer>
+	<list1>DIARY*,JOURNALS,CHRONICL*,MEMOIR*</list1>
+	<list2></list2>
+</answers>
+
+<answers>
+
+	<gridItem answer="Martha Jones" />
+	<gridItem answer="Nick Jordan" />
+
+	<gridItem answer="Karl Kennedy" />
+
+	<gridItem answer="Harold Legg" />
+
+	<modelAnswer>Fictional doctors</modelAnswer>
+
+	<list1>DOC*,MEDIC*,GP,HOSPITAL*,PHYSICIAN*,MEDICAL*,CLINIC*,MEDICINE*</list1>
+
+	<list2></list2>
+
+</answers>
+
+</data>

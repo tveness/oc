@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Solo" />
+		<gridItem answer="Jones" />
+		<gridItem answer="Deckard" />
+		<gridItem answer="Ryan" />
+		<modelAnswer>Characters played by Harrison Ford</modelAnswer>
+		<list1>FORD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="High" />
+		<gridItem answer="Fish" />
+		<gridItem answer="Start" />
+		<gridItem answer="Buttress" />
+		<modelAnswer>Flying ____</modelAnswer>
+		<list1>FLYING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Smith" />
+		<gridItem answer="Johnston" />
+		<gridItem answer="Tomlinson" />
+		<gridItem answer="Cash" />
+		<modelAnswer>'Royle Family' actors</modelAnswer>
+		<list1>ROYLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ahern" />
+		<gridItem answer="Kenny" />
+		<gridItem answer="Cowen" />
+		<gridItem answer="Bruton" />
+		<modelAnswer>Irish Taoiseachs (since 1994)</modelAnswer>
+		<list1>IRELAND*,TAOIS*,IRISH,PRIME MINISTER*,PM,PMS</list1>
+		<list2></list2>
+	</answers>
+</data>

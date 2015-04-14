@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Wiseman" />
+		<gridItem answer="Bond" />
+		<gridItem answer="Booth" />
+		<gridItem answer="Cox" />
+		<modelAnswer>Generals of the Salvation Army</modelAnswer>
+		<list1>SALVATION*,SALLY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Moneypenny" />
+		<gridItem answer="Goldfinger" />
+		<gridItem answer="Solitaire" />
+		<gridItem answer="Blofeld" />
+		<modelAnswer>James Bond characters</modelAnswer>
+		<list1>BOND*,FLEMING*,007</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pink Lady" />
+		<gridItem answer="Granny Smith" />
+		<gridItem answer="Fuji" />
+		<gridItem answer="Braeburn" />
+		<modelAnswer>Varieties of apple</modelAnswer>
+		<list1>APPLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gear" />
+		<gridItem answer="Gun" />
+		<gridItem answer="Cat" />
+		<gridItem answer="Hat" />
+		<modelAnswer>Films or TV series called 'Top ____'</modelAnswer>
+		<list1>TOP*</list1>
+		<list2></list2>
+	</answers>
+</data>

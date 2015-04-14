@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Rain"/>
+		<gridItem answer="Moan"/>
+		<gridItem answer="Mail"/>
+		<gridItem answer="Pure"/>
+		<modelAnswer>Anagrams of country names</modelAnswer>
+		<list1>COUNTR*, NATION*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Cache"/>
+		<gridItem answer="Stock"/>
+		<gridItem answer="Reserve"/>
+		<gridItem answer="Hoard"/>
+		<modelAnswer>Stores of things</modelAnswer>
+		<list1>STOR*,SUPPL*,STASH*,AMASS*,COLLECT*,PILE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Smoke"/>
+		<gridItem answer="Store"/>
+		<gridItem answer="Gang"/>
+		<gridItem answer="Letter"/>
+		<modelAnswer>Chain…</modelAnswer>
+		<list1>CHAIN*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Grouse"/>
+		<gridItem answer="Whine"/>
+		<gridItem answer="Beef"/>
+		<gridItem answer="Gripe"/>
+		<modelAnswer>Complaints</modelAnswer>
+		<list1>COMPLAIN*,MOAN*,WHING*,NAG*,CRITIC*,GRUMBL*,OBJECT*,OPPOS*,DISAGR*,GRIEV*,PROTEST*,ARGU*,ANNOY*</list1>
+		<list2></list2>
+	</answers></data>

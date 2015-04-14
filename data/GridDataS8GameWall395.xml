@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Reach" />
+		<gridItem answer="Natural" />
+		<gridItem answer="Have You Ever" />
+		<gridItem answer="You" />
+		<modelAnswer>S Club 7 singles</modelAnswer>
+		<list1>CLUB</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ancient" />
+		<gridItem answer="Social" />
+		<gridItem answer="Case" />
+		<gridItem answer="Oral" />
+		<modelAnswer>____ history</modelAnswer>
+		<list1>HISTORY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Block" />
+		<gridItem answer="Period" />
+		<gridItem answer="Family" />
+		<gridItem answer="Group" />
+		<modelAnswer>Divisions of the Periodic Table</modelAnswer>
+		<list1>PERIODIC*,CHEMIC*,CHEMIS*,ELEMENT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Partition" />
+		<gridItem answer="Cluster" />
+		<gridItem answer="Sector" />
+		<gridItem answer="Track" />
+		<modelAnswer>Sections of a hard disk</modelAnswer>
+		<list1>COMPUTER*,DATA,HARD,DISC*,DISK*,DRIVE*</list1>
+		<list2></list2>
+	</answers>
+</data>

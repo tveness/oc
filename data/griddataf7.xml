@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="London" />
+		<gridItem answer="Plymouth" />
+		<gridItem answer="Holland" />
+		<gridItem answer="Old Tom" />
+		<modelAnswer>Types of gin</modelAnswer>
+		<list1>GIN,ALCOHOL,SPIRIT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Monk" />
+		<gridItem answer="Hancock" />
+		<gridItem answer="Tatum" />
+		<gridItem answer="Waller" />
+		<modelAnswer>Jazz pianists</modelAnswer>
+		<list1>JAZZ,PIANIST,PIANO,KEYBOARD</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mandarin" />
+		<gridItem answer="Windsor" />
+		<gridItem answer="Eton" />
+		<gridItem answer="Butterfly" />
+		<modelAnswer>Styles of collar</modelAnswer>
+		<list1>COLLAR,SHIRT,NECK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Burgundy" />
+		<gridItem answer="Venetian" />
+		<gridItem answer="Cardinal" />
+		<gridItem answer="Rust" />
+		<modelAnswer>Shades of red</modelAnswer>
+		<list1>RED,BLOOD,CRIMSON,MAGENTA,PINK,ROSE,RUBY,ROSY,SCARLET,RUSSET,RUDDY</list1>
+		<list2></list2>
+	</answers>
+</data>

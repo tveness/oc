@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="House" />
+		<gridItem answer="Kildare" />
+		<gridItem answer="Martin" />
+		<gridItem answer="Quinn" />
+		<modelAnswer>TV doctors</modelAnswer>
+		<list1>DOCTOR,SURGEON,PHYSICIAN,DOCS,MEDIC</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cork" />
+		<gridItem answer="Cinnamon" />
+		<gridItem answer="Quinine" />
+		<gridItem answer="Aspirin" />
+		<modelAnswer>Derived from tree bark</modelAnswer>
+		<list1>TREE,WOOD,TIMBER,BARK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chapter" />
+		<gridItem answer="Wendy" />
+		<gridItem answer="Opera" />
+		<gridItem answer="Acid" />
+		<modelAnswer>____ house</modelAnswer>
+		<list1>HOUSE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mahogany" />
+		<gridItem answer="Buff" />
+		<gridItem answer="Chestnut" />
+		<gridItem answer="Bronze" />
+		<modelAnswer>Shades of brown</modelAnswer>
+		<list1>BROWN,ORANGE</list1>
+		<list2></list2>
+	</answers>
+</data>

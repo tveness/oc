@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Sport Relief" />
+		<gridItem answer="Curry" />
+		<gridItem answer="Golden" />
+		<gridItem answer="Rowley" />
+		<modelAnswer>Famous ‘miles’</modelAnswer>
+		<list1>MILE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rooney" />
+		<gridItem answer="Beckham" />
+		<gridItem answer="Button" />
+		<gridItem answer="Murray" />
+		<modelAnswer>Stars that Smithy (James Corden) ‘trained’</modelAnswer>
+		<list1>CORDEN,SMITHY,SMIFFY,GAVIN,STACEY,SPORTSMEN,STAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Table" />
+		<gridItem answer="Lawn" />
+		<gridItem answer="Deck" />
+		<gridItem answer="Royal" />
+		<modelAnswer>Forms of tennis</modelAnswer>
+		<list1>TENNIS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gold" />
+		<gridItem answer="Jack" />
+		<gridItem answer="Bull" />
+		<gridItem answer="Stake" />
+		<modelAnswer>Target objects in various sports</modelAnswer>
+		<list1>TARGET*,AIM,GOAL,OBJECT*,DESTIN*,DIRECT*,SHOOT*,SIGHT*</list1>
+		<list2></list2>
+	</answers>
+</data>

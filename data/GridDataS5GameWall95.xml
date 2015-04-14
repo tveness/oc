@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Ortega" />
+		<gridItem answer="Balanchine" />
+		<gridItem answer="Fosse" />
+		<gridItem answer="Graham" />
+		<modelAnswer>Choreographers</modelAnswer>
+		<list1>DANC*,CHOREO*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chinchilla" />
+		<gridItem answer="Fitch" />
+		<gridItem answer="Mink" />
+		<gridItem answer="Sable" />
+		<modelAnswer>Furs</modelAnswer>
+		<list1>FUR*,SKIN*,HAIR,HIDE*,PELT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ermine" />
+		<gridItem answer="Akeman" />
+		<gridItem answer="Dere" />
+		<gridItem answer="Watling" />
+		<modelAnswer>Roman streets in Britain</modelAnswer>
+		<list1>ROMAN*,STREET*,STRATA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Azure" />
+		<gridItem answer="Gules" />
+		<gridItem answer="Sanguine" />
+		<gridItem answer="Purpure" />
+		<modelAnswer>Heraldic colours</modelAnswer>
+		<list1>HERALD*,COLOUR*,TINCT*,BLAZON*</list1>
+		<list2></list2>
+	</answers>
+</data>

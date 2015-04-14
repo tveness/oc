@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Wilson" />
+		<gridItem answer="Jones" />
+		<gridItem answer="Godfrey" />
+		<gridItem answer="Pike" />
+		<modelAnswer>Characters in ‘Dad's Army’</modelAnswer>
+		<list1>ARMY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Carp" />
+		<gridItem answer="Perch" />
+		<gridItem answer="Tench" />
+		<gridItem answer="Roach" />
+		<modelAnswer>Freshwater fish</modelAnswer>
+		<list1>FISH,FISHES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bream" />
+		<gridItem answer="Williams" />
+		<gridItem answer="Romero" />
+		<gridItem answer="Segovia" />
+		<modelAnswer>Classical guitarists</modelAnswer>
+		<list1>GUITAR*,INSTRUMENTAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stanley" />
+		<gridItem answer="Calcutta" />
+		<gridItem answer="Davis" />
+		<gridItem answer="World" />
+		<modelAnswer>Sports cups</modelAnswer>
+		<list1>CUP,CUPS,TROPHY,TROPHIES</list1>
+		<list2></list2>
+	</answers>
+</data>

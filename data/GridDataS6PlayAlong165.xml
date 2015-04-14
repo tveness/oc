@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Tatsuta" />
+		<gridItem answer="Maryland" />
+		<gridItem answer="Popcorn" />
+		<gridItem answer="Coronation" />
+		<modelAnswer>Chicken dishes</modelAnswer>
+		<list1>CHICK*,POULTRY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chart Throb" />
+		<gridItem answer="Meltdown" />
+		<gridItem answer="High Society" />
+		<gridItem answer="Gridlock" />
+		<modelAnswer>Ben Elton novels</modelAnswer>
+		<list1>ELTON*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Banner" />
+		<gridItem answer="Stark" />
+		<gridItem answer="Parker" />
+		<gridItem answer="Kent" />
+		<modelAnswer>Real surnames of superheroes</modelAnswer>
+		<list1>ALTER*,ALIAS*,SURNAME*,SUPERHERO*,HERO*,COMIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Floating" />
+		<gridItem answer="Keyword" />
+		<gridItem answer="Interstitial" />
+		<gridItem answer="Pop-up" />
+		<modelAnswer>Online adverts</modelAnswer>
+		<list1>ON-LINE,ONLINE,ADS,ADVERT*,INTERNET*,WEB,WEBSITE*</list1>
+		<list2></list2>
+	</answers>
+</data>

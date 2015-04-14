@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Figure" />
+		<gridItem answer="Roller" />
+		<gridItem answer="Speed" />
+		<gridItem answer="Ice" />
+		<modelAnswer>Types of skate</modelAnswer>
+		<list1>SKAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Schooner" />
+		<gridItem answer="Clipper" />
+		<gridItem answer="Felucca" />
+		<gridItem answer="Smack" />
+		<modelAnswer>Sailing ships</modelAnswer>
+		<list1>VESSEL*,SHIP*,SAIL*,BOAT*,CRAFT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Roo" />
+		<gridItem answer="Owl" />
+		<gridItem answer="Piglet" />
+		<gridItem answer="Eeyore" />
+		<modelAnswer>Winnie-The-Pooh characters</modelAnswer>
+		<list1>WINNIE*,POOH*,MILNE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cheap" />
+		<gridItem answer="Barque" />
+		<gridItem answer="Winnie" />
+		<gridItem answer="Coup" />
+		<modelAnswer>Sound like animal noises (cheep, coo etc.)</modelAnswer>
+		<list1>ANIMAL*,CREATURE*,NOISE*,HOMOPHONE*,SOUND*</list1>
+		<list2></list2>
+	</answers>
+</data>

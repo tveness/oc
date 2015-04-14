@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Pip" />
+		<gridItem answer="Estella" />
+		<gridItem answer="Magwitch" />
+		<gridItem answer="Pocket" />
+		<modelAnswer>Characters in 'Great Expectations'</modelAnswer>
+		<list1>DICKENS,GREAT EXPECTATIONS,ALL THE YEAR ROUND</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mason" />
+		<gridItem answer="Honey" />
+		<gridItem answer="Mining" />
+		<gridItem answer="Bumble" />
+		<modelAnswer>Varieties of bee</modelAnswer>
+		<list1>BEE,APIS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Level" />
+		<gridItem answer="Peep" />
+		<gridItem answer="Naan" />
+		<gridItem answer="Hannah" />
+		<modelAnswer>Palindromes</modelAnswer>
+		<list1>PALINDROME,PALINDROMIC,READ,WRITE,WRITTEN,SAME,BACKWARD,BACK,FRONT,FORWARD,EITHER,DIRECTION</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flour" />
+		<gridItem answer="Suet" />
+		<gridItem answer="Sixpence" />
+		<gridItem answer="Peel" />
+		<modelAnswer>Parts of a Christmas pudding</modelAnswer>
+		<list1>CHRISTMAS,FIGGY,SUET,PLUM,STEAM,XMAS</list1>
+		<list2>PUD,PUDDING</list2>
+	</answers>
+</data>

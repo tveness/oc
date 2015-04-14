@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Spenser" />
+		<gridItem answer="Lawrence" />
+		<gridItem answer="Pope" />
+		<gridItem answer="Pound" />
+		<modelAnswer>Famous poets</modelAnswer>
+		<list1>POET,WRITER,AUTHOR,POEM,BALLAD,BARD,LYRIST,ODIST</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Angel" />
+		<gridItem answer="Fairy" />
+		<gridItem answer="Marble" />
+		<gridItem answer="Madeleine" />
+		<modelAnswer>Cakes</modelAnswer>
+		<list1>CAKE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Queen" />
+		<gridItem answer="Marlowe" />
+		<gridItem answer="Hammer" />
+		<gridItem answer="Holmes" />
+		<modelAnswer>Fictional detectives</modelAnswer>
+		<list1>DETECTIVE,PRIVATE EYE,DICK,GUMSHOE,INVESTIGATOR,SLEUTH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Victoria" />
+		<gridItem answer="Churchill" />
+		<gridItem answer="Horseshoe" />
+		<gridItem answer="Reichenbach" />
+		<modelAnswer>Waterfalls</modelAnswer>
+		<list1>WATERFALL,CATARACT,CHUTE,FALLS,RAPID,WEIR</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hardy" />
+		<gridItem answer="Cryer" />
+		<gridItem answer="Garden" />
+		<gridItem answer="Dee" />
+		<modelAnswer>Regulars on ‘I’m Sorry I Haven’t a Clue’</modelAnswer>
+		<list1>SORRY,CLUE,ISIHAC,RADIO,COMEDY,COMEDIAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tender" />
+		<gridItem answer="Succulent" />
+		<gridItem answer="Early" />
+		<gridItem answer="Lush" />
+		<modelAnswer>Adjectives used to describe plants</modelAnswer>
+		<list1>PLANT*,GARDEN*,HORTICULT*,FLOWER*,SHRUB*,BUSH*,VEGETA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Greenwich" />
+		<gridItem answer="Richmond" />
+		<gridItem answer="Green" />
+		<gridItem answer="St James's" />
+		<modelAnswer>Royal Parks</modelAnswer>
+		<list1>PARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Origins" />
+		<gridItem answer="Boots" />
+		<gridItem answer="Space NK" />
+		<gridItem answer="Molton Brown" />
+		<modelAnswer>Shops that sell beauty products</modelAnswer>
+		<list1>BEAUTY*,COSMETIC*,HEALTH*</list1>
+		<list2></list2>
+	</answers>
+</data>

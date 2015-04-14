@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Korf" />
+		<gridItem answer="Net" />
+		<gridItem answer="Soft" />
+		<gridItem answer="Volley" />
+		<modelAnswer>Ball sports called ‘____ball’</modelAnswer>
+		<list1>BALL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Base" />
+		<gridItem answer="Halide" />
+		<gridItem answer="Solvent" />
+		<gridItem answer="Ester" />
+		<modelAnswer>Categories of chemical compounds</modelAnswer>
+		<list1>CHEMIC*,CHEMIST*,COMPOUND*,SUBSTANCE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Salt" />
+		<gridItem answer="Changeling" />
+		<gridItem answer="The Bone Collector" />
+		<gridItem answer="Beowulf" />
+		<modelAnswer>Films featuring Angelina Jolie performances</modelAnswer>
+		<list1>JOLIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="The Faerie Queene" />
+		<gridItem answer="Mahabharata" />
+		<gridItem answer="Iliad" />
+		<gridItem answer="Endymion" />
+		<modelAnswer>Epic poems</modelAnswer>
+		<list1>POEM*,POETRY,EPIC,NARRATIVE*,HEROIC</list1>
+		<list2></list2>
+	</answers>
+</data>

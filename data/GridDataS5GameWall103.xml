@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Denied" />
+		<gridItem answer="Way" />
+		<gridItem answer="Not" />
+		<gridItem answer="Schwing" />
+		<modelAnswer>Running jokes in ‘Wayne’s World’</modelAnswer>
+		<list1>WAYNE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Nand" />
+		<gridItem answer="Nor" />
+		<gridItem answer="Xor" />
+		<gridItem answer="Xnor" />
+		<modelAnswer>Gates in a logic circuit</modelAnswer>
+		<list1>LOGIC*,GATE*,CIRCUIT*,DIGIT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="For" />
+		<gridItem answer="But" />
+		<gridItem answer="Yet" />
+		<gridItem answer="So" />
+		<modelAnswer>Conjunctions</modelAnswer>
+		<list1>CONJUNCT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Or" />
+		<gridItem answer="Rose" />
+		<gridItem answer="Gris" />
+		<gridItem answer="Marron" />
+		<modelAnswer>French colours</modelAnswer>
+		<list1>FRAN*,FRENCH*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cole" />
+		<gridItem answer="Marr" />
+		<gridItem answer="Simpson" />
+		<gridItem answer="Oakley" />
+		<modelAnswer>BBC political editors</modelAnswer>
+		<list1>POLITIC*,REPORT*,NEWS,EDITOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bell" />
+		<gridItem answer="Agusta- Westland" />
+		<gridItem answer="Sikorsky" />
+		<gridItem answer="Robinson" />
+		<modelAnswer>Helicopter manufacturers</modelAnswer>
+		<list1>HELICOPTER*,CHOPPER*,COPTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Kilner" />
+		<gridItem answer="Leyden" />
+		<gridItem answer="Canopic" />
+		<gridItem answer="Jam" />
+		<modelAnswer>Types of jar</modelAnswer>
+		<list1>JAR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Clash" />
+		<gridItem answer="Damned" />
+		<gridItem answer="Buzzcocks" />
+		<gridItem answer="Undertones" />
+		<modelAnswer>British punk rock bands</modelAnswer>
+		<list1>PUNK*,ROCK*,POP</list1>
+		<list2></list2>
+	</answers>
+</data>

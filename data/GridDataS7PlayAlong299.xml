@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Millionaire" />
+		<gridItem answer="TW3" />
+		<gridItem answer="Buzzcocks" />
+		<gridItem answer="Strictly" />
+		<modelAnswer>Abbreviated TV shows</modelAnswer>
+		<list1>TV,TELEVISION,TELLY</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Striations" />
+		<gridItem answer="Corrie" />
+		<gridItem answer="Drumlin" />
+		<gridItem answer="Moraine" />
+		<modelAnswer>Glaciation features</modelAnswer>
+		<list1>GLACIAT*,GLACIER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fat cat" />
+		<gridItem answer="Mogul" />
+		<gridItem answer="Magnate" />
+		<gridItem answer="Tycoon" />
+		<modelAnswer>Rich and powerful business people</modelAnswer>
+		<list1>BUSINESS*,EXECUTIVE*,ENTREPREN*,INDUSTRIAL*,TRADER*,MERCHANT*,CAPITAL*,FINANCIER*,EMPLOY*,MANUFACTUR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="N-11" />
+		<gridItem answer="BRIC" />
+		<gridItem answer="E7" />
+		<gridItem answer="G20" />
+		<modelAnswer>Economic groups</modelAnswer>
+		<list1>ECONOM*,COUNTR*,GROUP*</list1>
+		<list2></list2>
+	</answers>
+</data>

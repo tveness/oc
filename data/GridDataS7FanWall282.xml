@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Cloud" />
+		<gridItem answer="Straw" />
+		<gridItem answer="Tay" />
+		<gridItem answer="Black" />
+		<modelAnswer>____berry</modelAnswer>
+		<list1>BERRY*,BERRIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Earn" />
+		<gridItem answer="Voil" />
+		<gridItem answer="Long" />
+		<gridItem answer="Maree" />
+		<modelAnswer>Scottish Lochs</modelAnswer>
+		<list1>LOCH*,LAKE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cran" />
+		<gridItem answer="Cord" />
+		<gridItem answer="Pipe" />
+		<gridItem answer="Puncheon" />
+		<modelAnswer>Old capacity measurements</modelAnswer>
+		<list1>MEASURE*,VOLUME*,CAPACITY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Sackbut" />
+		<gridItem answer="Cornett" />
+		<gridItem answer="Lute" />
+		<gridItem answer="Psaltery" />
+		<modelAnswer>Early musical instruments</modelAnswer>
+		<list1>MUSIC*,INSTRUMENT*</list1>
+		<list2></list2>
+	</answers>
+</data>

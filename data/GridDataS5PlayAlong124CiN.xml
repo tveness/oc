@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Corgan" />
+		<gridItem answer="Joel" />
+		<gridItem answer="Ocean" />
+		<gridItem answer="Idol" />
+		<modelAnswer>Singing Billys</modelAnswer>
+		<list1>BILLY*,BILLIE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Crystal" />
+		<gridItem answer="Topkapi" />
+		<gridItem answer="Winter" />
+		<gridItem answer="Potala" />
+		<modelAnswer>Famous palaces</modelAnswer>
+		<list1>PALACE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="M" />
+		<gridItem answer="The Big Heat" />
+		<gridItem answer="Fury" />
+		<gridItem answer="Metropolis" />
+		<modelAnswer>Fritz Lang movies</modelAnswer>
+		<list1>LANG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Hex" />
+		<gridItem answer="Go" />
+		<gridItem answer="Kensington" />
+		<gridItem answer="Mastermind" />
+		<modelAnswer>Strategy board games</modelAnswer>
+		<list1>STRATEGY*,BOARD*,GAME*</list1>
+		<list2></list2>
+	</answers>
+</data>

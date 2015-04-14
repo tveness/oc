@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Murray" />
+		<gridItem answer="Fairclough" />
+		<gridItem answer="Hutton" />
+		<gridItem answer="Goodman" />
+		<modelAnswer>Famous men called Len</modelAnswer>
+		<list1>LEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Deighton" />
+		<gridItem answer="Rooney" />
+		<gridItem answer="Atwood" />
+		<gridItem answer="Tennyson" />
+		<modelAnswer>Surnames that contain a number (dEIGHTon etc.)</modelAnswer>
+		<list1>NUMBER*,NUMERAL*,COUNT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pennine" />
+		<gridItem answer="Salt" />
+		<gridItem answer="Hardy" />
+		<gridItem answer="Orange" />
+		<modelAnswer>English long-distance 'Ways'</modelAnswer>
+		<list1>WAY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bible" />
+		<gridItem answer="Garter" />
+		<gridItem answer="Hurricane" />
+		<gridItem answer="Black" />
+		<modelAnswer>____ belt</modelAnswer>
+		<list1>BELT*</list1>
+		<list2></list2>
+	</answers>
+</data>

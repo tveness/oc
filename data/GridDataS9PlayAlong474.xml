@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Dodona"/>
+		<gridItem answer="Didyma"/>
+		<gridItem answer="Epidaurus"/>
+		<gridItem answer="Abae"/>
+		<modelAnswer>Oracles</modelAnswer>
+		<list1>ORACLE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Delphi"/>
+		<gridItem answer="Pollo"/>
+		<gridItem answer="Lobe"/>
+		<gridItem answer="Alladium"/>
+		<modelAnswer>London theatres without initial letters</modelAnswer>
+		<list1>THEATRE*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Organ of Corti"/>
+		<gridItem answer="Malleus"/>
+		<gridItem answer="Cochlea"/>
+		<gridItem answer="Helix"/>
+		<modelAnswer>Parts of the ear</modelAnswer>
+		<list1>EAR*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Tractrix"/>
+		<gridItem answer="Parabola"/>
+		<gridItem answer="Hippopede"/>
+		<gridItem answer="Witch of Agnesi"/>
+		<modelAnswer>Mathematical curves</modelAnswer>
+		<list1>CURVE*</list1>
+		<list2></list2>
+	</answers></data>

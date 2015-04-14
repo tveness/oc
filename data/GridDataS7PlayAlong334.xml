@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Stoute" />
+		<gridItem answer="Cumani" />
+		<gridItem answer="Nicholls" />
+		<gridItem answer="Hills" />
+		<modelAnswer>Noted racehorse trainers</modelAnswer>
+		<list1>TRAIN*</list1>
+		<list2>HORSE*,RACING*,EQUEST*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Reed" />
+		<gridItem answer="Cetti's" />
+		<gridItem answer="Dartford" />
+		<gridItem answer="Willow" />
+		<modelAnswer>Kinds of warbler</modelAnswer>
+		<list1>WARBLER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chord" />
+		<gridItem answer="Hammond" />
+		<gridItem answer="Pipe" />
+		<gridItem answer="Mouth" />
+		<modelAnswer>Types of musical organ</modelAnswer>
+		<list1>ORGAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Limoges" />
+		<gridItem answer="Meissen" />
+		<gridItem answer="Doccia" />
+		<gridItem answer="Coalport" />
+		<modelAnswer>European porcelain wares</modelAnswer>
+		<list1>PORCELAIN*,WARE*,CERMAIC,POT,POTTERY</list1>
+		<list2></list2>
+	</answers>
+</data>

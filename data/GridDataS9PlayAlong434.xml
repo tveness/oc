@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Mess"/>
+		<gridItem answer="Wall game"/>
+		<gridItem answer="Crop"/>
+		<gridItem answer="Boating Song"/>
+		<modelAnswer>Eton</modelAnswer>
+		<list1>ETON*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Fives"/>
+		<gridItem answer="Keys"/>
+		<gridItem answer="Bananas"/>
+		<gridItem answer="Balloons"/>
+		<modelAnswer>Bunch of ____ </modelAnswer>
+		<list1>BUNCH*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Flowers"/>
+		<gridItem answer="Stepney"/>
+		<gridItem answer="Banks"/>
+		<gridItem answer="Seaman"/>
+		<modelAnswer>England goalkeepers </modelAnswer>
+		<list1>GOAL*,KEEPER*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Bow"/>
+		<gridItem answer="Beckton"/>
+		<gridItem answer="Mile End"/>
+		<gridItem answer="Whitechapel"/>
+		<modelAnswer>Places in East London </modelAnswer>
+		<list1>EAST*</list1>
+		<list2>LONDON*</list2>
+	</answers></data>

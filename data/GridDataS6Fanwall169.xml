@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Parrott" />
+		<gridItem answer="Hughes" />
+		<gridItem answer="Carson" />
+		<gridItem answer="Dettori" />
+		<modelAnswer>'A Question of Sport' team captains</modelAnswer>
+		<list1>AQOS,QUESTION</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tufnell" />
+		<gridItem answer="Chiswick" />
+		<gridItem answer="Elm" />
+		<gridItem answer="Green" />
+		<modelAnswer>Underground stations called '____ Park'</modelAnswer>
+		<list1>TUBE,UNDERGROUND,PARK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Horse" />
+		<gridItem answer="Crane" />
+		<gridItem answer="Soldier" />
+		<gridItem answer="Blow" />
+		<modelAnswer>Types of fly</modelAnswer>
+		<list1>FLY,FLIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Huxtable" />
+		<gridItem answer="Bunker" />
+		<gridItem answer="Brady" />
+		<gridItem answer="Banks" />
+		<modelAnswer>US sitcom families</modelAnswer>
+		<list1>US,USA,AMERICA*,TV,TELEVISION,TELLY,SITCOM*,COMEDY*</list1>
+		<list2></list2>
+	</answers>
+</data>

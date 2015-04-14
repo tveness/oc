@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bilge" />
+		<gridItem answer="Hold" />
+		<gridItem answer="Galley" />
+		<gridItem answer="Wardroom" />
+		<modelAnswer>Ship compartments</modelAnswer>
+		<list1>SHIP*,BOAT*,NAUTIC*,CRAFT*,VESSEL*,YACHT*,FERRY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mjöllnir" />
+		<gridItem answer="Sting" />
+		<gridItem answer="Hrunting" />
+		<gridItem answer="Excalibur" />
+		<modelAnswer>Magical weapons</modelAnswer>
+		<list1>ARM*,ARTILLERY*,WEAPON*,MUNITION*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cadenza" />
+		<gridItem answer="Coda" />
+		<gridItem answer="Bridge" />
+		<gridItem answer="Movement" />
+		<modelAnswer>Sections of music</modelAnswer>
+		<list1>MUSIC*,TUNE*,MELOD*,HARMONY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Half-pass" />
+		<gridItem answer="Flying change" />
+		<gridItem answer="Passage" />
+		<gridItem answer="Piaffe" />
+		<modelAnswer>Dressage movements</modelAnswer>
+		<list1>DRESSAGE*,EQUEST*,HORSE*,RIDIN*,MOUNTED,EQUINE</list1>
+		<list2></list2>
+	</answers>
+</data>

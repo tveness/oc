@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Glazing" />
+		<gridItem answer="Chin" />
+		<gridItem answer="Agent" />
+		<gridItem answer="Bassoon" />
+		<modelAnswer>Double ____</modelAnswer>
+		<list1>DOUBLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cross" />
+		<gridItem answer="Bitter" />
+		<gridItem answer="Choleric" />
+		<gridItem answer="Ratty" />
+		<modelAnswer>Words meaning 'angry'</modelAnswer>
+		<list1>ANNOY*,TEMPER*,IRRITAT*,DISPLEAS*,IRAT*,ENRAGE*,INCENSE*,LIVID*,SEETH*,FURIOU*,RAG*,HEATED,EXASPER*,OUTRAG*,BLACK,EVIL*,SULLEN,WRATH*,RESENT*,AGGREVAT*,MAD,UPTIGHT*,HOPPING,RAVIN*,RED,DISGRUNT*,STROP*,TICK*,BLOW*,FREAK*,STEAM*,TANTRUM,WOBBLY,VEX*,PIQUE*,PROVOKE*,PEEV*,MIFFED,NARK*,NUTS,CHEESED,BRASSED,HUMP*,HUFF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dutch" />
+		<gridItem answer="Honest Abe" />
+		<gridItem answer="Old Hickory" />
+		<gridItem answer="Ike" />
+		<modelAnswer>Nicknames of US Presidents</modelAnswer>
+		<list1>PRESIDEN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Mole" />
+		<gridItem answer="Mr Toad" />
+		<gridItem answer="Chief Weasel" />
+		<gridItem answer="Otter" />
+		<modelAnswer>'Wind in the Willows' characters</modelAnswer>
+		<list1>WIND,WILLOWS,GRAHAM*</list1>
+		<list2></list2>
+	</answers>
+</data>

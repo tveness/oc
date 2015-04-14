@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ 	-<answers>
+		<gridItem answer="Yellow"/>
+		<gridItem answer="Trouble"/>
+		<gridItem answer="Talk"/>
+		<gridItem answer="Paradise"/>
+		<modelAnswer>Coldplay songs</modelAnswer>
+		<list1>COLDPLAY*, MARTIN*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Glen"/>
+		<gridItem answer="Depression"/>
+		<gridItem answer="Gorge"/>
+		<gridItem answer="Basin"/>
+		<modelAnswer>Valleys</modelAnswer>
+		<list1>VALL*,CANYON*,CHANNEL*,TROUGH*,DELL*,GULL*,RAVIN*,HOLE*,ABYSS*,CHASM*, </list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Funk"/>
+		<gridItem answer="Misery"/>
+		<gridItem answer="Blues"/>
+		<gridItem answer="Sorrow"/>
+		<modelAnswer>Sadness</modelAnswer>
+		<list1>SAD*,ANGUISH*,GRIE*,HEART*,BREAK*,MELANCHOL*,DEJECT*,DOWN*,DEPRESS*,MOPE*,WOE*,GLOOM*,FOLORN*,DESPOND*,MOOD*,SPIRIT*,UNHAPP*,TROUBL*,MEH*</list1>
+		<list2></list2>
+	</answers>
+	-<answers>
+		<gridItem answer="Organ"/>
+		<gridItem answer="Arcsine"/>
+		<gridItem answer="Dale"/>
+		<gridItem answer="Humidor"/>
+		<modelAnswer>Anagrams of chemical elements</modelAnswer>
+		<list1>ELEMENT*</list1>
+		<list2></list2>
+	</answers></data>

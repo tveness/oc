@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Alderney" />
+		<gridItem answer="Bulgaria" />
+		<gridItem answer="Orinoco" />
+		<gridItem answer="Tobermory" />
+		<modelAnswer>Characters from ‘The Wombles’</modelAnswer>
+		<list1>WOMBLE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Jersey" />
+		<gridItem answer="York" />
+		<gridItem answer="Hampshire" />
+		<gridItem answer="Mexico" />
+		<modelAnswer>US states called ‘New ____’</modelAnswer>
+		<list1>NEW,STATE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Glandular" />
+		<gridItem answer="Scarlet" />
+		<gridItem answer="Trench" />
+		<gridItem answer="Yellow" />
+		<modelAnswer>Types of fever</modelAnswer>
+		<list1>FEVER,PYREXIA,HYPERTHERMIA</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tea" />
+		<gridItem answer="Wellington" />
+		<gridItem answer="Jerky" />
+		<gridItem answer="Stroganoff" />
+		<modelAnswer>Beef ____</modelAnswer>
+		<list1>BEEF</list1>
+		<list2></list2>
+	</answers>
+</data>

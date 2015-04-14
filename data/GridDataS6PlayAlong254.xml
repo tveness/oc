@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Laurence" />
+		<gridItem answer="Rhys-Jones" />
+		<gridItem answer="Ferguson" />
+		<gridItem answer="Middleton" />
+		<modelAnswer>Married into the Royal Family</modelAnswer>
+		<list1>MARRI*,ROYAL*,WINDSOR*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Fireflies" />
+		<gridItem answer="Domino" />
+		<gridItem answer="Wherever You Are" />
+		<gridItem answer="Forget You" />
+		<modelAnswer>Number One singles of the 2010s</modelAnswer>
+		<list1>NO,ONE,NO1,NO.1,NUMBER,SINGLE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Tyndall" />
+		<gridItem answer="Doppler" />
+		<gridItem answer="Coriolis" />
+		<gridItem answer="Greenhouse" />
+		<modelAnswer>Scientific effects</modelAnswer>
+		<list1>EFFECT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Butterfly" />
+		<gridItem answer="Smoke" />
+		<gridItem answer="Beauty" />
+		<gridItem answer="Calico" />
+		<modelAnswer>____ bush</modelAnswer>
+		<list1>BUSH*</list1>
+		<list2></list2>
+	</answers>
+</data>

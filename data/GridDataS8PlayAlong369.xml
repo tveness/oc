@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Feathers McGraw" />
+		<gridItem answer="Wendolene" />
+		<gridItem answer="Gromit" />
+		<gridItem answer="Shaun" />
+		<modelAnswer>'Wallace and Gromit' characters</modelAnswer>
+		<list1>WALLACE,GROMIT,PARK*,AARDMAN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bolt" />
+		<gridItem answer="Reckoning" />
+		<gridItem answer="Shot" />
+		<gridItem answer="Heat" />
+		<modelAnswer>Dead ____</modelAnswer>
+		<list1>DEAD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Burrell" />
+		<gridItem answer="Wallace" />
+		<gridItem answer="Peggy Guggenheim" />
+		<gridItem answer="Frick" />
+		<modelAnswer>The ____ Collection</modelAnswer>
+		<list1>COLLECTION*,ART*,MUSEUM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Powell" />
+		<gridItem answer="Lewis" />
+		<gridItem answer="Greene" />
+		<gridItem answer="Bailey" />
+		<modelAnswer>100m world record holders</modelAnswer>
+		<list1>100,HUNDRED,METRE,SPRINT*,RUN*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Hens and Roosters" />
+		<gridItem answer="Pianists" />
+		<gridItem answer="Fossils" />
+		<gridItem answer="The Elephant" />
+		<modelAnswer>'The Carnival of the Animals' movements</modelAnswer>
+		<list1>CARNIVAL,SAINT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Pony" />
+		<gridItem answer="Nicker" />
+		<gridItem answer="Bob" />
+		<gridItem answer="Cock and hen" />
+		<modelAnswer>Slang for denominations of UK money</modelAnswer>
+		<list1>MONEY,CASH,NOTE*,COIN,POUND*,STERLING*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Heather" />
+		<gridItem answer="Hayley" />
+		<gridItem answer="Donna" />
+		<gridItem answer="Scott" />
+		<modelAnswer>Celebrities with the surname Mills</modelAnswer>
+		<list1>MILLS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Monkey" />
+		<gridItem answer="Crab" />
+		<gridItem answer="Clamp" />
+		<gridItem answer="Solitaire" />
+		<modelAnswer>Spider ____</modelAnswer>
+		<list1>SPIDER*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Skelton" />
+		<gridItem answer="Funnell" />
+		<gridItem answer="Maher" />
+		<gridItem answer="Whitaker" />
+		<modelAnswer>British show jumpers</modelAnswer>
+		<list1>HORSE*,SHOW*,JUMPER*,EQUESTRIAN*,RIDER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Slap" />
+		<gridItem answer="Broom" />
+		<gridItem answer="Chop" />
+		<gridItem answer="Drum" />
+		<modelAnswer>____stick</modelAnswer>
+		<list1>STICK*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rump" />
+		<gridItem answer="Convention" />
+		<gridItem answer="Barebones" />
+		<gridItem answer="Long" />
+		<modelAnswer>17th Century Parliaments</modelAnswer>
+		<list1>PARLIAMENT*,CROMWELL,GOVERN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Chuck" />
+		<gridItem answer="Clod" />
+		<gridItem answer="Thin flank" />
+		<gridItem answer="Sirloin" />
+		<modelAnswer>Cuts of beef</modelAnswer>
+		<list1>BEEF*,CUT*,MEAT*</list1>
+		<list2></list2>
+	</answers>
+</data>

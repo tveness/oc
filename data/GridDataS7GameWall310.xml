@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Argyle" />
+		<gridItem answer="Herringbone" />
+		<gridItem answer="Paisley" />
+		<gridItem answer="Plaid" />
+		<modelAnswer>Material patterns</modelAnswer>
+		<list1>MATERIAL*,CLOTH*,PATTERN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Braid" />
+		<gridItem answer="Cotton" />
+		<gridItem answer="Hagen" />
+		<gridItem answer="Vardon" />
+		<modelAnswer>Early 20th Century golfers</modelAnswer>
+		<list1>GOLF*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Dodds" />
+		<gridItem answer="Donaldson" />
+		<gridItem answer="McRea" />
+		<gridItem answer="Shannon" />
+		<modelAnswer>Democratic Unionist politicians</modelAnswer>
+		<list1>DUP,UNIONIST,NI,NORTHERN,IRELAND,IRISH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Java" />
+		<gridItem answer="Lisp" />
+		<gridItem answer="Pascal" />
+		<gridItem answer="Python" />
+		<modelAnswer>Computer programming languages</modelAnswer>
+		<list1>PROGRAM*,LANGUAG*</list1>
+		<list2></list2>
+	</answers>
+</data>

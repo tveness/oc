@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Trash" />
+		<gridItem answer="Jerry" />
+		<gridItem answer="Spray" />
+		<gridItem answer="Watering" />
+		<modelAnswer>____ can</modelAnswer>
+		<list1>CAN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Ivar" />
+		<gridItem answer="Billy" />
+		<gridItem answer="Malm" />
+		<gridItem answer="Effektiv" />
+		<modelAnswer>Products sold by IKEA</modelAnswer>
+		<list1>IKEA*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Flora" />
+		<gridItem answer="Pax" />
+		<gridItem answer="Minerva" />
+		<gridItem answer="Vesta" />
+		<modelAnswer>Roman goddesses</modelAnswer>
+		<list1>ROMAN*,MYTH*</list1>
+		<list2>GOD*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lack" />
+		<gridItem answer="Oddie" />
+		<gridItem answer="Bond" />
+		<gridItem answer="Audubon" />
+		<modelAnswer>Ornithologists</modelAnswer>
+		<list1>ORNITHO*,BIRD*</list1>
+		<list2></list2>
+	</answers>
+</data>

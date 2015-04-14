@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Swinton" />
+		<gridItem answer="Knaresborough" />
+		<gridItem answer="Ripon" />
+		<gridItem answer="Richmond" />
+		<modelAnswer>Places in North Yorkshire</modelAnswer>
+		<list1>NORTH*</list1>
+		<list2>YORKSHIRE*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Derham" />
+		<gridItem answer="Leeming" />
+		<gridItem answer="Bruce" />
+		<gridItem answer="Nightingale" />
+		<modelAnswer>Female newsreaders</modelAnswer>
+		<list1>NEWS*</list1>
+		<list2>FEMALE*,WOM*,GIRL*</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Selby" />
+		<gridItem answer="Fu" />
+		<gridItem answer="O'Sullivan" />
+		<gridItem answer="Robertson" />
+		<modelAnswer>Snooker players</modelAnswer>
+		<list1>SNOOKER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Saveloy" />
+		<gridItem answer="Wiener" />
+		<gridItem answer="Bratwurst" />
+		<gridItem answer="Cervelat" />
+		<modelAnswer>Sausages</modelAnswer>
+		<list1>SAUSAGE*</list1>
+		<list2></list2>
+	</answers>
+</data>

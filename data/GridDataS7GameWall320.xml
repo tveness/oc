@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Euterpe" />
+		<gridItem answer="Polyhymnia" />
+		<gridItem answer="Terpsichore" />
+		<gridItem answer="Clio" />
+		<modelAnswer>Greek muses</modelAnswer>
+		<list1>MUSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Calliope" />
+		<gridItem answer="Iron" />
+		<gridItem answer="Mop" />
+		<gridItem answer="Rail engine" />
+		<modelAnswer>Things that can be powered by steam</modelAnswer>
+		<list1>STEAM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Espace" />
+		<gridItem answer="Laguna" />
+		<gridItem answer="Twingo" />
+		<gridItem answer="Mégane" />
+		<modelAnswer>Models of Renault car</modelAnswer>
+		<list1>RENAULT</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barber" />
+		<gridItem answer="Carlyle" />
+		<gridItem answer="Speer" />
+		<gridItem answer="Wilkinson" />
+		<modelAnswer>Actors in ‘The Full Monty’</modelAnswer>
+		<list1>MONTY</list1>
+		<list2></list2>
+	</answers>
+</data>

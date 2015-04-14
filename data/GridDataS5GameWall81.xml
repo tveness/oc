@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Grundy" />
+		<gridItem answer="Mopp" />
+		<gridItem answer="Henry Wood" />
+		<gridItem answer="Gandhi" />
+		<modelAnswer>Referred to as Mrs ____</modelAnswer>
+		<list1>MRS,MISSUS,MISS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Simpson" />
+		<gridItem answer="Griffin" />
+		<gridItem answer="Jetson" />
+		<gridItem answer="Rubble" />
+		<modelAnswer>Cartoon families</modelAnswer>
+		<list1>CARTOON*,ANIMAT*,TELEVISION,TV,COMIC*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Thatcher" />
+		<gridItem answer="Fasc" />
+		<gridItem answer="Social" />
+		<gridItem answer="Marx" />
+		<modelAnswer>Political ‘____isms’</modelAnswer>
+		<list1>POLITI*,BELIEF*,DIPLOMAC*,GOVERNM*,ISM,ISMS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Basilisk" />
+		<gridItem answer="Manticore" />
+		<gridItem answer="Wyvern" />
+		<gridItem answer="Sphinx" />
+		<modelAnswer>Hybrid mythological creatures</modelAnswer>
+		<list1>HYBRID,MYTH*,CREAT*,LEGEND*,LORE*,FOLK*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="CSKA" />
+		<gridItem answer="Locomotiv" />
+		<gridItem answer="Spartak" />
+		<gridItem answer="Torpedo" />
+		<modelAnswer>Moscow football teams</modelAnswer>
+		<list1>MOSCOW*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Cobra" />
+		<gridItem answer="Dynamo" />
+		<gridItem answer="Exodus" />
+		<gridItem answer="Olive" />
+		<modelAnswer>WW2 military operations</modelAnswer>
+		<list1>WW2,WWII,WW TWO,WORLD WAR 2,WORLD WAR II,WORLD WAR TWO,SECOND WORLD WAR,2ND WORLD WAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coconut" />
+		<gridItem answer="Sesame" />
+		<gridItem answer="Sunflower" />
+		<gridItem answer="Walnut" />
+		<modelAnswer>Types of cooking oil</modelAnswer>
+		<list1>OIL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bread" />
+		<gridItem answer="Corn" />
+		<gridItem answer="Heart" />
+		<gridItem answer="Shop" />
+		<modelAnswer>Sweet ____</modelAnswer>
+		<list1>SWEET*</list1>
+		<list2></list2>
+	</answers>
+</data>

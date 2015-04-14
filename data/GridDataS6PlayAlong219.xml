@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Basque" />
+		<gridItem answer="Alsatian" />
+		<gridItem answer="Gallo" />
+		<gridItem answer="Catalan" />
+		<modelAnswer>Minority languages used in France</modelAnswer>
+		<list1>LANGUAGE*,DIALECT*,FRANCE,FRENCH,TONGUE*,ARGOT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Coupling" />
+		<gridItem answer="Press Gang" />
+		<gridItem answer="Jekyll" />
+		<gridItem answer="Sherlock" />
+		<modelAnswer>Steven Moffat TV programmes</modelAnswer>
+		<list1>MOFFAT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Whistle" />
+		<gridItem answer="Cylinder" />
+		<gridItem answer="Bogie" />
+		<gridItem answer="Boiler" />
+		<modelAnswer>Parts of a steam locomotive</modelAnswer>
+		<list1>TRAIN,STEAM*,LOCO*,RAILWAY,ENGINE</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Breton" />
+		<gridItem answer="Pin" />
+		<gridItem answer="Chalk" />
+		<gridItem answer="Candy" />
+		<modelAnswer>Stripes</modelAnswer>
+		<list1>STRIPE*</list1>
+		<list2></list2>
+	</answers>
+</data>

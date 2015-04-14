@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Authentic" />
+		<gridItem answer="Half" />
+		<gridItem answer="Interrupted" />
+		<gridItem answer="Inverted" />
+		<modelAnswer>Musical cadences</modelAnswer>
+		<list1>MUSIC*,CADENCE*,MODULATION*,RHYTHM*,BEAT*,STRESS*,TEMPO*,MEASURE*,METRE*,SWING*,PULSE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Big" />
+		<gridItem answer="Whole" />
+		<gridItem answer="Heavy" />
+		<gridItem answer="Hard" />
+		<modelAnswer>____-hearted</modelAnswer>
+		<list1>HEART*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Stout" />
+		<gridItem answer="Rugged" />
+		<gridItem answer="Solid" />
+		<gridItem answer="Hardy" />
+		<modelAnswer>Synonyms for 'strong'</modelAnswer>
+		<list1>STRONG*,POWER*,MIGHT*,POTENT*,STURDY*,BURLY*,BUILT,BEEF*,BRAWN*,MUSCL,MUSCUL*,ATHLETIC,FIT,TOUGH,RESILIENT,REINFORC*,SECUR*,ROBUST,STURDY,RUGG*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Porter" />
+		<gridItem answer="Bitter" />
+		<gridItem answer="Ale" />
+		<gridItem answer="Lager" />
+		<modelAnswer>Types of beer</modelAnswer>
+		<list1>BEER*,BREW*,ALCOHOL*</list1>
+		<list2></list2>
+	</answers>
+</data>

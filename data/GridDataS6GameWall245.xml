@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Barbados" />
+		<gridItem answer="Gean" />
+		<gridItem answer="Jerusalem" />
+		<gridItem answer="Maraschino" />
+		<modelAnswer>Cherries</modelAnswer>
+		<list1>CHERRY,CHERRIES</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Bates" />
+		<gridItem answer="Desmond" />
+		<gridItem answer="Morello" />
+		<gridItem answer="Wright" />
+		<modelAnswer>Members of the Dave Brubeck Quartet</modelAnswer>
+		<list1>BRUBECK*,BRUBEK</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Amazing Grace" />
+		<gridItem answer="Immortal Invisible" />
+		<gridItem answer="Lord of the Dance" />
+		<gridItem answer="Rock of Ages" />
+		<modelAnswer>Anglican hymns</modelAnswer>
+		<list1>HYMN*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Barclay" />
+		<gridItem answer="Lebedev" />
+		<gridItem answer="Murdoch" />
+		<gridItem answer="Rothermere" />
+		<modelAnswer>Owners of British newspapers</modelAnswer>
+		<list1>NEWSPAPER*,PRESS*,MEDIA*,MAGNATE*</list1>
+		<list2></list2>
+	</answers>
+</data>

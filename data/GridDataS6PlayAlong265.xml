@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Bono" />
+		<gridItem answer="Rata" />
+		<gridItem answer="Forma" />
+		<gridItem answer="Tempore" />
+		<modelAnswer>Latin phrases: ‘Pro ____’</modelAnswer>
+		<list1>PRO,LATIN</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Harlequin" />
+		<gridItem answer="Wasp" />
+		<gridItem answer="Saint" />
+		<gridItem answer="Saracen" />
+		<modelAnswer>Members of Rugby Union teams</modelAnswer>
+		<list1>RUGBY*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Saffron" />
+		<gridItem answer="Lemmy" />
+		<gridItem answer="Fish" />
+		<gridItem answer="Skin" />
+		<modelAnswer>Famous lead singers</modelAnswer>
+		<list1>LEAD*,SINGER*,VOCAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Rock" />
+		<gridItem answer="Trapper" />
+		<gridItem answer="Shark" />
+		<gridItem answer="Maniac" />
+		<modelAnswer>Playing styles in poker</modelAnswer>
+		<list1>POKER*,PLAY*,CARD*</list1>
+		<list2></list2>
+	</answers>
+</data>

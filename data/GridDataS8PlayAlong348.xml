@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Perfect 10" />
+		<gridItem answer="36D" />
+		<gridItem answer="Rotterdam" />
+		<gridItem answer="A Little Time" />
+		<modelAnswer>The Beautiful South songs</modelAnswer>
+		<list1>BEAUTIFUL,SOUTH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Galaxy" />
+		<gridItem answer="Fiesta" />
+		<gridItem answer="Kuga" />
+		<gridItem answer="Escort" />
+		<modelAnswer>Models of Ford car</modelAnswer>
+		<list1>FORD*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Parker Brothers" />
+		<gridItem answer="Mayfair" />
+		<gridItem answer="Waddingtons" />
+		<gridItem answer="Ravensburger" />
+		<modelAnswer>Board game publishers</modelAnswer>
+		<list1>BOARD,GAME*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="French" />
+		<gridItem answer="Brazilian" />
+		<gridItem answer="Hollywood" />
+		<gridItem answer="Playboy" />
+		<modelAnswer>Styles of bikini wax</modelAnswer>
+		<list1>BIKINI*,WAX*,PUBIC*</list1>
+		<list2></list2>
+	</answers>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Crime" />
+		<gridItem answer="Autumn" />
+		<gridItem answer="Spring" />
+		<gridItem answer="Doom" />
+		<modelAnswer>BBC programmes called ‘____watch’</modelAnswer>
+		<list1>BBC,WATCH</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Summer" />
+		<gridItem answer="Toadfish" />
+		<gridItem answer="Karl" />
+		<gridItem answer="Libby" />
+		<modelAnswer>Characters in ‘Neighbours’</modelAnswer>
+		<list1>NEIGHBOURS</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Winter" />
+		<gridItem answer="Family" />
+		<gridItem answer="Fusion" />
+		<gridItem answer="Bomb" />
+		<modelAnswer>Nuclear ____</modelAnswer>
+		<list1>NUCLEAR</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Lucas" />
+		<gridItem answer="Pascal" />
+		<gridItem answer="Fermat" />
+		<gridItem answer="Poincare" />
+		<modelAnswer>French mathematicians</modelAnswer>
+		<list1>FRANCE,FRENCH</list1>
+		<list2>MATH*,SCIEN*</list2>
+	</answers>
+</data>

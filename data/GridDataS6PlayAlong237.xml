@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Beverley" />
+		<gridItem answer="Scissor" />
+		<gridItem answer="Andrews" />
+		<gridItem answer="Pointer" />
+		<modelAnswer>‘____ Sisters’ musical acts</modelAnswer>
+		<list1>SISTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Halifax" />
+		<gridItem answer="Portman" />
+		<gridItem answer="Alliance" />
+		<gridItem answer="Scarborough" />
+		<modelAnswer>Former building societies</modelAnswer>
+		<list1>BUILDING,SOCIET*,BANK*,MUTUAL*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="York" />
+		<gridItem answer="Southwell" />
+		<gridItem answer="Howden" />
+		<gridItem answer="Croydon" />
+		<modelAnswer>Minster churches</modelAnswer>
+		<list1>MINSTER*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gave" />
+		<gridItem answer="Richard" />
+		<gridItem answer="Vain" />
+		<gridItem answer="Battle" />
+		<modelAnswer>Words in the ROYGBIV colour mnemonic</modelAnswer>
+		<list1>ROY*,SPECTRUM,COLOUR*,RAINBOW,MNEMONIC,MEMORY*,REMIND*,REMEMBER*</list1>
+		<list2></list2>
+	</answers>
+</data>

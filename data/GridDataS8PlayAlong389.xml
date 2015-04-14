@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="King" />
+		<gridItem answer="Chronicle" />
+		<gridItem answer="Judge" />
+		<gridItem answer="Number" />
+		<modelAnswer>Old Testament books in the singular</modelAnswer>
+		<list1>OT,OLD,BOOK*,BIBLE*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Gnome" />
+		<gridItem answer="Ptarmigan" />
+		<gridItem answer="Honour" />
+		<gridItem answer="Psalm" />
+		<modelAnswer>Silent first letter</modelAnswer>
+		<list1>SILENT,FIRST,LETTER,SAID</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Quail" />
+		<gridItem answer="Grouse" />
+		<gridItem answer="Pheasant" />
+		<gridItem answer="Francolin" />
+		<modelAnswer>Game birds</modelAnswer>
+		<list1>GAME*,GALLIFORM*,HUNT*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Partridge" />
+		<gridItem answer="O'Hanraha- hanrahan" />
+		<gridItem answer="Wintergreen" />
+		<gridItem answer="Sisters" />
+		<modelAnswer>'The Day Today' newscasters</modelAnswer>
+		<list1>TODAY,IANNUCCI</list1>
+		<list2></list2>
+	</answers>
+</data>

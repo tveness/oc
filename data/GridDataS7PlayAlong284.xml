@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<answers>
+		<gridItem answer="Wallace" />
+		<gridItem answer="Burton-Race" />
+		<gridItem answer="Hollywood" />
+		<gridItem answer="Leith" />
+		<modelAnswer>TV cookery judges</modelAnswer>
+		<list1>COOK*,FOOD*,CULIN*,CUISIN*</list1>
+		<list2>JUDG*,EXPERT*,CRITIC*,PRESENT*,TELEVISION,TV</list2>
+	</answers>
+	<answers>
+		<gridItem answer="Portobello" />
+		<gridItem answer="Morningside" />
+		<gridItem answer="Davidson's Mains" />
+		<gridItem answer="Joppa" />
+		<modelAnswer>Areas of Edinburgh</modelAnswer>
+		<list1>EDINBURGH*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Oyster" />
+		<gridItem answer="Black trumpet" />
+		<gridItem answer="Beefsteak" />
+		<gridItem answer="Blewit" />
+		<modelAnswer>Edible fungi</modelAnswer>
+		<list1>FUNGI,FUNGUS,THALLOPHYTE*,MUSHROOM*</list1>
+		<list2></list2>
+	</answers>
+	<answers>
+		<gridItem answer="Home" />
+		<gridItem answer="Lost" />
+		<gridItem answer="Everything" />
+		<gridItem answer="Haven't Met You Yet" />
+		<modelAnswer>Michael Bublé singles</modelAnswer>
+		<list1>BUBLE,BUBLÉ</list1>
+		<list2></list2>
+	</answers>
+</data>
