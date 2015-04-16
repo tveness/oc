@@ -1,5 +1,6 @@
 var timer;
 var activeList=[];
+var solvedRows=[];
 var row=0;
 var lives=3;
 var clueListClean=[];
@@ -7,8 +8,13 @@ var clueListActual=[];
 var nums=[];
 var timeLeft=151;
 var timer;
+var points=0;
 
 
+function wipe(){
+	this.removeEventListener("click",wipe);
+	this.innerHTML="";
+}
 
 
 
@@ -35,6 +41,10 @@ function updateTime(){
 
 }
 
+function updatePoints(){
+	var ti=document.getElementById("points");
+	ti.innerHTML="Points: "+parseInt(points);
+}
 
 
 
@@ -124,6 +134,22 @@ function sortCorrect(){
 
 	activeList=[];
 	row+=1;
+
+	if(row==3){
+		for(var k=0;k<4;k++){
+			var ntoAdd=".t"+parseInt(row)+parseInt(k);
+			var toAdd = document.querySelectorAll(ntoAdd)[0];
+			activeList.push(toAdd.id);
+		}
+		sortCorrect();
+	}
+
+
+	points++;
+	updatePoints();
+
+
+
 }
 
 function check(inList){
@@ -233,6 +259,13 @@ function update(){
 	updateLives(lives);
 	timer = setInterval(function(){ updateTime() }, 1000);
 	updateTime();
+	updatePoints();
+
+	var ansCells=document.querySelectorAll(".ans-cell");
+	for(var k=0;k<ansCells.length;k++){
+		ansCells[k].addEventListener("click",wipe);
+	}
+
 
 }
 var cont=document.getElementById("container");

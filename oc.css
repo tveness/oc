@@ -208,6 +208,9 @@ backgroud: rgba(238,228,218,0.5); }
 .timer{
 	font-size: 36px;
 }
+.points{
+	font-size: 36px;
+}
 .lives{
 	font-size: 36px;
 }
