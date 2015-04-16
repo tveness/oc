@@ -11,6 +11,81 @@ var timer;
 var points=0;
 
 
+function freezeBox(){
+}
+
+function win(){
+		points==10;
+		clearInterval(timer);
+}
+function blank(){
+	console.log("Pausing");
+}
+
+
+
+function solveRow(rowtoSolve){
+	activeList=[];
+	var ntoAdd=".t"+parseInt(rowtoSolve)+parseInt(0);
+	var toAdd = document.querySelectorAll(ntoAdd)[0];
+	var curId=toAdd.id;
+	if(rowtoSolve<3 ){
+		for(var l=1;l<5;l++){
+			var newName=curId.charAt(0)+parseInt(l);
+			console.log("Adding "+newName);
+			tileClicked(document.getElementById(newName));
+		}
+	}
+	var aname="l"+curId.charAt(0);
+	var aBox=document.getElementById("l"+curId.charAt(0));
+	aBox.contentEditable=false;
+	aBox.removeEventListener("click",wipe);
+	aBox.innerHTML=data["ideal"][aname];
+
+}
+
+
+
+
+
+
+function solveRemainder(){
+	var finalPoints=points;
+	for(var k=0;k<4;k++){
+		console.log("Solving row "+k);
+		solveRow(k);
+		}
+	points=finalPoints;
+	updatePoints();
+		clearInterval(timer);
+	var gu=document.getElementById("giveup");
+	gu.removeEventListener("click",solveRemainder);
+}
+
+
+
+
+
+function checkme(){
+	var nm=this.id;
+	var names=data["links"][nm].split(",");
+	for(var k=0;k<names.length;k++){
+		names[k]="*"+names[k]+"*";
+		names[k]=names[k].toUpperCase();
+		if(names[k].indexOf("*"+this.innerHTML.toUpperCase()+"*")   >-1){
+		this.contentEditable=false;
+		this.innerHTML+="&#10003;";
+			points++;
+			if(points==8){
+				win();
+			}
+			updatePoints();
+
+		}
+	}
+}
+
+
 function wipe(){
 	this.removeEventListener("click",wipe);
 	this.innerHTML="";
@@ -31,7 +106,7 @@ function updateTime(){
 	var timeInWords=parseInt(timeLeft/60)+":"+secs;
 
 	var frac=parseInt(255*(1-timeLeft/150));
-	var bar='<div style="width:500px;background-color:rgba('+frac+',0,0,0.8);text-align:center">'+timeInWords+'</div>';
+	var bar='<div style="background-color:rgba('+frac+',0,0,0.8);text-align:center">'+timeInWords+'</div>';
 	ti.innerHTML=bar;
 
 	if(timeLeft==0){
@@ -130,7 +205,9 @@ function sortCorrect(){
 //	ansBox.innerHTML=(data["links"])[ansStr];
 	ansBox.contentEditable=true;
 	ansBox.innerHTML="Link";
+	ansBox.id=ansStr;
 	ansBox.classList.add("ab0");
+	ansBox.addEventListener("keyup",checkme);
 
 	activeList=[];
 	row+=1;
@@ -220,7 +297,7 @@ var data= JSON.parse('{ "clues":{"a1": 	"a1e", "a2":   "a2e", "a3":   "a3", "a4"
 
 
 var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
-var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "Swords", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR animals"} }' );
+var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "SWORDS,blades", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR,animals,lord of the rings"}, "ideal": {"la": "Types of sword", "lb": "_____ tooth", "lc": "People featured on US bank notes", "ld": "Animals from Lord of the Rings" }}' );
 
 
 
@@ -265,6 +342,11 @@ function update(){
 	for(var k=0;k<ansCells.length;k++){
 		ansCells[k].addEventListener("click",wipe);
 	}
+	var gu=document.getElementById("giveup");
+	gu.innerHTML="Give up";
+	gu.classList.add("giveup");
+	gu.addEventListener("click",solveRemainder);
+
 
 
 }

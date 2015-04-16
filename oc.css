@@ -25,8 +25,8 @@ backgroud: rgba(238,228,218,0.5); }
   width: 206.25px;
   height: 106.25px;
   margin-right: 15px;
-  -webkit-transition: transform 100ms ease-in-out;
-  transition: transform 100ms ease-in-out;
+  -webkit-transition: transform 500ms ease-in-out;
+  transition: transform 500ms ease-in-out;
   float: left;
   border-radius: 13px;
   background: rgba(238, 228, 218, 0.35); }
@@ -206,7 +206,25 @@ backgroud: rgba(238,228,218,0.5); }
 	transform: translate(884px,484px);
 }
 .timer{
+        border-radius: 13px;
 	font-size: 36px;
+	-webkit-transform: translate(360px,10px);
+	transform: translate(360,10px);
+        width: 156.25px;
+        height: 57.25px;
+}
+.giveup{
+	position: absolute;
+	font-size: 36px;
+        border-radius: 13px;
+	-webkit-transition: background-color 0.2s ease;
+	transition: background-color 0.2s ease;
+	background-color: rgba(238,200,150,0.8);
+        text-align: center;
+        width: 156.25px;
+        height: 57.25px;
+	-webkit-transform: translate(884px,-100px);
+	transform: translate(884px,-100px);
 }
 .points{
 	font-size: 36px;
