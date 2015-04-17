@@ -113,6 +113,11 @@ function updateTime(){
 		clearInterval(timer);
 		endGame();
 	}
+	if(timeLeft<90){
+
+	var gu=document.getElementById("giveup");
+	gu.style.visibility="visible";
+	}
 
 }
 
@@ -343,6 +348,7 @@ function update(){
 		ansCells[k].addEventListener("click",wipe);
 	}
 	var gu=document.getElementById("giveup");
+	gu.style.visibility="hidden";
 	gu.innerHTML="Give up";
 	gu.classList.add("giveup");
 	gu.addEventListener("click",solveRemainder);
