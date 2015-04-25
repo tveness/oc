@@ -27,7 +27,7 @@ for(var k=0;k<walls.length;k++){
 		title=cBy;
 	}
 	else{
-		title=cBy+" "+wallNum;
+		title=cBy+" "+wallnum;
 	}
 	gameList.innerHTML+="<option id='"+wallnum+"'>"+title+"</option>";
 }
