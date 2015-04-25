@@ -377,6 +377,16 @@ function update(){
 	gu.addEventListener("click",solveRemainder);
 
 
+<<<<<<< HEAD
+=======
+	var gameList=document.getElementById("gameList");
+
+	gameList.innerHTML="TEST";
+
+	for(var k=0;k<wList.length;k++){
+		gameList.innerHTML+= wList[k]+"<p>";
+	}
+>>>>>>> e6c8433369a26f16e77a472f8414acb94c00ac75
 }
 var cont=document.getElementById("container");
 cont.innerHTML="Click to begin";
