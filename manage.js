@@ -27,7 +27,7 @@ var gameList=document.getElementById("gameList");
 
 for(var k=0;k<walls.length;k++){
 	var wallnum=walls[k].getAttribute("wallNo");
-	var fileName=walls[k].gettAttribute("filename");
+	var fileName=walls[k].getAttribute("filename");
 	var gameType=walls[k].getAttribute("type");
 	var cBy=walls[k].getAttribute("createdBy");
 	var title="";
