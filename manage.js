@@ -10,6 +10,21 @@ var timeLeft=151;
 var timer;
 var points=0;
 
+var xmlhttp=new XMLHttpRequest();
+xmlhttp.open("GET","data/walls.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML;
+walls=xmlDoc.getElementsByTagName("wall");
+wlist=[];
+
+
+for(var k=0;k<walls.length;k++){
+	wlist.push( walls[k].getAttribute("wallNo") );
+}
+
+
+
+
 
 function freezeBox(){
 }
@@ -355,7 +370,12 @@ function update(){
 	gu.addEventListener("click",solveRemainder);
 
 
+	var gameList=document.getElementById("gameList");
 
+
+	for(var k=0;k<wList.length;k++){
+		gameList.innerHTML+= wList[k]+"<p>";
+	}
 }
 var cont=document.getElementById("container");
 cont.innerHTML="Click to begin";
