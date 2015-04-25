@@ -425,6 +425,7 @@ function update(){
 	var idToLoad=selector.options[selector.selectedIndex].id;
 
 	loadWall(idToLoad);
+	selector.style.visibility="hidden";
 
 
 
