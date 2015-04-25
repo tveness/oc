@@ -15,16 +15,24 @@ xmlhttp.open("GET","data/walls.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 walls=xmlDoc.getElementsByTagName("wall");
-var wList=[];
 
 var gameList=document.getElementById("gameList");
 
 for(var k=0;k<walls.length;k++){
-	wList.push( walls[k].getAttribute("wallNo") );
+	var wallnum=walls[k].getAttribute("wallNo");
+	var gameType=walls[k].getAttribute("type");
+	var cBy=walls[k].getAttribute("createdBy");
+	var title="";
+	if(gameType=="playalong"){
+		title=cBy;
+	}
+	else{
+		title=cBy+" "+wallNum;
+	}
+	gameList.innerHTML+="<option id='"+wallnum+"'>"+title+"</option>";
 }
 
 for(var k=0;k<wList.length;k++){
-	gameList.innerHTML+= wList[k];
 	gameList.innerHTML+= "<p>";
 }
 
