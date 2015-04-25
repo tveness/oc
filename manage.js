@@ -31,7 +31,7 @@ for(var k=0;k<walls.length;k++){
 	var gameType=walls[k].getAttribute("type");
 	var cBy=walls[k].getAttribute("createdBy");
 	var title="";
-	wallFiles+="'"+wallnum+"':"+"'"+filename+"',";
+	wallFiles+="'"+wallnum+"':"+"'"+fileName+"',";
 	if(gameType=="playalong"){
 		title=cBy;
 	}
