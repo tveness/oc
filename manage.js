@@ -15,7 +15,7 @@ xmlhttp.open("GET","data/walls.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 walls=xmlDoc.getElementsByTagName("wall");
-wlist=[];
+var wlist=[];
 
 var gameList=document.getElementById("gameList");
 
@@ -375,8 +375,6 @@ function update(){
 	gu.innerHTML="Give up";
 	gu.classList.add("giveup");
 	gu.addEventListener("click",solveRemainder);
-
-
 
 }
 var cont=document.getElementById("container");
