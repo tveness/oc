@@ -32,11 +32,6 @@ for(var k=0;k<walls.length;k++){
 	gameList.innerHTML+="<option id='"+wallnum+"'>"+title+"</option>";
 }
 
-for(var k=0;k<wList.length;k++){
-	gameList.innerHTML+= "<p>";
-}
-
-
 
 
 
