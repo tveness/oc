@@ -9,7 +9,14 @@ var nums=[];
 var timeLeft=151;
 var timer;
 var points=0;
+var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
+var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "SWORDS,blades", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR,animals,lord of the rings"}, "ideal": {"la": "Types of sword", "lb": "_____ tooth", "lc": "People featured on US bank notes", "ld": "Animals from Lord of the Rings" }}' );
+var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
 
+var wallFiles="{";
+
+
+//Build list of Walls
 var xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET","data/walls.xml",false);
 xmlhttp.send();
@@ -20,9 +27,11 @@ var gameList=document.getElementById("gameList");
 
 for(var k=0;k<walls.length;k++){
 	var wallnum=walls[k].getAttribute("wallNo");
+	var fileName=walls[k].gettAttribute("filename");
 	var gameType=walls[k].getAttribute("type");
 	var cBy=walls[k].getAttribute("createdBy");
 	var title="";
+	wallFiles+="'"+wallnum+"':"+"'"+filename+"',";
 	if(gameType=="playalong"){
 		title=cBy;
 	}
@@ -30,6 +39,42 @@ for(var k=0;k<walls.length;k++){
 		title=cBy+" "+wallnum;
 	}
 	gameList.innerHTML+="<option id='"+wallnum+"'>"+title+"</option>";
+}
+wallFiles+="}";
+
+var wallFileData=JSON.parse(wallFiles);
+
+function loadWall(id){
+	var xmlhttp2=new XMLHttpRequest();
+	xmlhttp2.open("GET","data/"+wallFileData[parseInt(id)],false);
+	xmlhttp2.send();
+	var xmlDoc2=xmlhttp2.responseXML;
+	var clueList=xmlDoc2.getElementsByTagName("gridItem");
+
+	var a1=clueList[0].getAttribute("answer");
+	var a2=clueList[1].getAttribute("answer");
+	var a3=clueList[2].getAttribute("answer");
+	var a4=clueList[3].getAttribute("answer");
+	
+	var b1=clueList[4].getAttribute("answer");
+	var b2=clueList[5].getAttribute("answer");
+	var b3=clueList[6].getAttribute("answer");
+	var b4=clueList[7].getAttribute("answer");
+
+	var c1=clueList[8].getAttribute("answer");
+	var c2=clueList[9].getAttribute("answer");
+	var c3=clueList[10].getAttribute("answer");
+	var c4=clueList[11].getAttribute("answer");
+
+
+	var d1=clueList[12].getAttribute("answer");
+	var d2=clueList[13].getAttribute("answer");
+	var d3=clueList[14].getAttribute("answer");
+	var d4=clueList[15].getAttribute("answer");
+var data= JSON.parse('{ "clues":{	"a1": 	"'+a1+'", "a2":   "'+a2+'"", "a3":   "'+a3+'", "a4":   "'+a4+'", "b1": 	"'+b1+'", "b2": 	"'+b2+'",	"b3": 	"'+b3+'", "b4": 	"'+b4+'", "c1": 	"'+c1+'", "c2": 	"'+c2+'", "c3": 	"'+c3+'", "c4": 	"'+c4+'", "d1": 	"'+d1+'", "d2": 	"'+d2+'", "d3": 	"'+d3+'", "d4": 	"'+d4+'"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
+
+
+
 }
 
 
@@ -323,12 +368,8 @@ function getGridSize(){
 	return allGridCells.length;
 }
 
-var data= JSON.parse('{ "clues":{"a1": 	"a1e", "a2":   "a2e", "a3":   "a3", "a4":   "a4", "b1": 	"b1", "b2": 	"b2", "b3": 	"b3", "b4": 	"b4", "c1": 	"c1", "c2": 	"c2", "c3": 	"c3", "c4": 	"c4", "d1": 	"d1", "d2": 	"d2", "d3": 	"d3", "d4": 	"d4"}, "links":{ "l1":   "l1", "l2":   "l2", "l3":   "l3", "l4":   "l4"} }' );
 
 
-var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
-var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "SWORDS,blades", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR,animals,lord of the rings"}, "ideal": {"la": "Types of sword", "lb": "_____ tooth", "lc": "People featured on US bank notes", "ld": "Animals from Lord of the Rings" }}' );
-var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
 
 
 
@@ -378,6 +419,14 @@ function update(){
 	gu.innerHTML="Give up";
 	gu.classList.add("giveup");
 	gu.addEventListener("click",solveRemainder);
+
+	var selector=document.getElementById("gameList");
+	
+	var idToLoad=selector.options[selector.selectedIndex].id;
+
+	loadWall(idToLoad);
+
+
 
 }
 var cont=document.getElementById("container");

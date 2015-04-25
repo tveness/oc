@@ -260,3 +260,9 @@ backgroud: rgba(238,228,218,0.5); }
 	-webkit-transform: translate(884px,378px);
 	transform: translate(884px,378px);
 }
+
+
+
+.selector{
+	position: absolute;
+}
