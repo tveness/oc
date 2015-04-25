@@ -9,11 +9,12 @@ var nums=[];
 var timeLeft=151;
 var timer;
 var points=0;
-var data= JSON.parse('{ "clues":{"a1": 	"swan", "a2":   "rose", "a3":   "national", "a4":   "globe", "b1": 	"theft", "b2": 	"total", "b3": 	"piano", "b4": 	"master", "c1": 	"blackwood", "c2": 	"trump", "c3": 	"kibitzer", "c4": 	"slam", "d1": 	"carp", "d2": 	"bull", "d3": 	"bid", "d4": 	"tick"}, "links":{ "la":   "Theatres", "lb":   "Grand", "lc":   "Bridge", "ld":   "___et"} }' );
-var data= JSON.parse('{ "clues":{	"a1": 	"bilbo", "a2":   "foil", "a3":   "rapier", "a4":   "epee", "b1": 	"buck", "b2": 	"saw",	"b3": 	"sweet", "b4": 	"sabre", "c1": 	"washington", "c2": 	"hamilton", "c3": 	"jackson", "c4": 	"franklin", "d1": 	"bill", "d2": 	"shadowfax", "d3": 	"shelob", "d4": 	"watcher"}, "links":{	"la":   "SWORDS,blades", "lb":   "tooth", "lc":   "US notes", "ld":   "LOTR,animals,lord of the rings"}, "ideal": {"la": "Types of sword", "lb": "_____ tooth", "lc": "People featured on US bank notes", "ld": "Animals from Lord of the Rings" }}' );
+var data;
 var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
-
-var wallFiles="{";
+var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
+var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
+var data= JSON.parse('{ "clues":{	"a1": 	"eye", "a2":   "drain", "a3":   "perfect", "a4":   "teacups", "b1": 	"redder", "b2": 	"sexes",	"b3": 	"naan", "b4": 	"level", "c1": 	"ciabatta", "c2": 	"crumpet", "c3": 	"matzo", "c4": 	"vienna", "d1": 	"paris", "d2": 	"versailles", "d3": 	"lisbon", "d4": 	"rome"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
+var wallFiles='{';
 
 
 //Build list of Walls
@@ -31,25 +32,53 @@ for(var k=0;k<walls.length;k++){
 	var gameType=walls[k].getAttribute("type");
 	var cBy=walls[k].getAttribute("createdBy");
 	var title="";
-	wallFiles+="'"+wallnum+"':"+"'"+fileName+"',";
+	wallFiles+= '"' + wallnum + '":"'+fileName;
+	if(k==walls.length-1){
+		wallFiles+='"}';
+	}
+	else{
+		wallFiles+='",';
+	}
+
 	if(gameType=="playalong"){
 		title=cBy;
+
 	}
 	else{
 		title=cBy+" "+wallnum;
 	}
 	gameList.innerHTML+="<option id='"+wallnum+"'>"+title+"</option>";
 }
-wallFiles+="}";
+
+
 
 var wallFileData=JSON.parse(wallFiles);
 
 function loadWall(id){
+	console.log("Loading wall #"+id);
+	console.log("Filename :data/"+wallFileData[parseInt(id)]);
+
 	var xmlhttp2=new XMLHttpRequest();
 	xmlhttp2.open("GET","data/"+wallFileData[parseInt(id)],false);
 	xmlhttp2.send();
 	var xmlDoc2=xmlhttp2.responseXML;
+
 	var clueList=xmlDoc2.getElementsByTagName("gridItem");
+
+	var modelList=xmlDoc2.getElementsByTagName("modelAnswer");
+	var model1=modelList[0].childNodes[0].nodeValue;
+	console.log("Model ans 1: "+model1);
+	var model2=modelList[1].childNodes[0].nodeValue;
+	var model3=modelList[2].childNodes[0].nodeValue;
+	var model4=modelList[3].childNodes[0].nodeValue;
+
+	var ansList=xmlDoc2.getElementsByTagName("list1");
+	var ans1=ansList[0].childNodes[0].nodeValue;
+	var ans2=ansList[1].childNodes[0].nodeValue;
+	var ans3=ansList[2].childNodes[0].nodeValue;
+	var ans4=ansList[3].childNodes[0].nodeValue;
+
+
 
 	var a1=clueList[0].getAttribute("answer");
 	var a2=clueList[1].getAttribute("answer");
@@ -71,7 +100,13 @@ function loadWall(id){
 	var d2=clueList[13].getAttribute("answer");
 	var d3=clueList[14].getAttribute("answer");
 	var d4=clueList[15].getAttribute("answer");
-var data= JSON.parse('{ "clues":{	"a1": 	"'+a1+'", "a2":   "'+a2+'"", "a3":   "'+a3+'", "a4":   "'+a4+'", "b1": 	"'+b1+'", "b2": 	"'+b2+'",	"b3": 	"'+b3+'", "b4": 	"'+b4+'", "c1": 	"'+c1+'", "c2": 	"'+c2+'", "c3": 	"'+c3+'", "c4": 	"'+c4+'", "d1": 	"'+d1+'", "d2": 	"'+d2+'", "d3": 	"'+d3+'", "d4": 	"'+d4+'"}, "links":{	"la":   "storm", "lb":   "palindromes,palindromic", "lc":   "bread,dough", "ld":   "treaty,treaties"}, "ideal": {"la": "Relating to storms", "lb": "Palindromic words", "lc": "Types of bread", "ld": "Treaty of _____" }}' );
+	console.log("d1: "+d1);
+	console.log("d2: "+d2);
+	console.log("d3: "+d3);
+	console.log("d4: "+d4);
+
+
+	data= JSON.parse('{ "clues":{"a1":  "'+a1+'", "a2":   "'+a2+'", "a3":   "'+a3+'", "a4":   "'+a4+'", "b1":  "'+b1+'", "b2":  "'+b2+'", "b3":  "'+b3+'", "b4":  "'+b4+'", "c1":  "'+c1+'", "c2":  "'+c2+'", "c3":  "'+c3+'", "c4":  "'+c4+'", "d1":  "'+d1+'", "d2":  "'+d2+'", "d3":  "'+d3+'", "d4":  "'+d4+'"}, "links":{ "la":   "'+ans1+'", "lb":   "'+ans2+'", "lc":   "'+ans3+'", "ld":   "'+ans4+'"}, "ideal": {"la": "'+model1+'", "lb": "'+model2+'", "lc": "'+model3+'", "ld": "'+model4+'" }}' );
 
 
 
@@ -374,6 +409,16 @@ function getGridSize(){
 
 
 function update(){
+	var selector=document.getElementById("gameList");
+	
+	var idToLoad=selector.options[selector.selectedIndex].id;
+
+	loadWall(idToLoad);
+	selector.style.visibility="hidden";
+
+
+
+
 	nums=shuffle([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15])
 	for(var k in data.clues){
 		clueListClean.push(k);
@@ -420,12 +465,6 @@ function update(){
 	gu.classList.add("giveup");
 	gu.addEventListener("click",solveRemainder);
 
-	var selector=document.getElementById("gameList");
-	
-	var idToLoad=selector.options[selector.selectedIndex].id;
-
-	loadWall(idToLoad);
-	selector.style.visibility="hidden";
 
 
 
