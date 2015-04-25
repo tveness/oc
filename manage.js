@@ -15,7 +15,7 @@ xmlhttp.open("GET","data/walls.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 walls=xmlDoc.getElementsByTagName("wall");
-var wlist=[];
+var wList=[];
 
 var gameList=document.getElementById("gameList");
 
