@@ -20,7 +20,7 @@ var wList=[];
 var gameList=document.getElementById("gameList");
 
 for(var k=0;k<walls.length;k++){
-	wlist.push( walls[k].getAttribute("wallNo") );
+	wList.push( walls[k].getAttribute("wallNo") );
 }
 
 for(var k=0;k<wList.length;k++){
