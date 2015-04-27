@@ -10,7 +10,6 @@ font-size: 18px; }
 
 .grid-container {
   z-index: 1;
-  position: relative;
 backgroud: rgba(238,228,218,0.5); }
 
 .grid-row {
